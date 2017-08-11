@@ -9,3 +9,5 @@ Set up the development environment with Expo.
 Initial impressions are positive, seems easy enough to get started.
 
 Will try building a simple UI tomorrow.
+
+Encountered some issues with component styling in React Native, need to investigate more.
