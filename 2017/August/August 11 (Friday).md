@@ -11,3 +11,5 @@ Initial impressions are positive, seems easy enough to get started.
 Will try building a simple UI tomorrow.
 
 Encountered some issues with component styling in React Native, need to investigate more.
+
+Read about using Redux with React Native for state management, looks promising.
