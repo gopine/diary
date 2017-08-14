@@ -9,3 +9,5 @@ Spent the morning researching different recipe APIs.
 Found one that seems to have good documentation and a generous free tier.
 
 Successfully fetched data from the recipe API and displayed it in the app.
+
+Need to figure out how to handle images properly in React Native.
