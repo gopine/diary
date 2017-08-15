@@ -7,3 +7,5 @@ Learned about filtering arrays in JavaScript.
 Got the search working, but it's not very efficient.
 
 Will need to optimize it later.
+
+Thinking about adding user authentication to the recipe app.
