@@ -7,3 +7,5 @@ Seems like a good option for handling user authentication and data storage.
 Set up a Firebase project and integrated it with the recipe app.
 
 Successfully implemented user registration and login.
+
+Added basic profile functionality to the app.
