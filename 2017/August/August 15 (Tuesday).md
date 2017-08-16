@@ -9,3 +9,5 @@ Got the search working, but it's not very efficient.
 Will need to optimize it later.
 
 Thinking about adding user authentication to the recipe app.
+
+Researched different user authentication options for React Native.
