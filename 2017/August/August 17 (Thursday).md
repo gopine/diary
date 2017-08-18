@@ -7,3 +7,5 @@ Experimented with different color schemes and layouts.
 Added more details to the recipe cards.
 
 The app is starting to look more polished.
+
+Learned about using vector icons in React Native.
