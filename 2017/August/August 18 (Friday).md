@@ -9,3 +9,5 @@ Animations can really enhance the user experience.
 Will try adding more subtle animations throughout the app.
 
 Animations are harder than I thought, need more practice.
+
+Read up on different animation libraries for React Native.
