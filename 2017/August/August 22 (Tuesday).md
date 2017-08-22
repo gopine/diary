@@ -7,3 +7,5 @@ The idea of building web apps that can be installed on mobile devices is interes
 Read about service workers and the app manifest.
 
 Will try converting a simple website into a PWA.
+
+PWAs seem like a good alternative to native apps in some cases.
