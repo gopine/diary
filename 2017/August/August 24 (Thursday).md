@@ -7,3 +7,5 @@ React, Angular, and Vue.js are the most popular options.
 I've already used React, so I decided to try learning Vue.js.
 
 Vue.js seems simpler and more approachable than Angular.
+
+Vue.js is surprisingly easy to learn.
