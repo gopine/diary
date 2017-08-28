@@ -7,3 +7,5 @@ The CLI makes it easy to set up a new project with all the necessary tools and c
 Generated a new Vue.js project with Vuex and Vue Router.
 
 Ready to start building a more complex application.
+
+Vue CLI makes project setup much easier.
