@@ -7,3 +7,5 @@ Implementing product listings, shopping cart, and checkout functionality.
 Using Vue Router to handle navigation between different pages.
 
 Vue.js is proving to be a good choice for this project.
+
+Routing in Vue.js is straightforward.
