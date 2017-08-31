@@ -7,3 +7,5 @@ Stripe and PayPal are the most popular choices.
 Decided to go with Stripe because it seems easier to integrate.
 
 Set up a Stripe account and integrated it with the website.
+
+Stripe is relatively easy to integrate.
