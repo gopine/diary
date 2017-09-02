@@ -7,3 +7,5 @@ Users can now enter their shipping and billing information and pay for their ord
 The website is almost complete.
 
 Just need to add a few more features.
+
+The e-commerce site is nearing completion.
