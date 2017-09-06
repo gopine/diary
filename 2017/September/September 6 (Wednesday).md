@@ -7,3 +7,5 @@ The function receives an HTTP request and returns a JSON response.
 Deployed the function to AWS.
 
 Successfully invoked the function using a web browser.
+
+AWS Lambda is relatively easy to use.
