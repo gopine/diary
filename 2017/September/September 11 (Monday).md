@@ -7,3 +7,5 @@ The application fetches data from the GraphQL server and displays it in a user i
 GraphQL makes it easy to fetch only the data that is needed for the UI.
 
 This can improve the performance of the application.
+
+GraphQL queries are very flexible.
