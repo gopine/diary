@@ -7,3 +7,5 @@ Authentication and authorization are important considerations.
 Read about using JWTs (JSON Web Tokens) for authentication.
 
 Will try implementing JWT authentication in my GraphQL server.
+
+Securing GraphQL APIs is crucial.
