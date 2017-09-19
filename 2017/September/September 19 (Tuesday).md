@@ -7,3 +7,5 @@ Webpack can bundle all of the JavaScript, CSS, and other assets into a single fi
 This can improve the performance of the application.
 
 Will try using Webpack to bundle my TypeScript project.
+
+Webpack can be a bit complex to configure.
