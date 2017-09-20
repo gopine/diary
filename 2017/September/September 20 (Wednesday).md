@@ -7,3 +7,5 @@ Webpack now bundles all of the TypeScript code, CSS, and other assets into a sin
 This significantly improves the performance of the application.
 
 Webpack is a powerful tool for optimizing web applications.
+
+Webpack improves website performance.
