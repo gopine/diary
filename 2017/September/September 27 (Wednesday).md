@@ -9,3 +9,5 @@ This can help automate the provisioning and configuration of infrastructure.
 Read about Terraform, a popular IaC tool.
 
 Will try using Terraform to provision infrastructure on AWS.
+
+Infrastructure as Code simplifies infrastructure management.
