@@ -7,3 +7,5 @@ Created a Terraform configuration that defines the infrastructure for my Kuberne
 Terraform automatically provisioned the infrastructure on AWS.
 
 IaC simplifies the management of infrastructure.
+
+Terraform automates infrastructure provisioning.
