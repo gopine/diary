@@ -7,3 +7,5 @@ Next.js handles all of the server-side rendering logic automatically.
 The application is now faster and more SEO-friendly.
 
 Server-side rendering is a valuable technique for optimizing React applications.
+
+Next.js simplifies server-side rendering.
