@@ -7,3 +7,5 @@ Redux and MobX are the most popular options.
 I have experience with Redux, so I decided to try learning MobX.
 
 MobX seems simpler and more reactive than Redux.
+
+MobX offers a reactive approach to state management.
