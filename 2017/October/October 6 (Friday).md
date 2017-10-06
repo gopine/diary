@@ -5,3 +5,5 @@ Built a simple application using ReasonML.
 ReasonML has a steep learning curve, but it provides powerful features for building reliable and maintainable applications.
 
 ReasonML is a promising new language for web development.
+
+ReasonML has a steep initial learning curve.
