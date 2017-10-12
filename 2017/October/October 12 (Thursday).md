@@ -7,3 +7,5 @@ Implemented several image processing algorithms in C++.
 Compiled the C++ code to WebAssembly using Emscripten.
 
 The image processing library is now significantly faster than the equivalent JavaScript library.
+
+WebAssembly enables high-performance image processing in the browser.
