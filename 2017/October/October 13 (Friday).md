@@ -5,3 +5,5 @@ Started learning about Flutter, a UI toolkit for building natively compiled appl
 Flutter is developed by Google and uses the Dart programming language.
 
 Will try building a simple mobile application using Flutter.
+
+Flutter promises cross-platform development with native performance.
