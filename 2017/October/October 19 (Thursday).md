@@ -7,3 +7,5 @@ AnimatedBuilder and Hero are popular options.
 I decided to try using AnimatedBuilder.
 
 AnimatedBuilder makes it easy to create complex animations in Flutter.
+
+AnimatedBuilder enhances animations within Flutter apps.
