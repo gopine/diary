@@ -7,3 +7,5 @@ Recipes are now stored in Firestore.
 Users can create, read, update, and delete recipes.
 
 Firestore provides a scalable and reliable database for Flutter applications.
+
+Firestore is useful for managing remote application data.
