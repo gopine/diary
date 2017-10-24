@@ -3,3 +3,5 @@
 Started learning about the MERN stack (MongoDB, Express.js, React, Node.js).
 
 It is a common Javascript based full-stack.
+
+The MERN stack allows for rapid web development.
