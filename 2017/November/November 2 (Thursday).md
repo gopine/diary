@@ -7,3 +7,5 @@ Understanding how actions flow through the store is key.
 Need to improve error handling.
 
 Thinking about using immutable data structures.
+
+Looked into Immutable.js for Redux state management.
