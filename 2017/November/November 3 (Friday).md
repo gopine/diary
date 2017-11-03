@@ -9,3 +9,5 @@ The performance aspect is something to keep an eye on.
 Also need to test it with different browsers.
 
 Experimented with styled-components theming.
+
+Finished setting up the basic styled-components.
