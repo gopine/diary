@@ -7,3 +7,5 @@ It allows for better component encapsulation.
 The performance aspect is something to keep an eye on.
 
 Also need to test it with different browsers.
+
+Experimented with styled-components theming.
