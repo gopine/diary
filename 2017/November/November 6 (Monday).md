@@ -9,3 +9,5 @@ Need to set up a proper testing environment.
 Writing tests first might be beneficial.
 
 Configured Jest for testing.
+
+Wrote unit tests for a few React components.
