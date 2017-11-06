@@ -7,3 +7,5 @@ Enzyme and Jest appear to be good choices.
 Need to set up a proper testing environment.
 
 Writing tests first might be beneficial.
+
+Configured Jest for testing.
