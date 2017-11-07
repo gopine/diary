@@ -7,3 +7,5 @@ The ability to request specific data is appealing.
 Apollo Client seems like a good integration choice.
 
 Need to learn the GraphQL schema language.
+
+Read about GraphQL schema design principles.
