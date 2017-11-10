@@ -9,3 +9,5 @@ Loaders and plugins add extra functionality.
 Complex configuration can be challenging.
 
 Customized Webpack configurations.
+
+Optimized webpack build times with code splitting.
