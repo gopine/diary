@@ -7,3 +7,5 @@ Focused on improving mobile site loading times.
 Google AMP cache could speed things up.
 
 Considering the limitations of AMP HTML.
+
+Validating AMP pages.
