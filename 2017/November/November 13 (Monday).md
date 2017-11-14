@@ -9,3 +9,5 @@ Google AMP cache could speed things up.
 Considering the limitations of AMP HTML.
 
 Validating AMP pages.
+
+Added AMP support to a few blog posts.
