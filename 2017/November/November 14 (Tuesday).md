@@ -9,3 +9,5 @@ Handling potential data loss in offline mode.
 Need to test this thoroughly.
 
 Successfully tested analytics data storing.
+
+Investigated background sync api to avoid data loss.
