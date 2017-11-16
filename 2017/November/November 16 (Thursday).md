@@ -7,3 +7,5 @@ Used with WebSockets to create a bi-directional connection.
 Implementing authentication and authorization for subscriptions.
 
 Need to research the best libraries for this.
+
+Configured a sample graphql server with subscriptions.
