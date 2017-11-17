@@ -7,3 +7,5 @@ A type-safe alternative to JavaScript.
 Interoperability with existing JavaScript code.
 
 Need to consider the learning curve.
+
+Compiled reasonML to javascript.
