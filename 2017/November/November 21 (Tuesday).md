@@ -9,3 +9,5 @@ Integration with API Gateway for creating APIs.
 Need to understand pricing and limitations.
 
 Wrote a simple Lambda function in JavaScript.
+
+Configured API Gateway to trigger the Lambda function.
