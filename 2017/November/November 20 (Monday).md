@@ -9,3 +9,5 @@ Using ARIA attributes to enhance screen reader compatibility.
 Need to test with assistive technologies.
 
 Using lighthouse to test A11y.
+
+Fixed several A11y issues.
