@@ -9,3 +9,5 @@ Reactivity without a virtual DOM.
 Considering its use for new projects.
 
 Built a simple counter app with Svelte.
+
+Learned about Svelte component lifecycle.
