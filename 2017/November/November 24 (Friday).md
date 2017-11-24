@@ -7,3 +7,5 @@ Component compilation and small bundle sizes.
 Reactivity without a virtual DOM.
 
 Considering its use for new projects.
+
+Built a simple counter app with Svelte.
