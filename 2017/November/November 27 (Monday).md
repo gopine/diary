@@ -7,3 +7,5 @@ Mitigating cross-site scripting (XSS) attacks.
 Carefully configuring CSP directives.
 
 Testing the CSP implementation thoroughly.
+
+Setup basic CSP policy.
