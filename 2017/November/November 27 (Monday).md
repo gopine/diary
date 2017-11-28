@@ -9,3 +9,5 @@ Carefully configuring CSP directives.
 Testing the CSP implementation thoroughly.
 
 Setup basic CSP policy.
+
+Tuned CSP policy for different environments.
