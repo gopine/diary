@@ -9,3 +9,5 @@ Increased security and improved user experience.
 Need to understand browser support and security implications.
 
 Read about passwordless technologies.
+
+Studied more about the Web Authentication API.
