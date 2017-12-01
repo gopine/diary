@@ -9,3 +9,5 @@ Evaluating which approach suits our current and future project needs.
 Need to factor in the team's expertise and project constraints.
 
 Created a comparison table between GraphQL and REST.
+
+Discussed the results of comparison with the team.
