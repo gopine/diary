@@ -9,3 +9,5 @@ Implementing error handling and reconnect logic.
 Need to compare it with WebSockets for specific use cases.
 
 Configured a basic SSE server.
+
+Implemented the SSE client.
