@@ -9,3 +9,5 @@ Using tools like SonarQube for static analysis.
 Need to encourage a culture of continuous improvement and knowledge sharing.
 
 Set up SonarQube.
+
+Analyzed sample code with SonarQube.
