@@ -9,3 +9,5 @@ Using tools like Lerna to manage the monorepo.
 Need to consider the potential complexities and challenges of this approach.
 
 Setup Lerna in a new repo.
+
+Configured packages and dependecies.
