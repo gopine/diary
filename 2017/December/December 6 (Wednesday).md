@@ -7,3 +7,5 @@ Breaking down the frontend into smaller, independent applications.
 Using different frameworks and technologies for different micro frontends.
 
 Need to consider communication and integration strategies.
+
+Researched different micro frontend architecture patterns.
