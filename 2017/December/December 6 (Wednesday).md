@@ -9,3 +9,5 @@ Using different frameworks and technologies for different micro frontends.
 Need to consider communication and integration strategies.
 
 Researched different micro frontend architecture patterns.
+
+Decided on single-spa to combine micro frontends.
