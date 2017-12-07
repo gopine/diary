@@ -7,3 +7,5 @@ Staying up-to-date with the latest versions of popular libraries and frameworks.
 Trying out new tools and technologies.
 
 Need to balance exploration with practical application.
+
+Checked github trending repositories.
