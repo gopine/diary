@@ -9,3 +9,5 @@ Using mocking and stubbing techniques to isolate components.
 Need to ensure tests are fast and reliable.
 
 Improved mocking setup.
+
+Added unit tests to a module without it previously.
