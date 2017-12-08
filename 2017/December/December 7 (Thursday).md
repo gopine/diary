@@ -9,3 +9,5 @@ Trying out new tools and technologies.
 Need to balance exploration with practical application.
 
 Checked github trending repositories.
+
+Added a few tools to a "watch" list.
