@@ -7,3 +7,5 @@ Aiming for high code coverage and writing meaningful tests.
 Using mocking and stubbing techniques to isolate components.
 
 Need to ensure tests are fast and reliable.
+
+Improved mocking setup.
