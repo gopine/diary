@@ -7,3 +7,5 @@ Automating the build, testing, and deployment processes.
 Using tools like Jenkins or GitLab CI.
 
 Need to ensure our CI/CD pipeline is fast, reliable, and secure.
+
+Configured a test pipeline.
