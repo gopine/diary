@@ -9,3 +9,5 @@ Need to understand the browser support and server-side configuration requirement
 Considering the potential benefits for our performance-sensitive applications.
 
 Checked browser support for HTTP/3.
+
+Studied articles about HTTP/3 and QUIC.
