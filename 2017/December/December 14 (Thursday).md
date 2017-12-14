@@ -9,3 +9,5 @@ Protecting user privacy and data security.
 Need to address these ethical concerns in our AI-powered applications.
 
 Discussed ethics with the team.
+
+Started researching algorithmic bias.
