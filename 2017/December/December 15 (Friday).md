@@ -9,3 +9,5 @@ Manually testing with screen readers like NVDA and VoiceOver.
 Need to ensure our websites are accessible to users with disabilities.
 
 Used aXe on the website.
+
+Manually tested the website with a screen reader.
