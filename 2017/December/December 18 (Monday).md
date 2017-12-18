@@ -7,3 +7,5 @@ Using tools like New Relic or Datadog to track key performance metrics.
 Setting up alerts to notify us of performance issues.
 
 Need to proactively identify and resolve performance problems.
+
+Configured new relic.
