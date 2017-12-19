@@ -9,3 +9,5 @@ Setting up alerts to notify us of performance issues.
 Need to proactively identify and resolve performance problems.
 
 Configured new relic.
+
+Setup alerts on key indicators.
