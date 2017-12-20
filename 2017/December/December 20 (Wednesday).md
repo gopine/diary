@@ -9,3 +9,5 @@ Need to understand the data modeling and query capabilities of these databases.
 Considering using serverless databases for new projects.
 
 Created tables in dynamodb.
+
+Checked query capabilities.
