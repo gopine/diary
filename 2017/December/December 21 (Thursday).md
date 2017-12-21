@@ -7,3 +7,5 @@ Staying up-to-date with new vulnerabilities and attack vectors.
 Implementing security best practices and using security testing tools.
 
 Need to ensure our websites and applications are secure.
+
+Reviewed potential attacks on the OWASP page.
