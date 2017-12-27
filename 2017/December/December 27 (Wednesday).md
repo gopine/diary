@@ -9,3 +9,5 @@ Using APIs to communicate between services.
 Need to consider the challenges of managing and deploying microservices.
 
 Drew the design of the microservices architecture.
+
+Researched how the services should communicate.
