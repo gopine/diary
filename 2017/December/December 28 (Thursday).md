@@ -9,3 +9,5 @@ Attending conferences and workshops.
 Need to continuously learn and improve our skills.
 
 Added web development blogs to an RSS reader.
+
+Checked the articles on the RSS reader.
