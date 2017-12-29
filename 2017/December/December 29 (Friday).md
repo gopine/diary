@@ -9,3 +9,5 @@ Writing unit tests to ensure the code is working correctly.
 Need to gradually refactor our legacy code and reduce technical debt.
 
 Refactored an old javascript function.
+
+Added unit tests for the refactored function.
