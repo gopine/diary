@@ -7,3 +7,5 @@ Improving the readability and maintainability of our codebase.
 Writing unit tests to ensure the code is working correctly.
 
 Need to gradually refactor our legacy code and reduce technical debt.
+
+Refactored an old javascript function.
