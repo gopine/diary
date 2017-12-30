@@ -7,3 +7,5 @@ Using service workers to enable offline access and push notifications.
 Adding a manifest file to make the app installable.
 
 Need to explore the different PWA features and best practices.
+
+Generated the manifest file.
