@@ -9,3 +9,5 @@ Ensuring consistency and portability across different environments.
 Need to learn more about Docker and Kubernetes.
 
 Configured docker for a legacy app.
+
+Deployed the app with docker compose.
