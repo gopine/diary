@@ -7,3 +7,5 @@ Creating Docker images for our applications and deploying them to a container or
 Ensuring consistency and portability across different environments.
 
 Need to learn more about Docker and Kubernetes.
+
+Configured docker for a legacy app.
