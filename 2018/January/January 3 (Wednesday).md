@@ -7,3 +7,5 @@ Compiling code written in other languages to WebAssembly and running it in the b
 Using WebAssembly for computationally intensive tasks.
 
 Need to understand the limitations of WebAssembly and its integration with JavaScript.
+
+Created a simple WASM module in C.
