@@ -9,3 +9,5 @@ Using WebAssembly for computationally intensive tasks.
 Need to understand the limitations of WebAssembly and its integration with JavaScript.
 
 Created a simple WASM module in C.
+
+Imported the wasm module to javascript.
