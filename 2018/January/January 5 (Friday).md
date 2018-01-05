@@ -7,3 +7,5 @@ Building independent and deployable frontend applications.
 Using different frameworks and technologies for different micro frontends.
 
 Need to consider the challenges of communication and integration between micro frontends.
+
+Planned the routes between the micro frontends.
