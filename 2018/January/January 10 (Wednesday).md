@@ -9,3 +9,5 @@ Considering migrating the blog section to leverage this.
 Need to benchmark it against our current setup to justify the effort.
 
 Hoping this will improve our SEO.
+
+Next.js integration looks good so far.
