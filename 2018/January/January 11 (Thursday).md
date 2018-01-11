@@ -9,3 +9,5 @@ Investigating how to integrate it with our existing backend.
 Seems complex but necessary for a better user experience.
 
 Subscription setup with Apollo Client is proving to be challenging.
+
+Made progress on the GraphQL subscription implementation.
