@@ -7,3 +7,5 @@ The component-level styling approach is appealing.
 Thinking of trying it out in a small feature.
 
 This could really clean up our CSS.
+
+Styled-components seem promising.
