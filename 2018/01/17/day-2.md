@@ -1,0 +1,1 @@
+The component-level styling approach is appealing.
