@@ -1,0 +1,7 @@
+# January 18, 2018
+
+Exploring serverless functions with AWS Lambda.
+
+Deploying simple API endpoints without managing servers is appealing.
+
+Experimenting with Node.js and Python runtimes.
