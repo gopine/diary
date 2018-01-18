@@ -7,3 +7,5 @@ The functional approach is interesting.
 Considering its learning curve and integration challenges.
 
 ReasonML looks powerful, but the learning curve is steep.
+
+Still evaluating ReasonML for future projects.
