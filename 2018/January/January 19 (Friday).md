@@ -5,3 +5,5 @@ Investigating the use of WebAssembly for performance-critical parts of the appli
 Potentially offloading some heavy calculations to the client.
 
 Experimenting with Rust and AssemblyScript.
+
+WebAssembly is a complex but promising technology.
