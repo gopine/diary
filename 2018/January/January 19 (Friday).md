@@ -7,3 +7,5 @@ Potentially offloading some heavy calculations to the client.
 Experimenting with Rust and AssemblyScript.
 
 WebAssembly is a complex but promising technology.
+
+Need more time to properly evaluate the performance benefits of WebAssembly.
