@@ -7,3 +7,5 @@ Using Webpack's dynamic imports to split the application into smaller chunks.
 Analyzing the impact on performance metrics.
 
 Code splitting with Webpack seems promising.
+
+The initial load time has decreased significantly after implementing code splitting.
