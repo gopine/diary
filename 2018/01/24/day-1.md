@@ -1,0 +1,1 @@
+Investigating the benefits of code splitting for reducing the initial load time.
