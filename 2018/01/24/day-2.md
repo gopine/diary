@@ -1,0 +1,1 @@
+Using Webpack's dynamic imports to split the application into smaller chunks.
