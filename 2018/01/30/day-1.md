@@ -1,0 +1,1 @@
+Exploring the use of Sketch and Figma for designing the new homepage.
