@@ -1,0 +1,1 @@
+Investigating the performance implications of different image formats.
