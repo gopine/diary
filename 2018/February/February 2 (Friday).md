@@ -7,3 +7,5 @@ Wanting to improve the maintainability and consistency of our CSS.
 Defining variables for colors, fonts, and spacing.
 
 CSS variables are a game-changer for CSS maintainability.
+
+Using CSS variables extensively in the homepage redesign.
