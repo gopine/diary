@@ -7,3 +7,5 @@ Analyzing the data and tracking key metrics.
 Identifying areas for improvement.
 
 A/B testing is providing valuable insights.
+
+Analyzing the A/B testing data.
