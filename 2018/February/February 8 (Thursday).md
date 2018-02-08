@@ -5,3 +5,5 @@ Discussing the results of the A/B tests with the team.
 Making decisions based on the data.
 
 Planning the next steps for the homepage redesign.
+
+The A/B test results are promising.
