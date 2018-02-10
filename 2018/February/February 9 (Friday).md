@@ -7,3 +7,5 @@ Refining the design and improving the user experience.
 Preparing for the final launch of the new homepage.
 
 Implementing the final changes to the homepage redesign.
+
+The new homepage is almost ready for launch.
