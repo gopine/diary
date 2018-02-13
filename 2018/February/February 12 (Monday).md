@@ -7,3 +7,5 @@ Final checks and testing.
 Ensuring a smooth transition for users.
 
 Final checks before launching the new homepage.
+
+The new homepage is launched.
