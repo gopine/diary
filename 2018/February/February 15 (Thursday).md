@@ -7,3 +7,5 @@ Building a simple chat application as a proof of concept.
 Using libraries like Socket.IO.
 
 WebSockets are essential for real-time applications.
+
+Implemented a basic chat application using WebSockets.
