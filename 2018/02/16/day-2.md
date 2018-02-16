@@ -1,0 +1,1 @@
+Implementing lazy loading and blurred image placeholders.
