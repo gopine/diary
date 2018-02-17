@@ -7,3 +7,5 @@ Implementing lazy loading and blurred image placeholders.
 Improving the perceived performance of image-heavy pages.
 
 Progressive image loading enhances the user experience.
+
+Implemented lazy loading for images on the blog.
