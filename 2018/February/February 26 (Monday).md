@@ -7,3 +7,5 @@ Assessing the impact on our applications and dependencies.
 Updating dependencies and testing thoroughly.
 
 Staying up-to-date with Node.js versions is important.
+
+Planning the Node.js version migration.
