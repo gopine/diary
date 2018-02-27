@@ -7,3 +7,5 @@ Understanding their benefits for deploying and managing applications.
 Creating Docker images and Kubernetes deployments.
 
 Docker simplifies application deployment.
+
+Creating Docker images for our applications.
