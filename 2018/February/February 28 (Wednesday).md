@@ -5,3 +5,5 @@ Investigating the use of Infrastructure as Code (IaC) tools like Terraform and C
 Automating the provisioning and management of infrastructure resources.
 
 Ensuring consistency and repeatability.
+
+Terraform enables Infrastructure as Code.
