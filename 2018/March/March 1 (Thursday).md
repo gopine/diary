@@ -7,3 +7,5 @@ Setting up a CI/CD pipeline using tools like Jenkins and GitLab CI.
 Automating the build, testing, and deployment processes.
 
 CI/CD streamlines the software development lifecycle.
+
+Setting up a CI/CD pipeline with Jenkins.
