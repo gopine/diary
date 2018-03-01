@@ -7,3 +7,5 @@ Automating the provisioning and management of infrastructure resources.
 Ensuring consistency and repeatability.
 
 Terraform enables Infrastructure as Code.
+
+Automating infrastructure provisioning with Terraform.
