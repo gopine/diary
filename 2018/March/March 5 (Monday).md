@@ -7,3 +7,5 @@ Implementing security best practices.
 Addressing potential vulnerabilities.
 
 Website security is paramount.
+
+Improving website security by addressing vulnerabilities.
