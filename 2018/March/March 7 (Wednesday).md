@@ -5,3 +5,5 @@ Investigating the use of authentication and authorization protocols like OAuth a
 Securing our APIs and applications.
 
 Implementing multi-factor authentication.
+
+OAuth provides secure authentication and authorization.
