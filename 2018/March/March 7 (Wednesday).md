@@ -7,3 +7,5 @@ Securing our APIs and applications.
 Implementing multi-factor authentication.
 
 OAuth provides secure authentication and authorization.
+
+Implementing OAuth for securing our APIs.
