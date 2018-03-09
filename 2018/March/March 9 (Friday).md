@@ -7,3 +7,5 @@ Encrypting sensitive data at rest and in transit.
 Implementing key management best practices.
 
 Encryption protects sensitive data.
+
+Encrypting sensitive data at rest and in transit.
