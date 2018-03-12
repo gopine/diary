@@ -1,0 +1,1 @@
+Optimizing the website for mobile devices.
