@@ -7,3 +7,5 @@ Optimizing images and code for smaller screens.
 Implementing responsive design principles.
 
 Mobile performance is crucial for user experience.
+
+Optimizing the website for mobile devices.
