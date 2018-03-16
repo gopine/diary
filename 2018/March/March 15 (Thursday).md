@@ -7,3 +7,5 @@ Designing websites and applications with mobile devices in mind.
 Prioritizing the mobile user experience.
 
 Mobile-first design is essential in today's world.
+
+Designing new features with a mobile-first approach.
