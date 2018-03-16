@@ -7,3 +7,5 @@ Serving different image sizes based on the device screen size.
 Improving loading times and bandwidth usage.
 
 Responsive images optimize image delivery.
+
+Implementing responsive images on the website.
