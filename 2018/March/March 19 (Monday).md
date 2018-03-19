@@ -5,3 +5,5 @@ Back to work, focusing on improving the website's accessibility for users with d
 Implementing accessibility best practices.
 
 Ensuring compliance with WCAG guidelines.
+
+Website accessibility is crucial for inclusivity.
