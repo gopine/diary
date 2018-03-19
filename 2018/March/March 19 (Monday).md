@@ -7,3 +7,5 @@ Implementing accessibility best practices.
 Ensuring compliance with WCAG guidelines.
 
 Website accessibility is crucial for inclusivity.
+
+Improving website accessibility for users with disabilities.
