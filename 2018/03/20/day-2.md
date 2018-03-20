@@ -1,0 +1,1 @@
+Ensuring compliance with WCAG guidelines.
