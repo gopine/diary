@@ -7,3 +7,5 @@ It's pretty standard stuff, but good to have a backend to connect to.
 Thinking about using MongoDB as the database.
 
 Will get started on connecting to the Vue frontend.
+
+The API endpoint is returning data correctly!
