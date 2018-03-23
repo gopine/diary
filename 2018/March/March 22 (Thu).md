@@ -7,3 +7,5 @@ The learning curve isn't too steep so far.
 Thinking about integrating it with a REST API.
 
 Successfully implemented basic routing.
+
+Need to work on error handling tomorrow.
