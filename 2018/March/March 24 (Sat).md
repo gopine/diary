@@ -7,3 +7,5 @@ Trying to get a clean and responsive layout.
 Also started implementing user authentication.
 
 Bootstrap's grid system makes layout much easier.
+
+Almost finished with the basic styling.
