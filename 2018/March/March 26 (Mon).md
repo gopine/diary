@@ -7,3 +7,5 @@ The syntax is a bit different from Vue.
 I need to get used to JSX.
 
 JSX feels a little clunky initially.
+
+Read about React Hooks.
