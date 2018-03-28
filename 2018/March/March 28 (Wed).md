@@ -7,3 +7,5 @@ Seems more complex than Vuex, but powerful.
 Need to understand the reducer concept better.
 
 Redux concepts are starting to click.
+
+Started integrating Redux into the to-do list app.
