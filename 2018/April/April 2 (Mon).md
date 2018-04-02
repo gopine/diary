@@ -5,3 +5,5 @@ Investigated serverless functions with AWS Lambda.
 Trying to create a simple API endpoint.
 
 Deployment process seems a bit convoluted.
+
+AWS Lambda is surprisingly complex.
