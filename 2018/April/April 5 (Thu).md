@@ -7,3 +7,5 @@ It seems even more complex than Docker.
 Need to study it further.
 
 Kubernetes looks really powerful.
+
+Read about Kubernetes deployments.
