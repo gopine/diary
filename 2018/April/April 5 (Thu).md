@@ -5,3 +5,5 @@ Explored Kubernetes for container orchestration.
 It seems even more complex than Docker.
 
 Need to study it further.
+
+Kubernetes looks really powerful.
