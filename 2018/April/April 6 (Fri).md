@@ -1,0 +1,7 @@
+# April 6, 2018
+
+Started learning about GraphQL as an alternative to REST APIs.
+
+The typed schema is appealing.
+
+Thinking about using it for a future project.
