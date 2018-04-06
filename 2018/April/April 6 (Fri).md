@@ -7,3 +7,5 @@ The typed schema is appealing.
 Thinking about using it for a future project.
 
 GraphQL queries are very efficient.
+
+Set up a basic GraphQL server.
