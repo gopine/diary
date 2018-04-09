@@ -5,3 +5,5 @@ Experimented with TypeScript for adding static typing to JavaScript.
 Hoping it will improve code maintainability.
 
 TypeScript adds a lot of value.
+
+Converted a JavaScript file to TypeScript.
