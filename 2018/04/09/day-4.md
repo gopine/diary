@@ -1,0 +1,1 @@
+Converted a JavaScript file to TypeScript.
