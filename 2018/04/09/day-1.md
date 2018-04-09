@@ -1,0 +1,1 @@
+Experimented with TypeScript for adding static typing to JavaScript.
