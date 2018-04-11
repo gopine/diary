@@ -1,0 +1,1 @@
+The type checking helped catch a few errors.
