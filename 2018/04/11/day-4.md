@@ -1,0 +1,1 @@
+Investigated different state management libraries for React besides Redux.
