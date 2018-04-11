@@ -1,0 +1,1 @@
+TypeScript helped catch errors.
