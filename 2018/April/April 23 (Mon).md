@@ -3,3 +3,5 @@
 Investigated different cloud platforms for hosting web applications.
 
 Compared AWS, Azure, and Google Cloud.
+
+Cloud platforms offer many options.
