@@ -3,3 +3,5 @@
 Experimented with different monitoring tools for web applications.
 
 Including Prometheus and Grafana.
+
+Monitoring is essential for production.
