@@ -1,0 +1,1 @@
+WebAssembly is very fast.
