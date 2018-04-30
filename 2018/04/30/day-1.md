@@ -1,0 +1,1 @@
+Looked into different authentication protocols like OAuth 2.0 and OpenID Connect.
