@@ -1,0 +1,1 @@
+Simplifies deployment to AWS Lambda.
