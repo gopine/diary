@@ -1,0 +1,1 @@
+Serverless Framework makes deployment easier.
