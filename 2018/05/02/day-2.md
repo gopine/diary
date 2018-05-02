@@ -1,0 +1,1 @@
+Progressive enhancement improves accessibility.
