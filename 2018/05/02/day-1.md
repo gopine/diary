@@ -1,0 +1,1 @@
+Explored the concept of progressive enhancement and its importance for building accessible web applications.
