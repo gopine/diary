@@ -3,3 +3,5 @@
 Started using Prettier for automatically formatting code.
 
 Improves code consistency.
+
+Prettier enforces code consistency.
