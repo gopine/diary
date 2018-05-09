@@ -3,3 +3,5 @@
 Looked into different strategies for caching web content.
 
 Browser caching and CDN.
+
+Caching improves performance.
