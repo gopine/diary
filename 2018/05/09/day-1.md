@@ -1,0 +1,1 @@
+Looked into different strategies for caching web content.
