@@ -3,3 +3,5 @@
 Started using ESLint for linting JavaScript code.
 
 Improves code quality.
+
+ESLint improves code quality.
