@@ -1,0 +1,1 @@
+Explored the concept of code splitting and lazy loading for improving web application performance.
