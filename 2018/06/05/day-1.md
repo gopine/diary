@@ -1,0 +1,1 @@
+Started using Jest for testing React components.
