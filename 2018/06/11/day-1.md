@@ -1,0 +1,1 @@
+Started using TypeScript for writing JavaScript code.
