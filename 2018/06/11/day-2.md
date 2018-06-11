@@ -1,0 +1,1 @@
+TypeScript improves code maintainability.
