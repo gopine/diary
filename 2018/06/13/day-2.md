@@ -1,0 +1,1 @@
+WebAssembly offers near-native performance.
