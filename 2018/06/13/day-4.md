@@ -1,0 +1,1 @@
+Optimizing WebAssembly code is important.
