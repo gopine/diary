@@ -1,0 +1,1 @@
+Explored the concept of Context API for sharing state across React components.
