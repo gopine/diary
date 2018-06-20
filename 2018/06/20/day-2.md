@@ -1,0 +1,1 @@
+Context API provides a simple way to share state.
