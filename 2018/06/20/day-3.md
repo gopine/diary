@@ -1,0 +1,1 @@
+Looked into different techniques for optimizing React component performance.
