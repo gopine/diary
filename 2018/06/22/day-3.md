@@ -1,0 +1,1 @@
+Docker simplifies deployment and environment management.
