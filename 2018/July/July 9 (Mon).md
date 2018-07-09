@@ -9,3 +9,5 @@ I'm a bit skeptical if it can replace Redux completely.
 Need to dig deeper into performance implications and best practices.
 
 Hope it's not another hype."
+
+"Context API + Hooks seems good enough for small apps."
