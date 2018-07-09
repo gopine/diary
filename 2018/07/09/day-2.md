@@ -1,0 +1,1 @@
+They seem like a cleaner way to manage state and side effects in functional components.
