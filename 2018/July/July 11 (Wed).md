@@ -11,3 +11,5 @@ Also exploring service workers for caching static assets.
 I should probably look into preloading resources, too."
 
 "Webpack config is still a nightmare."
+
+"Lighthouse is my friend."
