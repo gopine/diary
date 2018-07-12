@@ -9,3 +9,5 @@ The cold start time is a bit concerning.
 Need to figure out how to keep the functions warm.
 
 Serverless deployment is pretty neat."
+
+"Went with Python for the lambda function."
