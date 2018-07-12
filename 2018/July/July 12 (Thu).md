@@ -11,3 +11,5 @@ Need to figure out how to keep the functions warm.
 Serverless deployment is pretty neat."
 
 "Went with Python for the lambda function."
+
+"Lambda layers are great."
