@@ -9,3 +9,5 @@ The plugin ecosystem is impressive.
 Considering using it for a documentation website.
 
 Is it good for dynamic data?"
+
+"GraphQL data fetching is nice in Gatsby."
