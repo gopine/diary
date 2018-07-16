@@ -9,3 +9,5 @@ Redux DevTools helped a lot.
 I hate debugging race conditions.
 
 Should write more tests."
+
+"Unit tests saved the day."
