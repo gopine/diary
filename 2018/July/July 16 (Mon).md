@@ -11,3 +11,5 @@ I hate debugging race conditions.
 Should write more tests."
 
 "Unit tests saved the day."
+
+"Learned something about Redux Saga."
