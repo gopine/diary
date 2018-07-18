@@ -9,3 +9,5 @@ Trying to implement a basic design system for a small project.
 Consistency is the key.
 
 The documentation is key too."
+
+"Storybook is useful for design systems."
