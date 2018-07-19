@@ -1,0 +1,1 @@
+"Going headless with Contentful."
