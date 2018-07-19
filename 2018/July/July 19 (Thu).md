@@ -9,3 +9,5 @@ Also experimenting with different themes and keybindings.
 Productivity++! I should also learn some shortcuts."
 
 "Dark theme is the best."
+
+"IntelliSense saves a lot of time."
