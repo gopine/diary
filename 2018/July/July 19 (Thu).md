@@ -7,3 +7,5 @@ Prettier for code formatting and ESLint for linting.
 Also experimenting with different themes and keybindings.
 
 Productivity++! I should also learn some shortcuts."
+
+"Dark theme is the best."
