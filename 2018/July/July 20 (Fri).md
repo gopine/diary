@@ -11,3 +11,5 @@ Thinking about rebuilding my blog using JAMstack.
 Seems like a good alternative to traditional server-side rendering."
 
 "Netlify is awesome."
+
+"Going headless with Contentful."
