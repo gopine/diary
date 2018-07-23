@@ -11,3 +11,5 @@ Managing complexity is key.
 Deployments are also tricky."
 
 "Containers and orchestration are mandatory."
+
+"Kubernetes is complicated."
