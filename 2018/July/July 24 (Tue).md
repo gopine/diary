@@ -11,3 +11,5 @@ Confidence in the code is important.
 Tests should not be flaky."
 
 "Cypress looks great for end-to-end tests."
+
+"Writing more integration tests."
