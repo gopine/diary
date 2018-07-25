@@ -9,3 +9,5 @@ Automating the deployment process and ensuring consistency.
 Version control is a must.
 
 Everything is code."
+
+"Terraform is cool."
