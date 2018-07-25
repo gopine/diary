@@ -11,3 +11,5 @@ Version control is a must.
 Everything is code."
 
 "Terraform is cool."
+
+"State management in Terraform is important."
