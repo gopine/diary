@@ -11,3 +11,5 @@ Two pairs of eyes are better than one.
 Always be nice."
 
 "LGTM!"
+
+"Always add comments in the code."
