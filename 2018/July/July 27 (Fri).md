@@ -11,3 +11,5 @@ Iteration and feedback are key.
 Adapt to change."
 
 "Daily stand-up meetings are important."
+
+"Sprint planning is hard."
