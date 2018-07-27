@@ -9,3 +9,5 @@ Trying to apply Agile principles to a project.
 Iteration and feedback are key.
 
 Adapt to change."
+
+"Daily stand-up meetings are important."
