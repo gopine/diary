@@ -11,3 +11,5 @@ Deployments should be automated.
 Release early, release often."
 
 "Jenkins is old, but still useful."
+
+"Docker is a must."
