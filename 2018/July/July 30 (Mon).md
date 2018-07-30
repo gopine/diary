@@ -11,3 +11,5 @@ Learning a new language is always a challenge.
 Types are important."
 
 "OCaml syntax is weird."
+
+"BuckleScript is fast."
