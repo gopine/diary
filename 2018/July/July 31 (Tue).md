@@ -11,3 +11,5 @@ Fast response is important.
 The future of CDN."
 
 "Cloudflare Workers looks interesting."
+
+"Fastly also offers similar solutions."
