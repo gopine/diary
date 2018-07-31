@@ -9,3 +9,5 @@ Thinking about how to leverage edge computing for real-time applications.
 Fast response is important.
 
 The future of CDN."
+
+"Cloudflare Workers looks interesting."
