@@ -9,3 +9,5 @@ Improving code reuse and consistency.
 Managing dependencies can be tricky.
 
 One repo to rule them all."
+
+"Lerna is useful for monorepos."
