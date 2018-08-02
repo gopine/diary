@@ -11,3 +11,5 @@ Documentation is as important as the code itself.
 Document everything."
 
 "JSDoc is helpful."
+
+"Confluence is useful for documentation."
