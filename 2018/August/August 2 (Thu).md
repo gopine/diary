@@ -11,3 +11,5 @@ Managing dependencies can be tricky.
 One repo to rule them all."
 
 "Lerna is useful for monorepos."
+
+"Yarn Workspaces are helpful."
