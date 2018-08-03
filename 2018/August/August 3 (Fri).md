@@ -11,3 +11,5 @@ Realtime is fun.
 Scalability is important."
 
 "Socket.IO is easy to use."
+
+"WebSockets can be tricky to debug."
