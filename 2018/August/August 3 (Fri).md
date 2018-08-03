@@ -9,3 +9,5 @@ Implementing features like message broadcasting and user presence.
 Realtime is fun.
 
 Scalability is important."
+
+"Socket.IO is easy to use."
