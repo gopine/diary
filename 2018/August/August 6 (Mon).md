@@ -11,3 +11,5 @@ Serverless all the things.
 No more database maintenance."
 
 "FaunaDB looks promising."
+
+"GraphQL API is nice."
