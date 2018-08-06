@@ -9,3 +9,5 @@ Scalability and cost-effectiveness are attractive.
 Serverless all the things.
 
 No more database maintenance."
+
+"FaunaDB looks promising."
