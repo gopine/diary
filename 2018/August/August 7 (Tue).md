@@ -11,3 +11,5 @@ Speed matters.
 Global reach."
 
 "Cloudflare is my CDN of choice."
+
+"Invalidating cache can be tricky."
