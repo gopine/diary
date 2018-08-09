@@ -11,3 +11,5 @@ Kubernetes is complex but powerful.
 Containerization everywhere."
 
 "kubectl is my new best friend."
+
+"Helm charts are useful."
