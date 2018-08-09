@@ -11,3 +11,5 @@ TypeScript is a lifesaver.
 Types for everyone."
 
 "TypeScript is better than JavaScript."
+
+"DefinitelyTyped is great."
