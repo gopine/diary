@@ -9,3 +9,5 @@ Implementing features like routing and data fetching.
 SSR is important.
 
 Next.js makes it easy."
+
+"Next.js is awesome."
