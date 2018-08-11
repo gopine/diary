@@ -11,3 +11,5 @@ SSR is important.
 Next.js makes it easy."
 
 "Next.js is awesome."
+
+"Static site export is cool too."
