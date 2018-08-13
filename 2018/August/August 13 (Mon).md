@@ -11,3 +11,5 @@ AI is the future.
 Machine learning is cool."
 
 "TensorFlow.js is a good option for running models in the browser."
+
+"Training models can be time-consuming."
