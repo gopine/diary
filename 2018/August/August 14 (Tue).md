@@ -9,3 +9,5 @@ Comparing GraphQL with REST.
 GraphQL is more efficient.
 
 Only get what you need."
+
+"GraphQL is better than REST for complex APIs."
