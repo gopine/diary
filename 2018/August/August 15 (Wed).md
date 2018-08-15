@@ -11,3 +11,5 @@ Performance matters.
 Fast websites are happy websites."
 
 "Lighthouse is a great tool for measuring web performance."
+
+"Image optimization is important."
