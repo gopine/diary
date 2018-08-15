@@ -9,3 +9,5 @@ Implementing techniques like code splitting and lazy loading.
 Performance matters.
 
 Fast websites are happy websites."
+
+"Lighthouse is a great tool for measuring web performance."
