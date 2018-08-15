@@ -1,0 +1,1 @@
+"Lighthouse is a great tool for measuring web performance."
