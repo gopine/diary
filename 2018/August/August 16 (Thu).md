@@ -11,3 +11,5 @@ Serverless is the future.
 No more server management."
 
 "AWS Lambda is a popular serverless function platform."
+
+"Serverless functions can be triggered by events."
