@@ -9,3 +9,5 @@ Scaling applications and reducing costs.
 Serverless is the future.
 
 No more server management."
+
+"AWS Lambda is a popular serverless function platform."
