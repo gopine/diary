@@ -9,3 +9,5 @@ Documenting components and making them easy to use.
 Component libraries are essential for large projects.
 
 Reusable components save time."
+
+"Storybook is a great tool for developing and documenting components."
