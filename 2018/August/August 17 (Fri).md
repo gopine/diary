@@ -11,3 +11,5 @@ Component libraries are essential for large projects.
 Reusable components save time."
 
 "Storybook is a great tool for developing and documenting components."
+
+"Atomic Design is a helpful methodology for building component libraries."
