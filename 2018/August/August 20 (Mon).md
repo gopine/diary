@@ -9,3 +9,5 @@ Implementing computationally intensive tasks in WebAssembly.
 WebAssembly is the future of web performance.
 
 Native speed in the browser."
+
+"WebAssembly can be written in languages like Rust and C++."
