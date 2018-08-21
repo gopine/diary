@@ -11,3 +11,5 @@ Blockchain is the future.
 Decentralization is key."
 
 "Ethereum is a popular blockchain platform."
+
+"Smart contracts can be used to automate transactions on the blockchain."
