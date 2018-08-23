@@ -9,3 +9,5 @@ Scaling applications and improving fault tolerance.
 Microservices are essential for large, complex applications.
 
 Independent services improve scalability."
+
+"Docker containers are often used to deploy microservices."
