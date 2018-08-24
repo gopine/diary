@@ -9,3 +9,5 @@ Scaling applications automatically and reducing costs.
 Serverless is the future of computing.
 
 No more server management."
+
+"AWS Lambda is a popular serverless computing platform."
