@@ -11,3 +11,5 @@ Microservices are essential for large, complex applications.
 Independent services improve scalability."
 
 "Docker containers are often used to deploy microservices."
+
+"API gateways are used to manage traffic to microservices."
