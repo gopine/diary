@@ -11,3 +11,5 @@ Static site generators are ideal for blogs and documentation websites.
 Pre-built templates make website creation easier."
 
 "Gatsby is a popular static site generator."
+
+"Jekyll is another popular static site generator."
