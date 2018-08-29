@@ -11,3 +11,5 @@ Cloud computing is the foundation of modern web applications.
 Scalability is a key benefit of cloud computing."
 
 "AWS is a popular cloud computing platform."
+
+"Azure is another popular cloud computing platform."
