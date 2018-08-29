@@ -9,3 +9,5 @@ Scaling applications automatically and reducing costs.
 Cloud computing is the foundation of modern web applications.
 
 Scalability is a key benefit of cloud computing."
+
+"AWS is a popular cloud computing platform."
