@@ -11,3 +11,5 @@ Edge computing is essential for applications that require low latency.
 Processing data at the edge reduces network traffic."
 
 "Cloudflare Workers is a popular edge computing platform."
+
+"Fastly is another popular edge computing platform."
