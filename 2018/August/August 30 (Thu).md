@@ -9,3 +9,5 @@ Reducing latency and improving performance for real-time applications.
 Edge computing is essential for applications that require low latency.
 
 Processing data at the edge reduces network traffic."
+
+"Cloudflare Workers is a popular edge computing platform."
