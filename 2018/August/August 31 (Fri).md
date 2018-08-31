@@ -9,3 +9,5 @@ Implementing security measures to prevent data breaches and protect user privacy
 Web security is paramount.
 
 Protecting user data is essential."
+
+"OWASP provides valuable resources on web security."
