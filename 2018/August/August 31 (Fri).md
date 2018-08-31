@@ -11,3 +11,5 @@ Web security is paramount.
 Protecting user data is essential."
 
 "OWASP provides valuable resources on web security."
+
+"HTTPS is essential for secure communication over the internet."
