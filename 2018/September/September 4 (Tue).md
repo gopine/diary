@@ -11,3 +11,5 @@ It's amazing how much better the user experience is with a PWA.
 Thinking of converting all my sites to PWAs."
 
 "Manifest file is crucial for PWAs."
+
+"Working on caching strategies for PWAs."
