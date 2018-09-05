@@ -11,3 +11,5 @@ Staying up-to-date is crucial.
 Readability is increasing."
 
 "Using Babel to transpile new JavaScript features."
+
+"Learning about private class fields in JavaScript."
