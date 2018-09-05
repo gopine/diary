@@ -9,3 +9,5 @@ The JavaScript language is evolving rapidly.
 Staying up-to-date is crucial.
 
 Readability is increasing."
+
+"Using Babel to transpile new JavaScript features."
