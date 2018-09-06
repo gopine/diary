@@ -11,3 +11,5 @@ I am converting a class component to use hooks.
 Reusability improves greatly.
 
 useEffect is still confusing sometimes."
+
+"useState hook is great."
