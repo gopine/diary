@@ -9,3 +9,5 @@ It catches errors early and improves code maintainability.
 Migrating a JavaScript project to TypeScript.
 
 Type safety is important."
+
+"TypeScript is much better than JavaScript."
