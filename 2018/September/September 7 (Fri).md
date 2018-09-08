@@ -11,3 +11,5 @@ Migrating a JavaScript project to TypeScript.
 Type safety is important."
 
 "TypeScript is much better than JavaScript."
+
+"Dealing with type definitions."
