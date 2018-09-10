@@ -11,3 +11,5 @@ The first impression is important for users.
 Speed is key."
 
 "Webpack configuration is complicated."
+
+"Using Lighthouse to measure performance."
