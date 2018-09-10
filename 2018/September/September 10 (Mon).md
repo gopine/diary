@@ -9,3 +9,5 @@ Improved page load time significantly.
 The first impression is important for users.
 
 Speed is key."
+
+"Webpack configuration is complicated."
