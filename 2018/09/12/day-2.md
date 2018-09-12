@@ -1,0 +1,1 @@
+Successfully deployed a basic serverless function using AWS Lambda and API Gateway.
