@@ -7,3 +7,5 @@ The code is much more readable now.
 Will need to write unit tests later.
 
 Decided to try styled-components for a new project.
+
+Still getting used to the CSS-in-JS approach of styled-components.
