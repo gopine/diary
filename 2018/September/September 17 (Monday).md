@@ -9,3 +9,5 @@ Using React with Redux for state management.
 Writing unit tests with Jest and Enzyme.
 
 Implemented the basic UI for user profile editing.
+
+Struggling with Redux action creators and reducers.
