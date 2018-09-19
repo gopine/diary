@@ -7,3 +7,5 @@ Setting up a basic GraphQL API endpoint.
 Exploring different query and mutation patterns.
 
 Considering replacing REST API endpoints with GraphQL.
+
+Implemented a simple GraphQL query to fetch user data.
