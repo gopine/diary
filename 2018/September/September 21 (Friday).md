@@ -7,3 +7,5 @@ Using Socket.IO for handling WebSocket connections.
 Setting up a Node.js server to handle messages.
 
 Basic WebSocket connection established.
+
+Messages can now be sent and received.
