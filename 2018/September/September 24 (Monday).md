@@ -7,3 +7,5 @@ Writing tests for the user authentication flow.
 Trying to ensure that the application is working as expected.
 
 Cypress is much better than Selenium.
+
+End-to-end tests are passing.
