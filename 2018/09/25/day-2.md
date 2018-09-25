@@ -1,0 +1,1 @@
+Setting up a basic Next.js project.
