@@ -1,0 +1,1 @@
+Successfully rendered a React component on the server.
