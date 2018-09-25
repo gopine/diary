@@ -1,0 +1,1 @@
+Next.js makes SSR a lot easier.
