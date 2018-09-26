@@ -7,3 +7,5 @@ Exploring Next.js for building SSR React applications.
 Setting up a basic Next.js project.
 
 Successfully rendered a React component on the server.
+
+Next.js makes SSR a lot easier.
