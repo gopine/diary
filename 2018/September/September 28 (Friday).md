@@ -7,3 +7,5 @@ The syntax feels very intuitive.
 Considering using it for building single-page applications.
 
 Vue's reactivity system is quite powerful.
+
+Completed the small Vue.js project.
