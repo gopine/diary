@@ -9,3 +9,5 @@ Considering using it for the next mobile project.
 Flutter's widget system is quite different from React.
 
 Managed to build a basic UI with Flutter.
+
+Flutter is getting better every day.
