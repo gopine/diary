@@ -7,3 +7,5 @@ Implementing indexing and caching to speed up search queries.
 Experimenting with different search algorithms.
 
 Indexing significantly improved search performance.
+
+Caching further improved search response times.
