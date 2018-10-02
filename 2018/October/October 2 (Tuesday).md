@@ -5,3 +5,5 @@ Working on improving the performance of the search functionality.
 Implementing indexing and caching to speed up search queries.
 
 Experimenting with different search algorithms.
+
+Indexing significantly improved search performance.
