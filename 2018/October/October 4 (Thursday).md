@@ -5,3 +5,5 @@ Experimenting with WebAssembly for improving performance of computationally inte
 Compiling C++ code to WebAssembly.
 
 Trying to integrate WebAssembly modules into the application.
+
+Successfully compiled C++ code to WebAssembly.
