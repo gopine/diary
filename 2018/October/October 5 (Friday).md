@@ -7,3 +7,5 @@ Ensuring that the application is compliant with WCAG guidelines.
 Using ARIA attributes to provide semantic information.
 
 Added ARIA attributes to improve accessibility.
+
+Using accessibility testing tools to identify issues.
