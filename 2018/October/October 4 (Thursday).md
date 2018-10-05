@@ -7,3 +7,5 @@ Compiling C++ code to WebAssembly.
 Trying to integrate WebAssembly modules into the application.
 
 Successfully compiled C++ code to WebAssembly.
+
+WebAssembly significantly improved performance for image processing.
