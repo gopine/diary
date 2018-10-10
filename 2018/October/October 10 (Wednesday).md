@@ -7,3 +7,5 @@ Integrating service workers for offline support.
 Using the Web App Manifest to provide metadata.
 
 Successfully added a service worker for offline caching.
+
+The application can now be installed as a PWA.
