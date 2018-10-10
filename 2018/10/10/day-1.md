@@ -1,0 +1,1 @@
+Exploring Progressive Web App (PWA) capabilities.
