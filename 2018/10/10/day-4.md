@@ -1,0 +1,1 @@
+Successfully added a service worker for offline caching.
