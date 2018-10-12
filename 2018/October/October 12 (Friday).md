@@ -7,3 +7,5 @@ Implementing measures to prevent cross-site scripting (XSS) and cross-site reque
 Using secure coding practices.
 
 Implemented measures to prevent XSS attacks.
+
+Security is a top priority.
