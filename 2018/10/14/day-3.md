@@ -1,0 +1,1 @@
+NoSQL databases are good for unstructured data.
