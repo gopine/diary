@@ -7,3 +7,5 @@ Conducting user testing to identify areas for improvement.
 Implementing changes based on user feedback.
 
 User testing revealed several usability issues.
+
+Implementing changes to improve the user experience.
