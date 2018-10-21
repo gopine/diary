@@ -7,3 +7,5 @@ Using AWS Lambda and Google Cloud Functions.
 Setting up event triggers.
 
 Successfully deployed a serverless function to AWS Lambda.
+
+Serverless functions are great for event-driven tasks.
