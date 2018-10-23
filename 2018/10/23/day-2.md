@@ -1,0 +1,1 @@
+Successfully deployed a serverless function to AWS Lambda.
