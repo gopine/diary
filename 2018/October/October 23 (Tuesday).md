@@ -7,3 +7,5 @@ Using Time-Based One-Time Password (TOTP) algorithm.
 Integrating with Google Authenticator.
 
 Successfully implemented two-factor authentication.
+
+Two-factor authentication enhances security.
