@@ -9,3 +9,5 @@ Evaluating the pros and cons of each method.
 OAuth is good for delegated authorization.
 
 JWT is good for stateless authentication.
+
+SAML is good for enterprise SSO.
