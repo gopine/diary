@@ -7,3 +7,5 @@ Comparing Role-Based Access Control (RBAC) and Attribute-Based Access Control (A
 Evaluating the pros and cons of each model.
 
 RBAC is simpler to implement.
+
+ABAC is more flexible.
