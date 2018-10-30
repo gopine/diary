@@ -1,0 +1,1 @@
+Focusing on improving the accessibility of the application.
