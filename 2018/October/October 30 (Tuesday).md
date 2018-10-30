@@ -7,3 +7,5 @@ Using i18next library for handling translations.
 Setting up different language files.
 
 Successfully implemented internationalization.
+
+The application is now available in multiple languages.
