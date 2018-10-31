@@ -1,0 +1,1 @@
+Localization enhances the user experience.
