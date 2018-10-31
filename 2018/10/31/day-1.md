@@ -1,0 +1,1 @@
+Exploring different localization (l10n) strategies.
