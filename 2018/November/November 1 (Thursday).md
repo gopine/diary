@@ -1,0 +1,7 @@
+# November 1, 2018
+
+Researching different SEO techniques.
+
+Implementing structured data markup.
+
+Optimizing website performance for search engines.
