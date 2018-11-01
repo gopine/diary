@@ -5,3 +5,5 @@ Researching different SEO techniques.
 Implementing structured data markup.
 
 Optimizing website performance for search engines.
+
+Implemented structured data markup.
