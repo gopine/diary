@@ -1,0 +1,1 @@
+Researching different SEO techniques.
