@@ -7,3 +7,5 @@ Using tools like ImageOptim and TinyPNG.
 Compressing images without losing quality.
 
 Image optimization significantly reduced file sizes.
+
+Optimized images improve website performance.
