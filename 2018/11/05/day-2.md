@@ -1,0 +1,1 @@
+Experimenting with different image optimization techniques.
