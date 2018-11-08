@@ -7,3 +7,5 @@ Using Cloudflare and Fastly.
 Setting up CDN caching for static assets.
 
 Setting up Cloudflare CDN caching for static assets.
+
+CDNs improve website performance by caching content closer to users.
