@@ -9,3 +9,5 @@ Evaluating the pros and cons of each solution.
 AWS S3 is a popular choice for file storage.
 
 Google Cloud Storage offers competitive pricing.
+
+Azure Blob Storage is well-integrated with Azure services.
