@@ -1,0 +1,1 @@
+Using Elasticsearch for indexing and searching data.
