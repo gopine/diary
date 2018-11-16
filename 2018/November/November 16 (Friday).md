@@ -7,3 +7,5 @@ Implementing security headers (e.g., Content-Security-Policy, Strict-Transport-S
 Using HTTPS for secure communication.
 
 Implemented security headers.
+
+Security headers enhance website security.
