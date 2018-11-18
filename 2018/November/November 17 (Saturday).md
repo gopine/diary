@@ -7,3 +7,5 @@ Comparing Jest, Mocha, and Jasmine.
 Evaluating the pros and cons of each framework.
 
 Jest is easy to configure and use.
+
+Testing frameworks help ensure code quality.
