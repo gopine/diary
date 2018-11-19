@@ -7,3 +7,5 @@ Measuring and optimizing front-end and back-end performance.
 Using performance testing tools like Lighthouse and WebPageTest.
 
 Improved website performance based on Lighthouse results.
+
+Website performance is crucial for user engagement.
