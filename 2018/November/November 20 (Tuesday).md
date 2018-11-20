@@ -7,3 +7,5 @@ Integrating with Google and Facebook.
 Setting up authentication endpoints.
 
 Successfully implemented user authentication with OAuth 2.0.
+
+User authentication is now working.
