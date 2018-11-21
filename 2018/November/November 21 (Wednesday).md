@@ -5,3 +5,5 @@ Exploring different serverless computing platforms.
 Comparing AWS Lambda, Google Cloud Functions, and Azure Functions.
 
 Evaluating the pros and cons of each platform.
+
+AWS Lambda is a popular serverless platform.
