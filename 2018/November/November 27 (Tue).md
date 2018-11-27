@@ -7,3 +7,5 @@ Fetching only the necessary data seems very efficient.
 Considering switching our API architecture.
 
 Need to evaluate the learning curve.
+
+GraphQL's schema definition is powerful.
