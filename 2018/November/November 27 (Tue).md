@@ -9,3 +9,5 @@ Considering switching our API architecture.
 Need to evaluate the learning curve.
 
 GraphQL's schema definition is powerful.
+
+Played around with Apollo Client.
