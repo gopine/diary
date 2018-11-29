@@ -7,3 +7,5 @@ Offline capabilities and push notifications are compelling.
 Considering making our website a PWA.
 
 The service worker API looks interesting.
+
+PWAs can improve user engagement.
