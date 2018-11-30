@@ -7,3 +7,5 @@ The static typing helps catch errors early.
 Hoping it will improve code maintainability.
 
 Need to configure the compiler options properly.
+
+TypeScript improves code readability.
