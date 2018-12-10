@@ -5,3 +5,5 @@ Worked on improving the accessibility of our website.
 Ensuring everyone can use our site is essential.
 
 Using ARIA attributes to provide semantic information.
+
+Accessibility is often overlooked.
