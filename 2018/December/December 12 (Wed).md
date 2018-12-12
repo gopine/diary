@@ -1,0 +1,7 @@
+# December 12, 2018
+
+Learned about server-side rendering with React.
+
+Improves SEO and initial load time.
+
+Need to configure the server properly.
