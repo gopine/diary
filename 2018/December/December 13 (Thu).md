@@ -7,3 +7,5 @@ The unidirectional data flow is appealing.
 Need to understand the concepts of reducers and actions.
 
 Redux can be verbose.
+
+Used Redux DevTools for debugging.
