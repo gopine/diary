@@ -5,3 +5,5 @@ Started using a linter and formatter.
 Ensuring code style consistency is important.
 
 Using ESLint and Prettier.
+
+Linters improve code quality.
