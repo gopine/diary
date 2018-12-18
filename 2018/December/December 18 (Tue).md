@@ -5,3 +5,5 @@ Investigated different monitoring tools.
 Using New Relic to track performance.
 
 Need to set up alerts for errors.
+
+Monitoring is essential for production systems.
