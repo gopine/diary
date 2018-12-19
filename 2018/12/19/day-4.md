@@ -1,0 +1,1 @@
+Gulp helps simplify workflows.
