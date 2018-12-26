@@ -5,3 +5,5 @@ Learned about different testing frameworks.
 Using Cypress for end-to-end testing.
 
 Need to write more integration tests.
+
+Cypress is great for UI testing.
