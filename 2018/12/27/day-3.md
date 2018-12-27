@@ -1,0 +1,1 @@
+Material UI provides a consistent look and feel.
