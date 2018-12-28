@@ -5,3 +5,5 @@ Read about performance optimization.
 Using Lighthouse to identify performance issues.
 
 Need to fix the bottlenecks.
+
+Lighthouse provides valuable performance insights.
