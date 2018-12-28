@@ -1,0 +1,1 @@
+Lighthouse provides valuable performance insights.
