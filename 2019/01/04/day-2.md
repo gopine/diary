@@ -1,0 +1,1 @@
+GSAP is powerful for creating animations.
