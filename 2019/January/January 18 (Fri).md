@@ -5,3 +5,5 @@ Experimented with different GraphQL schema design approaches.
 Using schema stitching to combine multiple schemas.
 
 Need to resolve the conflicts.
+
+Schema stitching improves GraphQL modularity.
