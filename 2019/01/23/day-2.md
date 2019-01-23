@@ -1,0 +1,1 @@
+Proper error handling is important in GraphQL.
