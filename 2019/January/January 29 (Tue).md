@@ -5,3 +5,5 @@ Investigated service meshes like Istio.
 Traffic management and security are important.
 
 Need to configure the policies.
+
+Service meshes enhance microservice architectures.
