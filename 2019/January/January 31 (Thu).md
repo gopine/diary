@@ -1,0 +1,7 @@
+# January 31, 2019
+
+Experimented with different WebAssembly toolchains.
+
+Using Rust to compile to Wasm.
+
+Need to learn more about the memory model.
