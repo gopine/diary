@@ -5,3 +5,5 @@ Exploring the use of ReasonML for building type-safe web applications.
 It compiles to JavaScript.
 
 Need to learn the syntax.
+
+ReasonML improves web application reliability.
