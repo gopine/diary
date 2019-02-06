@@ -5,3 +5,5 @@ Experimented with different state management libraries for React.
 Using MobX as an alternative to Redux.
 
 Need to understand the observable pattern.
+
+MobX simplifies state management in React.
