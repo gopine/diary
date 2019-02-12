@@ -5,3 +5,5 @@ Investigated different approaches to testing React components.
 Using Jest and Enzyme for unit testing.
 
 Need to improve test coverage.
+
+Testing is crucial for React applications.
