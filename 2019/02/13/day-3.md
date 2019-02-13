@@ -1,0 +1,1 @@
+Next.js improves SEO for React applications.
