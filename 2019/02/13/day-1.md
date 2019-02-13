@@ -1,0 +1,1 @@
+Learned about Next.js for server-side rendering React applications.
