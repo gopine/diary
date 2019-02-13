@@ -1,0 +1,1 @@
+Next.js simplifies React development.
