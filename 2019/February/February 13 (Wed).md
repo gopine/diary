@@ -7,3 +7,5 @@ It simplifies the setup.
 Need to configure the deployment.
 
 Next.js improves SEO for React applications.
+
+Next.js simplifies React development.
