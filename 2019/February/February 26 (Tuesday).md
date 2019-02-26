@@ -11,3 +11,5 @@ It definitely feels more concise and readable.
 Will need to explore more complex scenarios tomorrow.
 
 Still getting used to thinking in Hooks.
+
+Read about Context API and how it works with Hooks.
