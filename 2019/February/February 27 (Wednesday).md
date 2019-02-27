@@ -9,3 +9,5 @@ I was seeing unnecessary re-renders of child components.
 Definitely need to brush up on memoization techniques in React.
 
 Optimized component with useCallback and React.memo.
+
+Found a good article on advanced Hook usage with custom hooks.
