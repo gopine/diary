@@ -7,3 +7,5 @@ useCallback is proving tricky to understand for optimizing performance.
 I was seeing unnecessary re-renders of child components.
 
 Definitely need to brush up on memoization techniques in React.
+
+Optimized component with useCallback and React.memo.
