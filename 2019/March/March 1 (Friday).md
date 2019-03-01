@@ -7,3 +7,5 @@ Trying to understand how to efficiently fetch data in a React application.
 The typed schema is really helpful for avoiding runtime errors.
 
 Still struggling with setting up proper caching.
+
+Successfully implemented a basic GraphQL query with Apollo Client.
