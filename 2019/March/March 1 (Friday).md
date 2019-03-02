@@ -9,3 +9,5 @@ The typed schema is really helpful for avoiding runtime errors.
 Still struggling with setting up proper caching.
 
 Successfully implemented a basic GraphQL query with Apollo Client.
+
+Debugging caching issues with Apollo Client.
