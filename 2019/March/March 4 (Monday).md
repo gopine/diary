@@ -7,3 +7,5 @@ Trying to understand how it bundles JavaScript modules.
 The documentation is a bit overwhelming.
 
 Need to focus on the core concepts.
+
+Tweaked the Webpack configuration for better performance.
