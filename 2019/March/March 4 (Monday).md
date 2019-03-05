@@ -9,3 +9,5 @@ The documentation is a bit overwhelming.
 Need to focus on the core concepts.
 
 Tweaked the Webpack configuration for better performance.
+
+Started using webpack-dev-server for hot reloading.
