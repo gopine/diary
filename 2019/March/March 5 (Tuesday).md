@@ -9,3 +9,5 @@ The theming capabilities seem powerful.
 Still not sure if I prefer it over traditional CSS.
 
 Integrated styled-components into my React project.
+
+Read about the performance implications of CSS-in-JS.
