@@ -9,3 +9,5 @@ The concept of observable data is quite interesting.
 Need to compare it with Redux in more detail.
 
 Created a small MobX-powered application.
+
+Compared Redux and MobX in terms of performance and complexity.
