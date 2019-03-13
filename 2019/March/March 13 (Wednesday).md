@@ -7,3 +7,5 @@ Ensuring that websites are usable by people with disabilities is important.
 Using semantic HTML and ARIA attributes can improve accessibility.
 
 Need to run accessibility audits on my applications.
+
+Used an accessibility checker to identify issues in my website.
