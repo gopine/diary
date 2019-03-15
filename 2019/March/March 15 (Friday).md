@@ -9,3 +9,5 @@ Using a CDN can help with caching static assets.
 Need to analyze the performance of my applications.
 
 Implemented lazy loading for images in my website.
+
+Analyzed the performance of my website using Google PageSpeed Insights.
