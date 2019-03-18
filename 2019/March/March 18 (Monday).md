@@ -9,3 +9,5 @@ AWS Lambda and Google Cloud Functions are popular platforms.
 Need to explore the use cases for serverless computing.
 
 Deployed a serverless function to AWS Lambda.
+
+Learned about the limitations of serverless functions.
