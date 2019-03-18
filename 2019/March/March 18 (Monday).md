@@ -7,3 +7,5 @@ Functions as a Service (FaaS) allows developers to deploy code without managing 
 AWS Lambda and Google Cloud Functions are popular platforms.
 
 Need to explore the use cases for serverless computing.
+
+Deployed a serverless function to AWS Lambda.
