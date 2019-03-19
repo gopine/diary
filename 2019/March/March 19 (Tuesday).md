@@ -7,3 +7,5 @@ Using AI to personalize user experiences and automate tasks.
 TensorFlow.js allows developers to run ML models in the browser.
 
 Need to explore the possibilities of AI in web development.
+
+Implemented a simple machine learning model using TensorFlow.js.
