@@ -7,3 +7,5 @@ Creating user-friendly interfaces that are easy to navigate.
 User research and testing are crucial for improving UX.
 
 Need to apply UX principles to my web applications.
+
+Conducted user research to gather feedback on my website.
