@@ -7,3 +7,5 @@ Creating immersive experiences that can enhance user engagement.
 WebVR and WebAR are emerging technologies that enable VR/AR in the browser.
 
 Need to experiment with VR/AR development.
+
+Created a simple VR scene using A-Frame.
