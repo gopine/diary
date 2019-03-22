@@ -9,3 +9,5 @@ Using web technologies to interact with IoT devices.
 Need to explore the potential applications of IoT.
 
 Connected to an IoT device using web technologies.
+
+Collected data from an IoT device and displayed it on my website.
