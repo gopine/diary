@@ -1,0 +1,1 @@
+Today was focused on learning more about Cypress for end-to-end testing.
