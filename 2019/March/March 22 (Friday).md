@@ -7,3 +7,5 @@ Connecting devices to the internet and collecting data.
 Using web technologies to interact with IoT devices.
 
 Need to explore the potential applications of IoT.
+
+Connected to an IoT device using web technologies.
