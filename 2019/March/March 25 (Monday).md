@@ -9,3 +9,5 @@ Writing tests seems pretty straightforward.
 Need to integrate it into my CI/CD pipeline.
 
 Wrote a few end-to-end tests with Cypress.
+
+Integrated Cypress into my CI/CD pipeline.
