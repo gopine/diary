@@ -1,0 +1,1 @@
+Used the React Profiler to identify performance bottlenecks.
