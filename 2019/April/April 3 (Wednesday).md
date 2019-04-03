@@ -9,3 +9,5 @@ I'm learning how to define a GraphQL schema and write queries.
 Apollo Client makes it easy to integrate with React components.
 
 Defined a GraphQL schema and implemented resolvers for my data.
+
+Integrated Apollo Client with my React application.
