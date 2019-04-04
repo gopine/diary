@@ -9,3 +9,5 @@ Setting up the development environment was a bit tricky.
 Now I'm learning how to create basic UI components.
 
 Created a simple React Native app with a few UI components.
+
+Learned how to use native device features like the camera in React Native.
