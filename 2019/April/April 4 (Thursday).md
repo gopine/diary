@@ -7,3 +7,5 @@ It's amazing how much code can be shared between web and mobile.
 Setting up the development environment was a bit tricky.
 
 Now I'm learning how to create basic UI components.
+
+Created a simple React Native app with a few UI components.
