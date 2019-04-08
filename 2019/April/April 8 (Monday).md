@@ -9,3 +9,5 @@ I'm converting my JavaScript code to TypeScript.
 It's a bit of a learning curve, but I think it will be worth it.
 
 Converted a few JavaScript files to TypeScript.
+
+Resolved some TypeScript type errors.
