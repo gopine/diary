@@ -9,3 +9,5 @@ Writing unit tests can help prevent regressions.
 I need to start writing more tests for my components.
 
 Wrote unit tests for several React components using Jest.
+
+Learned about integration testing with Enzyme.
