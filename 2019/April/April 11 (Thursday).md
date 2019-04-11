@@ -9,3 +9,5 @@ I'm setting up a pipeline with Jenkins.
 It's a bit complex, but I think it will be worth it.
 
 Setup a CI/CD pipeline with Jenkins.
+
+Automated the testing process in my CI/CD pipeline.
