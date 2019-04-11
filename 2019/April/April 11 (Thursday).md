@@ -1,0 +1,9 @@
+# April 11, 2019
+
+I'm learning about CI/CD pipelines.
+
+Automating the build, test, and deployment process can save a lot of time.
+
+I'm setting up a pipeline with Jenkins.
+
+It's a bit complex, but I think it will be worth it.
