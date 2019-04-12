@@ -9,3 +9,5 @@ It's a bit more complex than client-side rendering, but it's worth it for certai
 I need to learn how to handle data fetching on the server.
 
 Setup a Next.js project with server-side rendering.
+
+Learned how to fetch data on the server in Next.js.
