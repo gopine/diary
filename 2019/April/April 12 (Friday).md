@@ -7,3 +7,5 @@ SSR can improve SEO and initial load time.
 It's a bit more complex than client-side rendering, but it's worth it for certain applications.
 
 I need to learn how to handle data fetching on the server.
+
+Setup a Next.js project with server-side rendering.
