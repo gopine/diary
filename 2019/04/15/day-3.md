@@ -1,0 +1,1 @@
+Apollo Client makes it easier to consume subscriptions in React.
