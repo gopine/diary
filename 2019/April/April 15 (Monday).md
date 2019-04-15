@@ -7,3 +7,5 @@ Setting up a WebSocket server seems a bit complicated.
 Apollo Client makes it easier to consume subscriptions in React.
 
 Need to find a good use case for real-time data.
+
+Setup a GraphQL subscription server.
