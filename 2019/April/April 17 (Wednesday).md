@@ -9,3 +9,5 @@ Need to configure TypeScript for a Node.js project.
 Still need to find the best way to structure my project.
 
 Configured TypeScript for my Node.js project.
+
+Converted a few JavaScript files to TypeScript in my Node.js project.
