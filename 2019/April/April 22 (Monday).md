@@ -7,3 +7,5 @@ It turns out I was accidentally mutating the state directly.
 Learned a valuable lesson about immutability.
 
 Will need to be more careful in the future.
+
+Implemented Immer to manage state immutably.
