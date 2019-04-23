@@ -7,3 +7,5 @@ Seems like a strong contender in the cross-platform mobile development space.
 The hot reload feature is impressive.
 
 Need to learn the Dart language.
+
+Finished the "Hello, World!" app in Flutter.
