@@ -7,3 +7,5 @@ The world of container orchestration is complex.
 Trying to wrap my head around pods, deployments, and services.
 
 Need to set up a local Kubernetes cluster for experimentation.
+
+Setup Minikube for local Kubernetes development.
