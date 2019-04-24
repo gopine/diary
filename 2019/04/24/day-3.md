@@ -1,0 +1,1 @@
+Trying to understand the concepts of smart contracts and blockchain.
