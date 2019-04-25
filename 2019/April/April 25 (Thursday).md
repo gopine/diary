@@ -7,3 +7,5 @@ The ability to manage microservices traffic and security is crucial.
 It integrates with Kubernetes.
 
 Learning about the different features like traffic routing and fault injection.
+
+Deployed a simple service mesh to Minikube.
