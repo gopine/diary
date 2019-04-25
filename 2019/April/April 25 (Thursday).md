@@ -9,3 +9,5 @@ It integrates with Kubernetes.
 Learning about the different features like traffic routing and fault injection.
 
 Deployed a simple service mesh to Minikube.
+
+Experimented with fault injection using Istio.
