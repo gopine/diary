@@ -7,3 +7,5 @@ Trying to understand the concepts of smart contracts and blockchain.
 Exploring the Ethereum ecosystem.
 
 Need to learn Solidity.
+
+Started learning Solidity for smart contract development.
