@@ -9,3 +9,5 @@ Exploring the Ethereum ecosystem.
 Need to learn Solidity.
 
 Started learning Solidity for smart contract development.
+
+Deployed my first smart contract to a test network.
