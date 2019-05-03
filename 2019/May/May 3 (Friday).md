@@ -9,3 +9,5 @@ Configuring the image optimization plugin looks promising for improving website 
 Also exploring the markdown transformer plugin to write blog posts easily."
 
 "Installed some useful Gatsby plugins."
+
+"Successfully created a simple blog post using Markdown in Gatsby."
