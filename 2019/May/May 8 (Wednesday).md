@@ -9,3 +9,5 @@ Looking into Service Workers for offline support.
 Manifest files are crucial for making websites installable."
 
 "Implemented a basic Service Worker for offline caching."
+
+"Added a manifest file to my website."
