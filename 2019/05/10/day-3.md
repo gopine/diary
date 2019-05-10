@@ -1,0 +1,1 @@
+The learning curve is a bit steep initially."
