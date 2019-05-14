@@ -7,3 +7,5 @@ The idea of a database that scales automatically without server management is ap
 Trying to connect FaunaDB to a serverless function.
 
 Learning about GraphQL integration with FaunaDB."
+
+"FaunaDB seems a little complex at first glance."
