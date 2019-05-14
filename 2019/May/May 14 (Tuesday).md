@@ -9,3 +9,5 @@ Trying to connect FaunaDB to a serverless function.
 Learning about GraphQL integration with FaunaDB."
 
 "FaunaDB seems a little complex at first glance."
+
+"Successfully connected to FaunaDB from a serverless function."
