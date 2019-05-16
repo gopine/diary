@@ -9,3 +9,5 @@ Trying to run a simple Deno script.
 Exploring Deno's built-in tools for testing and formatting code."
 
 "Deno looks interesting."
+
+"Successfully ran a Deno script."
