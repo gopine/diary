@@ -9,3 +9,5 @@ Trying to understand ReasonML's type system.
 Exploring how to integrate ReasonML with React."
 
 "ReasonML seems a bit esoteric."
+
+"Found some examples of ReasonML with React."
