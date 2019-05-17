@@ -7,3 +7,5 @@ It compiles your code to vanilla JavaScript at build time.
 No virtual DOM overhead, resulting in faster performance.
 
 Trying to build a simple component with Svelte."
+
+"Svelte is quite different from React and Vue."
