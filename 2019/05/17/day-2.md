@@ -1,0 +1,1 @@
+Functional programming is becoming more popular in the frontend world.
