@@ -9,3 +9,5 @@ Setting up Cypress and writing a few basic tests for a React application.
 The time travel debugging feature is quite useful."
 
 "Cypress makes end-to-end testing less painful."
+
+"Successfully wrote a few Cypress tests for my React app."
