@@ -7,3 +7,5 @@ Enforcing consistent code style and catching potential errors early.
 Configuring ESLint and Prettier for a JavaScript project.
 
 Integrating ESLint and Prettier with my code editor."
+
+"ESLint and Prettier are essential for code quality."
