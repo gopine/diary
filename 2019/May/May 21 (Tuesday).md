@@ -9,3 +9,5 @@ Configuring ESLint and Prettier for a JavaScript project.
 Integrating ESLint and Prettier with my code editor."
 
 "ESLint and Prettier are essential for code quality."
+
+"Configured ESLint and Prettier for my project."
