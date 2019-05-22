@@ -9,3 +9,5 @@ Using ARIA attributes to improve accessibility.
 Testing websites with screen readers."
 
 "Accessibility is often overlooked."
+
+"Learned a lot about ARIA attributes."
