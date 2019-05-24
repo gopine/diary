@@ -9,3 +9,5 @@ Documenting design decisions and code standards.
 Using Storybook to develop and showcase UI components."
 
 "Design systems are crucial for large projects."
+
+"Started building a component library with Storybook."
