@@ -9,3 +9,5 @@ Implementing proper input validation and sanitization.
 Using HTTPS for secure communication."
 
 "Web security is paramount."
+
+"Implementing HTTPS is a must."
