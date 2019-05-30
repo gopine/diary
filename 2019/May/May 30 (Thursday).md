@@ -7,3 +7,5 @@ Breaking down large frontend applications into smaller, independently deployable
 Using different frameworks and technologies for different micro frontends.
 
 Communicating between micro frontends."
+
+"Micro frontends seem like a good solution for large teams."
