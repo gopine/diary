@@ -9,3 +9,5 @@ Using media queries to apply different styles based on screen size.
 Testing websites on various devices and browsers."
 
 "Responsive design is essential in today's multi-device world."
+
+"Made my website more responsive using media queries."
