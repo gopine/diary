@@ -9,3 +9,5 @@ Caching, optimistic updates, and data fetching with Apollo Client.
 Using GraphQL fragments to reuse queries."
 
 "Apollo Client simplifies GraphQL data management."
+
+"Implementing caching with Apollo Client."
