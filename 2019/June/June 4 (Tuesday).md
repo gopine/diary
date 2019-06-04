@@ -9,3 +9,5 @@ Optimizing JavaScript code for faster execution.
 Measuring website performance with PageSpeed Insights."
 
 "Website loading speed is crucial for user engagement."
+
+"Optimized images for my website."
