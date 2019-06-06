@@ -9,3 +9,5 @@ Building native-like mobile apps with React Native.
 Converting a web application into a PWA."
 
 "Building mobile apps with web technologies is a viable option."
+
+"Created a basic React Native app."
