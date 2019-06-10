@@ -7,3 +7,5 @@ Building decentralized applications (dApps) with Ethereum and Solidity.
 Using web3.js to interact with the Ethereum blockchain.
 
 Exploring the possibilities of NFTs (Non-Fungible Tokens)."
+
+"Blockchain technology has potential beyond cryptocurrencies."
