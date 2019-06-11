@@ -9,3 +9,5 @@ Applying design patterns to solve common programming problems.
 Improving code structure and maintainability."
 
 "Design patterns promote code reusability."
+
+"Implemented the Singleton pattern in JavaScript."
