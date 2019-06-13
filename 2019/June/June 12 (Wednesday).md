@@ -9,3 +9,5 @@ Implementing social login with Google and Facebook.
 Securing serverless APIs with JWTs."
 
 "Serverless authentication simplifies user management."
+
+"Configured AWS Cognito for my serverless application."
