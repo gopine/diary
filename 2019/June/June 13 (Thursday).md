@@ -7,3 +7,5 @@ Building virtual reality experiences with A-Frame.
 Creating augmented reality applications with AR.js.
 
 Using WebGL for advanced 3D graphics."
+
+"WebVR and WebAR are opening up new possibilities for the web."
