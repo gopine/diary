@@ -1,0 +1,1 @@
+"Looked into the use of design patterns in JavaScript.
