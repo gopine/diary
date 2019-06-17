@@ -1,0 +1,1 @@
+"Researched different methods for internationalizing web applications.
