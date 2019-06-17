@@ -7,3 +7,5 @@ Scaling databases automatically without managing servers.
 Connecting a serverless database to a serverless function.
 
 Performing CRUD operations with a serverless database."
+
+"Serverless databases simplify backend development."
