@@ -9,3 +9,5 @@ Connecting a serverless database to a serverless function.
 Performing CRUD operations with a serverless database."
 
 "Serverless databases simplify backend development."
+
+"Connected MongoDB Atlas to my serverless function."
