@@ -9,3 +9,5 @@ Sharing components between multiple projects.
 Documenting components with Storybook."
 
 "Component libraries promote code reuse and consistency."
+
+"Published a component to Bit."
