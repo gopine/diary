@@ -9,3 +9,5 @@ Implementing proper input validation and sanitization.
 Using HTTPS for secure communication."
 
 "Web security is a critical concern for all web developers."
+
+"Implemented CSRF protection in my application."
