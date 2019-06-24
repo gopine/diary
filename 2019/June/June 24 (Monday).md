@@ -7,3 +7,5 @@ Preventing Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF) atta
 Implementing proper input validation and sanitization.
 
 Using HTTPS for secure communication."
+
+"Web security is a critical concern for all web developers."
