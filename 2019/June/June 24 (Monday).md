@@ -1,0 +1,9 @@
+# June 24, 2019
+
+"Studied the concepts of web security best practices.
+
+Preventing Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF) attacks.
+
+Implementing proper input validation and sanitization.
+
+Using HTTPS for secure communication."
