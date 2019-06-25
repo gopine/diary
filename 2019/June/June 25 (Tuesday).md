@@ -9,3 +9,5 @@ Tracking application performance metrics.
 Identifying and fixing errors in production."
 
 "Monitoring is essential for maintaining application stability."
+
+"Configured Sentry for error tracking."
