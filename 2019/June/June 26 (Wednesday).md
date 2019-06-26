@@ -7,3 +7,5 @@ Building real-time applications with GraphQL subscriptions and Apollo Client.
 Implementing a real-time chat application with GraphQL subscriptions.
 
 Managing data subscriptions on the client."
+
+"GraphQL subscriptions provide efficient real-time updates."
