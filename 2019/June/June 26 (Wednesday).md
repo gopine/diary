@@ -9,3 +9,5 @@ Implementing a real-time chat application with GraphQL subscriptions.
 Managing data subscriptions on the client."
 
 "GraphQL subscriptions provide efficient real-time updates."
+
+"Implemented real-time chat with GraphQL subscriptions."
