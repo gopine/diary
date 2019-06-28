@@ -11,3 +11,5 @@ Generating video thumbnails.
 Integrating serverless video processing into a web application."
 
 "Serverless video processing simplifies media management."
+
+"Implemented serverless video transcoding with AWS Lambda."
