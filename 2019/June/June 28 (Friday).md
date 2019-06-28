@@ -9,3 +9,5 @@ Integrating payment gateways.
 Managing product catalogs and orders.
 
 Implementing secure checkout processes."
+
+"Building e-commerce websites requires specialized knowledge."
