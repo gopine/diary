@@ -7,3 +7,5 @@ They offer a cleaner way to manage state and side effects in functional componen
 Still wrapping my head around avoiding infinite loops in useEffect.
 
 I refactored a class component to use hooks, feels much better.
+
+Found a great article on custom React hooks.
