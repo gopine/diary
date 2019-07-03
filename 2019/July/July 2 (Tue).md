@@ -9,3 +9,5 @@ The initial setup was a bit tricky, but the documentation is pretty helpful.
 I'm hoping to build a simple API endpoint with it.
 
 Successfully deployed a "Hello, World!" function.
+
+Debugging CORS issues, as always.
