@@ -5,3 +5,5 @@ Investigating the security vulnerabilities discovered by the static code analysi
 Addressing potential XSS and SQL injection issues.
 
 Implementing proper input validation and sanitization.
+
+Addressed all the high-priority security vulnerabilities.
