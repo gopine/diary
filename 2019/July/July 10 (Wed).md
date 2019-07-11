@@ -7,3 +7,5 @@ Planning the architecture and technology stack.
 We're considering using a microfrontend architecture.
 
 Microfrontends seem complex but promising for scaling.
+
+Doing some research on different approaches to implementing microfrontends.
