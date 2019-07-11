@@ -5,3 +5,5 @@ Started prototyping the microfrontend architecture using Webpack Module Federati
 It allows sharing code between different applications at runtime.
 
 The initial setup was quite involved.
+
+Successfully loaded a remote module!
