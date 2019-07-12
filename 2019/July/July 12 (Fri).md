@@ -5,3 +5,5 @@ Continued working on the microfrontend prototype, adding communication between t
 Exploring different communication patterns.
 
 Event bus seems like a viable option.
+
+Implemented a simple event bus for communication.
