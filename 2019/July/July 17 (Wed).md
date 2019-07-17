@@ -5,3 +5,5 @@ Focusing on improving the performance of the microfrontends.
 Analyzing bundle sizes and optimizing images.
 
 Implementing lazy loading for components.
+
+Bundle sizes are significantly reduced!
