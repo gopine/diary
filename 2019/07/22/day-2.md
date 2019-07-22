@@ -1,0 +1,1 @@
+Ensuring accessibility and responsiveness.
