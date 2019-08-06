@@ -5,3 +5,5 @@ Refactoring the legacy code to reduce the dependencies of the module being migra
 This is a challenging task.
 
 Writing unit tests to ensure that the refactoring doesn't break anything.
+
+Refactoring legacy code is tedious.
