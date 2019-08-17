@@ -5,3 +5,5 @@ Deploying the new UI to a staging environment.
 Testing the UI in a real-world environment.
 
 Monitoring the performance and identifying any issues.
+
+The UI is now deployed to staging.
