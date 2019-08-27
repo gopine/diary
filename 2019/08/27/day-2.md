@@ -1,0 +1,1 @@
+Ensuring that the UI is responsive and accessible.
