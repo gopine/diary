@@ -5,3 +5,5 @@ Testing the mobile application on different devices and emulators.
 Fixing bugs and improving the performance.
 
 Writing unit tests and integration tests.
+
+Testing is crucial for a stable mobile application.
