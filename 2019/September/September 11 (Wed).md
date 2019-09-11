@@ -1,0 +1,7 @@
+# September 11, 2019
+
+Defining the theme and styles for the design system using styled-components.
+
+Ensuring that the styles are consistent and maintainable.
+
+Implementing responsive design.
