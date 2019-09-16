@@ -5,3 +5,5 @@ Working on a new project: Migrating a web application to React Server Components
 Understanding the benefits and challenges of server components.
 
 Implementing the migration in phases.
+
+React Server Components seem like the future.
