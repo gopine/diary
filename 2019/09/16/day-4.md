@@ -1,0 +1,1 @@
+React Server Components seem like the future.
