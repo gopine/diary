@@ -1,0 +1,1 @@
+Publishing the design system to a private npm registry.
