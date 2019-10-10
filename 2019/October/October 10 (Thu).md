@@ -9,3 +9,5 @@ Thinking about migrating some backend endpoints.
 This could significantly reduce costs.
 
 Deployed a test lambda function, worked as expected.
+
+Investigating best practices for securing serverless functions.
