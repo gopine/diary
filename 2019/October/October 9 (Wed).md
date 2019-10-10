@@ -9,3 +9,5 @@ Spent quite a while on this.
 Finally found the issue and resolved it.
 
 Webpack is so powerful, yet so frustrating.
+
+Finished the webpack configuration and deployment is ready.
