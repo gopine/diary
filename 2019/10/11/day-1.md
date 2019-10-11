@@ -1,0 +1,3 @@
+Working on improving the performance of our website.
+
+Analyzing the Lighthouse report.
