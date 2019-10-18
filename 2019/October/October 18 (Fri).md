@@ -7,3 +7,5 @@ Making our website installable on mobile devices.
 Offline support is a key feature.
 
 Need to implement a service worker.
+
+Successfully implemented a service worker for caching assets.
