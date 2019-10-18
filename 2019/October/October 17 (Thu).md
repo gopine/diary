@@ -7,3 +7,5 @@ Running code written in other languages in the browser.
 This could lead to significant performance improvements.
 
 Still a relatively new technology.
+
+WebAssembly performance is impressive.
