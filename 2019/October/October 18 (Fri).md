@@ -1,0 +1,9 @@
+# October 18, 2019
+
+Investigating the use of Progressive Web Apps (PWAs).
+
+Making our website installable on mobile devices.
+
+Offline support is a key feature.
+
+Need to implement a service worker.
