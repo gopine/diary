@@ -9,3 +9,5 @@ Offline support is a key feature.
 Need to implement a service worker.
 
 Successfully implemented a service worker for caching assets.
+
+The website now works offline as a PWA.
