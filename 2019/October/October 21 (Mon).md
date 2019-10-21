@@ -7,3 +7,5 @@ Adding type safety can prevent many runtime errors.
 Gradually converting JavaScript files to TypeScript.
 
 The learning curve is a bit steep.
+
+TypeScript is a game changer for code quality.
