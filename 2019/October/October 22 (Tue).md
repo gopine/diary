@@ -7,3 +7,5 @@ Optional chaining and nullish coalescing operators.
 These features can make the code more concise.
 
 Need to update our Babel configuration.
+
+Optional chaining makes the code much cleaner.
