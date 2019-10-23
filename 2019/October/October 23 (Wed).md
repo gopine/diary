@@ -7,3 +7,5 @@ Building a simple chat application.
 Need to handle concurrent connections.
 
 Testing with multiple users.
+
+Successfully implemented a basic WebSocket server.
