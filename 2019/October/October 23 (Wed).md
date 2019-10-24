@@ -9,3 +9,5 @@ Need to handle concurrent connections.
 Testing with multiple users.
 
 Successfully implemented a basic WebSocket server.
+
+WebSockets are great for real-time applications.
