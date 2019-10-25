@@ -9,3 +9,5 @@ Using Jenkins to run tests and deploy to production.
 Setting up automatic deployments on push to master.
 
 Automated deployments are a huge time saver.
+
+The CI/CD pipeline is now fully automated.
