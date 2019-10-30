@@ -9,3 +9,5 @@ Documenting the components with Storybook.
 Ensuring consistency across the application.
 
 Storybook is great for visualizing UI components.
+
+Created a basic button component in Storybook.
