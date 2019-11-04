@@ -7,3 +7,5 @@ Implementing proper input validation.
 Preventing Cross-Site Scripting (XSS) attacks.
 
 Protecting against SQL injection.
+
+Input validation is very important for security.
