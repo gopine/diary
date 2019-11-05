@@ -9,3 +9,5 @@ Preventing Cross-Site Scripting (XSS) attacks.
 Protecting against SQL injection.
 
 Input validation is very important for security.
+
+Deployed a new security patch today.
