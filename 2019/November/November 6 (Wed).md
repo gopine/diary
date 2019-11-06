@@ -9,3 +9,5 @@ Deploying containers without managing servers.
 Scaling applications automatically.
 
 Serverless containers offer a great balance between flexibility and manageability.
+
+Managed to deploy the container to AWS Fargate.
