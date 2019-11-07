@@ -7,3 +7,5 @@ Composition API and Teleport.
 These features can improve code organization.
 
 Experimenting with the new syntax.
+
+The Composition API is a welcome addition to Vue.js.
