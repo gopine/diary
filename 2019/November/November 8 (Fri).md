@@ -7,3 +7,5 @@ Using React Native to build cross-platform apps.
 Optimizing the rendering performance.
 
 Minimizing the bundle size.
+
+React Native performance can be tricky to optimize.
