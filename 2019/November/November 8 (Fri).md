@@ -9,3 +9,5 @@ Optimizing the rendering performance.
 Minimizing the bundle size.
 
 React Native performance can be tricky to optimize.
+
+Successfully improved rendering performance for React Native.
