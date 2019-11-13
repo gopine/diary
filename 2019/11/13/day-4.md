@@ -1,0 +1,1 @@
+The ARIA attributes really helped improve the accessibility of the website.
