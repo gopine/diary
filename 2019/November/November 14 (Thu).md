@@ -7,3 +7,5 @@ Using biometrics to authenticate users.
 Improving the security of our application.
 
 Providing a better user experience.
+
+WebAuthn is a secure and user-friendly authentication method.
