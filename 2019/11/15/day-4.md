@@ -1,0 +1,1 @@
+Database performance is crucial for the overall performance of the application.
