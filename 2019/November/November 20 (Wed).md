@@ -9,3 +9,5 @@ Building a unified API for our application.
 Simplifying the development process.
 
 GraphQL Federation is a great way to combine multiple GraphQL APIs.
+
+GraphQL Federation simplifies the development process.
