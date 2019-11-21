@@ -1,0 +1,1 @@
+Ivy compiler significantly improves the performance of Angular applications.
