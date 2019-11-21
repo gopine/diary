@@ -7,3 +7,5 @@ Ivy compiler and improved performance.
 Migrating our Angular application to Angular 9.
 
 Taking advantage of the new features.
+
+Ivy compiler significantly improves the performance of Angular applications.
