@@ -7,3 +7,5 @@ Optimizing the website for search engines.
 Using relevant keywords.
 
 Improving the website's structure.
+
+SEO is crucial for attracting organic traffic to our website.
