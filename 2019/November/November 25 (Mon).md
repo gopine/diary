@@ -9,3 +9,5 @@ Automating the deployment process.
 Scaling applications effectively.
 
 Kubernetes is a powerful tool for container orchestration.
+
+Kubernetes simplifies the deployment and management of containers.
