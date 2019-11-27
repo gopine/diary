@@ -7,3 +7,5 @@ Implementing authentication and authorization.
 Preventing unauthorized access to our API.
 
 Using secure coding practices.
+
+API security is crucial for protecting our data.
