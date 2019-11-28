@@ -9,3 +9,5 @@ Preventing unauthorized access to our API.
 Using secure coding practices.
 
 API security is crucial for protecting our data.
+
+Successfully implemented authentication and authorization for our API.
