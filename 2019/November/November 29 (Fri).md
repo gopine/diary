@@ -7,3 +7,5 @@ Simplifying the deployment process.
 Automating the deployment process.
 
 Deploying to AWS, Azure, and Google Cloud Platform.
+
+Serverless Framework simplifies the deployment of serverless applications.
