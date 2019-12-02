@@ -7,3 +7,5 @@ Optimizing the images.
 Minifying the CSS and JavaScript.
 
 Using a Content Delivery Network (CDN).
+
+Website performance is crucial for user experience.
