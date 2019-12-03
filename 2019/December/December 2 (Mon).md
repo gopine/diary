@@ -9,3 +9,5 @@ Minifying the CSS and JavaScript.
 Using a Content Delivery Network (CDN).
 
 Website performance is crucial for user experience.
+
+Successfully improved the performance of our website.
