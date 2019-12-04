@@ -9,3 +9,5 @@ Providing offline access.
 Implementing push notifications.
 
 PWAs provide a native app-like experience on the web.
+
+Implemented offline access for our website using a service worker.
