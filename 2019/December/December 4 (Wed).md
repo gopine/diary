@@ -7,3 +7,5 @@ Implementing real-time updates.
 Building a real-time dashboard.
 
 Using WebSockets for communication.
+
+GraphQL subscriptions enable real-time updates in our application.
