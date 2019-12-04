@@ -9,3 +9,5 @@ Building a real-time dashboard.
 Using WebSockets for communication.
 
 GraphQL subscriptions enable real-time updates in our application.
+
+Successfully implemented a real-time dashboard using GraphQL subscriptions.
