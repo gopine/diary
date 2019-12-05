@@ -7,3 +7,5 @@ Optional chaining and nullish coalescing.
 Improving the code readability.
 
 Reducing the amount of boilerplate code.
+
+Optional chaining and nullish coalescing make TypeScript code more concise.
