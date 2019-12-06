@@ -7,3 +7,5 @@ Implementing Cross-Site Scripting (XSS) protection.
 Preventing SQL injection attacks.
 
 Using secure coding practices.
+
+Application security is a top priority.
