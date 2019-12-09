@@ -7,3 +7,5 @@ Running code written in other languages in the browser.
 Improving the performance of computationally intensive tasks.
 
 Exploring the possibilities of WebAssembly.
+
+WebAssembly enables us to run code written in C++, Rust, and other languages in the browser.
