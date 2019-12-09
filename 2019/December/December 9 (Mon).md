@@ -9,3 +9,5 @@ Improving the performance of computationally intensive tasks.
 Exploring the possibilities of WebAssembly.
 
 WebAssembly enables us to run code written in C++, Rust, and other languages in the browser.
+
+WebAssembly can significantly improve the performance of certain tasks.
