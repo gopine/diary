@@ -7,3 +7,5 @@ Implementing caching.
 Optimizing database queries.
 
 Reducing the API response time.
+
+API performance is crucial for user experience.
