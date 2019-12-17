@@ -7,3 +7,5 @@ Making our website installable on mobile devices.
 Providing offline access.
 
 Implementing push notifications.
+
+PWAs provide a native app-like experience on
