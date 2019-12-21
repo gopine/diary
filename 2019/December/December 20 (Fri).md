@@ -7,3 +7,5 @@ Focused on image optimization and code minification.
 Initial tests show promising results.
 
 Experimented with different image compression algorithms.
+
+Successfully reduced page load time by 15%.
