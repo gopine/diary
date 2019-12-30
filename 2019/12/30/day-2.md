@@ -1,0 +1,1 @@
+Will apply those principles to our projects.
