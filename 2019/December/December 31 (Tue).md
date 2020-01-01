@@ -7,3 +7,5 @@ Implementing automated testing and deployment.
 Aiming for a smoother release process.
 
 Configured automated testing.
+
+Integrated deployment scripts.
