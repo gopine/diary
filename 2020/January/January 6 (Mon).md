@@ -5,3 +5,5 @@ Working on the backend APIs today.
 Integrated Redis caching to improve response times.
 
 Set up monitoring tools to track performance metrics.
+
+Redis cache works as expected.
