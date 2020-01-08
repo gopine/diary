@@ -1,0 +1,1 @@
+It seems like an interesting way to share code between different applications.
