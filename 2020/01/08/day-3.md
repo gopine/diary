@@ -1,0 +1,1 @@
+Integrated module federation into the existing project.
