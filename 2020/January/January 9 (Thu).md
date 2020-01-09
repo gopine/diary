@@ -5,3 +5,5 @@ Learning about Next.js for server-side rendering in React.
 It seems like a good solution for improving SEO and performance.
 
 Implemented server-side rendering for the homepage.
+
+Optimizing images for faster load times with Next.js Image.
