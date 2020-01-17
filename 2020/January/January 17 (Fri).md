@@ -5,3 +5,5 @@ Working on a side project related to blockchain technology.
 Trying to build a decentralized application using Ethereum.
 
 Solidity programming is challenging.
+
+Deployed a smart contract into a test network.
