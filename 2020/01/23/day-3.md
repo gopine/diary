@@ -1,0 +1,1 @@
+I'm starting to understand how to interact with the blockchain from a web application.
