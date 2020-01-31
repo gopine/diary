@@ -1,0 +1,1 @@
+Created tests that cover user registration workflow.
