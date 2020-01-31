@@ -1,0 +1,1 @@
+It's created by the same team as Puppeteer, but seems more modern.
