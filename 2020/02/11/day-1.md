@@ -1,0 +1,1 @@
+Looking at integrating a headless CMS like Contentful or Strapi into a React application.
