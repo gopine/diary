@@ -5,3 +5,5 @@ Looking at integrating a headless CMS like Contentful or Strapi into a React app
 It's a powerful way to manage content without a traditional backend.
 
 Strapi is open-source, which is cool.
+
+Configuring basic content types in Strapi.
