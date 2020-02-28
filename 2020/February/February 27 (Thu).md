@@ -5,3 +5,5 @@ Working on implementing internationalization (i18n) in our application.
 Using a library like i18next to manage translations.
 
 Supporting multiple languages.
+
+Integrated i18next into our application.
