@@ -5,3 +5,5 @@ Investigating alternatives to Create React App.
 Vite is a good choice for faster development.
 
 Switching to Vite for our new project.
+
+Migrated an existing project from Create React App to Vite.
