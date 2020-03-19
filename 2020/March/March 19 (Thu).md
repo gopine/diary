@@ -5,3 +5,5 @@ Looking into the capabilities of SWR.
 SWR is a React Hooks library for remote data fetching.
 
 Using SWR to fetch data in our React components.
+
+Migrated a component to using SWR.
