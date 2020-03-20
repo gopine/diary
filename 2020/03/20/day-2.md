@@ -1,0 +1,1 @@
+Using Algolia to implement search functionality.
