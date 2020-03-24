@@ -9,3 +9,5 @@ I'm focusing on making it reusable across different sections.
 Need to figure out the best way to handle state management for this component.
 
 Spent some time debugging a weird issue with prop drilling.
+
+Considering using Context API or Redux to simplify data flow.
