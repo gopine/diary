@@ -9,3 +9,5 @@ I'm aiming to keep the component as pure as possible.
 Reading through the official Redux documentation for best practices.
 
 Successfully connected the component to the Redux store and it's working well.
+
+Started writing unit tests using Jest and Enzyme.
