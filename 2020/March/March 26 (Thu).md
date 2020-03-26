@@ -9,3 +9,5 @@ Leaning towards Thunk for its simplicity.
 Planning to fetch data from an API endpoint and update the store.
 
 Implemented Redux Thunk and it seems to be working fine.
+
+The API calls are now correctly updating the application state.
