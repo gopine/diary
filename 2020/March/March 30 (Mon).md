@@ -9,3 +9,5 @@ Fixed a few minor bugs related to accessibility.
 Making sure the component is fully responsive across different screen sizes.
 
 Fixed the accessibility issues and made it fully responsive.
+
+Preparing the component for production deployment.
