@@ -7,3 +7,5 @@ Monitoring the logs for any errors.
 Everything seems to be running smoothly so far.
 
 Received positive feedback from the team.
+
+Checked the monitoring tools and there's no error.
