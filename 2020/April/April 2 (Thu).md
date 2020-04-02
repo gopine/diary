@@ -7,3 +7,5 @@ Using v-model for two-way data binding.
 Implementing validation logic to ensure data integrity.
 
 Handling form submission and displaying error messages.
+
+Implemented form validation using VeeValidate.
