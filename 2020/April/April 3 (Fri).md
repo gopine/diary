@@ -9,3 +9,5 @@ Trying to understand the unidirectional data flow.
 Vuex seems less verbose than Redux.
 
 Integrated Vuex into the Vue application and it works well.
+
+Debugging some issues with reactive data updates in Vuex.
