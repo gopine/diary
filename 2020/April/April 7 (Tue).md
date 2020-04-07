@@ -9,3 +9,5 @@ Adding animations to make the interaction more engaging.
 Paying attention to accessibility guidelines.
 
 Added custom drag layers for better visual feedback.
+
+Implementing accessibility features for the drag-and-drop component.
