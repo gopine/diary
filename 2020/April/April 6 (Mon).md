@@ -11,3 +11,5 @@ Focusing on performance and accessibility.
 Spent time reading about React DnD API.
 
 Successfully implemented a basic drag and drop feature using React DnD.
+
+Need to improve the visual feedback during drag and drop operations.
