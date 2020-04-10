@@ -7,3 +7,5 @@ Writing some simple code in Rust and compiling it to WASM.
 Integrating the WASM module into the JavaScript code.
 
 Compiled a simple Rust program to WebAssembly.
+
+Integrating the WASM module into the JavaScript codebase.
