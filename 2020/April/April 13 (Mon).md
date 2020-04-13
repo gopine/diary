@@ -9,3 +9,5 @@ Focusing on making the visualization interactive and informative.
 Considering using a higher-level charting library for simpler visualizations.
 
 Started creating a custom chart using D3.js.
+
+Added interactivity to the data visualization.
