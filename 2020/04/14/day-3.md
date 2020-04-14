@@ -1,0 +1,1 @@
+Setting up a CI/CD pipeline to automatically run the tests.
