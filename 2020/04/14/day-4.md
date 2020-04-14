@@ -1,0 +1,1 @@
+Installed and configured Cypress for end-to-end testing.
