@@ -9,3 +9,5 @@ Trying to choose the best framework for the project's needs.
 Considering the trade-offs between customization and ease of use.
 
 Evaluated Material-UI and Ant Design for the project.
+
+Decided to use Material-UI for its flexibility and customization options.
