@@ -1,0 +1,1 @@
+Using tools like React DevTools and Lighthouse to analyze performance.
