@@ -7,3 +7,5 @@ Profiling the code to identify bottlenecks.
 Optimizing the rendering logic and reducing unnecessary re-renders.
 
 Using tools like React DevTools and Lighthouse to analyze performance.
+
+Used React DevTools to identify performance bottlenecks.
