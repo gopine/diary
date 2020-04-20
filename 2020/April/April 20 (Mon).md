@@ -7,3 +7,5 @@ Gradually converting JavaScript files to TypeScript.
 Addressing type errors and improving code quality.
 
 Emphasizing the benefits of static typing.
+
+Started migrating JavaScript files to TypeScript.
