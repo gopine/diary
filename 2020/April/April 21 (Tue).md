@@ -7,3 +7,5 @@ Setting up a WebSocket server and client.
 Handling message broadcasting and user authentication.
 
 Exploring different WebSocket libraries and frameworks.
+
+Set up a WebSocket server using Node.js.
