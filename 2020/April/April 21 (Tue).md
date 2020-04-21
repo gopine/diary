@@ -9,3 +9,5 @@ Handling message broadcasting and user authentication.
 Exploring different WebSocket libraries and frameworks.
 
 Set up a WebSocket server using Node.js.
+
+Implementing message broadcasting and user authentication.
