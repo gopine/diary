@@ -7,3 +7,5 @@ Exploring concepts like distributed ledgers, smart contracts, and consensus mech
 Trying to build a simple blockchain application.
 
 Understanding the potential of blockchain for various industries.
+
+Studied the concepts of distributed ledgers and consensus mechanisms.
