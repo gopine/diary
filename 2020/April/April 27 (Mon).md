@@ -9,3 +9,5 @@ Improving the readability and maintainability of the code.
 Trying to adhere to best practices.
 
 Replacing `var` with `let` and `const` in the codebase.
+
+Using arrow functions and destructuring to improve code readability.
