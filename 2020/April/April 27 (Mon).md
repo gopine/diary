@@ -7,3 +7,5 @@ Replacing `var` with `let` and `const`, using arrow functions, and destructuring
 Improving the readability and maintainability of the code.
 
 Trying to adhere to best practices.
+
+Replacing `var` with `let` and `const` in the codebase.
