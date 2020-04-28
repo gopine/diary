@@ -7,3 +7,5 @@ Adding ARIA attributes, using semantic HTML, and ensuring proper keyboard naviga
 Testing the website with screen readers to identify accessibility issues.
 
 Trying to make the web more inclusive.
+
+Adding ARIA attributes to improve website accessibility.
