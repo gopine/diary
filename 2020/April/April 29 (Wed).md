@@ -9,3 +9,5 @@ Considering using Rust for backend development or WebAssembly.
 Trying to write some basic Rust programs.
 
 Studied Rust's memory safety features and performance benefits.
+
+Writing some basic Rust programs to get familiar with the language.
