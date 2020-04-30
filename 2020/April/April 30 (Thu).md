@@ -9,3 +9,5 @@ Using SSE for pushing data from the server to the client without requiring const
 Considering SSE as an alternative to WebSockets for some use cases.
 
 Set up an SSE server using Node.js.
+
+Using SSE for pushing data from the server to the client for real-time updates.
