@@ -5,3 +5,5 @@ Working on improving the performance of a large React application by implementin
 This will reduce the initial bundle size and improve load times.
 
 Focused on optimizing the user experience.
+
+Implemented code splitting with React.lazy and Suspense in a React application.
