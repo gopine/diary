@@ -7,3 +7,5 @@ Setting up the project structure and integrating with a headless CMS for content
 Aiming for a fast and SEO-friendly website.
 
 Setup the project structure in Next.js with TypeScript.
+
+Integrated Next.js with a headless CMS for content management.
