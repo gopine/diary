@@ -7,3 +7,5 @@ Used the React Profiler to identify components causing memory leaks.
 Implemented techniques to release memory and prevent future leaks.
 
 Used the React Profiler to identify memory leaks.
+
+Implemented techniques to release memory and prevent future leaks.
