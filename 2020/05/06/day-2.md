@@ -1,0 +1,1 @@
+Aiming for a fast and SEO-friendly website.
