@@ -7,3 +7,5 @@ Exploring its concurrency features and performance benefits.
 Considering using Go for building backend services and APIs.
 
 Explored Go's concurrency features and performance benefits.
+
+Considering Go for building backend services and APIs.
