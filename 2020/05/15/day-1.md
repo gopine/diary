@@ -1,0 +1,1 @@
+Working on implementing internationalization (i18n) in a React application.
