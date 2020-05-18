@@ -7,3 +7,5 @@ Automating the build, test, and deployment process.
 Aiming for faster and more reliable releases.
 
 Implemented a CI/CD pipeline using Jenkins.
+
+Automated the build, test, and deployment process for faster releases.
