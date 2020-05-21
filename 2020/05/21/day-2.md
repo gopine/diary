@@ -1,0 +1,1 @@
+Handling message broadcasting, user authentication, and presence detection.
