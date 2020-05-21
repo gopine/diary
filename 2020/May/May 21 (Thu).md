@@ -7,3 +7,5 @@ Building a chat application using WebSockets.
 Handling message broadcasting, user authentication, and presence detection.
 
 Explored the use of WebSockets for real-time communication.
+
+Built a chat application using WebSockets with message broadcasting and user authentication.
