@@ -7,3 +7,5 @@ Implementing measures to prevent cross-site scripting (XSS), cross-site request 
 Following security best practices and guidelines.
 
 Implemented measures to prevent cross-site scripting (XSS) attacks.
+
+Implemented measures to prevent cross-site request forgery (CSRF) and SQL injection attacks.
