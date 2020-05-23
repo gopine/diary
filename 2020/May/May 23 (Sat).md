@@ -7,3 +7,5 @@ Designing websites that adapt to different screen sizes and devices.
 Using CSS media queries and flexible layouts.
 
 Studied the principles of responsive web design.
+
+Designing websites that adapt to different screen sizes and devices.
