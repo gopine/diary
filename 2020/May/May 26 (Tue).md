@@ -9,3 +9,5 @@ I deployed a simple "Hello, World!" function using Node.js.
 Hoping this will streamline some upcoming projects.
 
 Debugging the serverless function was surprisingly straightforward using CloudWatch logs.
+
+Read a great article on optimizing serverless cold starts.
