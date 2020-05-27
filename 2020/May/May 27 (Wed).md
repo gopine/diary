@@ -9,3 +9,5 @@ I refactored a component to use `useReducer` for complex state management.
 The code is much cleaner now.
 
 Experimenting with different React hook patterns for data fetching.
+
+Decided to use Axios instead of Fetch API for better error handling in React components.
