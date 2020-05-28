@@ -7,3 +7,5 @@ The initial configuration was intimidating but worth it.
 Implemented dynamic imports in a React application.
 
 This significantly improved the initial load time.
+
+Webpack documentation is not as clear as I'd hoped.
