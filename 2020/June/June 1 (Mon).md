@@ -7,3 +7,5 @@ The ability to fetch only the data I need is appealing.
 Set up a simple GraphQL server using Apollo Server.
 
 This could be useful in future.
+
+GraphQL's schema definition language (SDL) is quite elegant.
