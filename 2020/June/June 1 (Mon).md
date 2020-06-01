@@ -9,3 +9,5 @@ Set up a simple GraphQL server using Apollo Server.
 This could be useful in future.
 
 GraphQL's schema definition language (SDL) is quite elegant.
+
+Trying to understand the best practices for error handling in GraphQL.
