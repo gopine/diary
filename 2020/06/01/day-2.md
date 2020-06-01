@@ -1,0 +1,1 @@
+Successfully connected the React frontend to the Strapi backend.
