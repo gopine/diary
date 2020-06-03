@@ -7,3 +7,5 @@ The combination of JavaScript, APIs, and Markup is interesting.
 Started building a static blog using Gatsby.
 
 This could be a fast and secure approach.
+
+Gatsby's plugin ecosystem seems very powerful.
