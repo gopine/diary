@@ -9,3 +9,5 @@ Created a Dockerfile for a Node.js application.
 Deployment becomes consistent.
 
 Docker's learning curve is steeper than I initially anticipated.
+
+Successfully built and ran a Docker container for my application.
