@@ -7,3 +7,5 @@ The concepts of pods, deployments, and services seem complex.
 Created a simple Kubernetes deployment using Minikube.
 
 It's hard at first.
+
+Kubernetes YAML configuration files are quite verbose.
