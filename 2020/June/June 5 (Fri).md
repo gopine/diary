@@ -9,3 +9,5 @@ Created a simple Kubernetes deployment using Minikube.
 It's hard at first.
 
 Kubernetes YAML configuration files are quite verbose.
+
+Successfully deployed my application to Kubernetes using Minikube.
