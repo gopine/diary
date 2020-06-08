@@ -1,0 +1,1 @@
+Decided to use Jest and React Testing Library.
