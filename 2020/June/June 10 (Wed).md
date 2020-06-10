@@ -7,3 +7,5 @@ The framework simplifies building React applications with SSR.
 Created a simple Next.js application with a few pages.
 
 It is easy.
+
+Next.js's file-based routing is very convenient.
