@@ -9,3 +9,5 @@ Created a simple Next.js application with a few pages.
 It is easy.
 
 Next.js's file-based routing is very convenient.
+
+Configuring Next.js to fetch data from an external API.
