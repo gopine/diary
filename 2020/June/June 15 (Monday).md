@@ -1,0 +1,9 @@
+# June 15, 2020
+
+Started exploring the new React Hooks API.
+
+useState and useEffect seem very powerful.
+
+Need to refactor some older class components.
+
+Thinking about using Context API for global state management.
