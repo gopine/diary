@@ -7,3 +7,5 @@ The scalability and cost-effectiveness are compelling.
 Considering using them for background tasks and API endpoints.
 
 Need to learn more about deployment strategies.
+
+Read about different serverless deployment frameworks.
