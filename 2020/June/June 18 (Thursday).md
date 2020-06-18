@@ -7,3 +7,5 @@ Sharing code between different applications could be a game changer.
 Need to investigate the performance implications.
 
 Lots of configurations to understand.
+
+Successfully shared a component between two local projects.
