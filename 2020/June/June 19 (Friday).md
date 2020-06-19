@@ -9,3 +9,5 @@ Aiming for zero-downtime deployments.
 Exploring different testing strategies.
 
 Added linting and formatting checks to the pipeline.
+
+Improved the build time by optimizing image assets.
