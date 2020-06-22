@@ -9,3 +9,5 @@ Learning about API routes and dynamic imports.
 Trying to deploy it to Vercel.
 
 Successfully deployed the Next.js project to Vercel.
+
+Experimenting with different Next.js deployment configurations.
