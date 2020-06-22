@@ -7,3 +7,5 @@ The built-in routing and server-side rendering are very convenient.
 Learning about API routes and dynamic imports.
 
 Trying to deploy it to Vercel.
+
+Successfully deployed the Next.js project to Vercel.
