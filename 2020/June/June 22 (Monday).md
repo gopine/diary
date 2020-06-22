@@ -1,0 +1,9 @@
+# June 22, 2020
+
+Started a new project using Next.js.
+
+The built-in routing and server-side rendering are very convenient.
+
+Learning about API routes and dynamic imports.
+
+Trying to deploy it to Vercel.
