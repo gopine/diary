@@ -9,3 +9,5 @@ Considering using Recoil for its simplicity and performance.
 Need to benchmark them to determine the best choice.
 
 Built a small app using Zustand.
+
+Comparing Zustand with Redux Toolkit.
