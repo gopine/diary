@@ -9,3 +9,5 @@ Improving code maintainability and reducing runtime errors.
 Configuring TypeScript with Webpack.
 
 Refactored a component to use TypeScript.
+
+Configured TypeScript with ESLint and Prettier.
