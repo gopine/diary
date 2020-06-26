@@ -9,3 +9,5 @@ Using Lighthouse to identify performance bottlenecks.
 Trying to achieve a perfect score.
 
 Optimized image assets using ImageOptim.
+
+Enabled Gzip compression on the server.
