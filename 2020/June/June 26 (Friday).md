@@ -7,3 +7,5 @@ Optimizing images, minifying CSS and JavaScript, and leveraging browser caching.
 Using Lighthouse to identify performance bottlenecks.
 
 Trying to achieve a perfect score.
+
+Optimized image assets using ImageOptim.
