@@ -7,3 +7,5 @@ Conducting user testing and gathering feedback.
 Making iterative improvements based on user input.
 
 Focusing on usability and accessibility.
+
+Analyzed user testing data.
