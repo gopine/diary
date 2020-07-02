@@ -9,3 +9,5 @@ Documenting the design system using Storybook.
 Improving consistency and maintainability across our projects.
 
 Created a basic button component in Storybook.
+
+Documented the button component in Storybook.
