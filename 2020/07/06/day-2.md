@@ -1,0 +1,1 @@
+Framer Motion, React Spring, and GSAP are popular options.
