@@ -7,3 +7,5 @@ Breaking down our application into smaller, independent modules.
 Using a module federation approach.
 
 Improving team autonomy and scalability.
+
+Looked at different microfrontend frameworks.
