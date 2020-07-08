@@ -9,3 +9,5 @@ Using a module federation approach.
 Improving team autonomy and scalability.
 
 Looked at different microfrontend frameworks.
+
+Trying to understand the benefits of microfrontends.
