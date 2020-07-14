@@ -7,3 +7,5 @@ Automating more of the testing and deployment process.
 Using Docker to containerize our application.
 
 Integrating our pipeline with GitHub Actions.
+
+Added Docker support to the project.
