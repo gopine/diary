@@ -9,3 +9,5 @@ Improving website performance for computationally intensive tasks.
 Exploring different Wasm toolchains.
 
 Looked at different WebAssembly compilers.
+
+Trying to understand the use cases for WebAssembly.
