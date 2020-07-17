@@ -7,3 +7,5 @@ Using responsive images and lazy loading.
 Optimizing image formats and compression levels.
 
 Using a CDN to deliver images.
+
+Implemented lazy loading for images.
