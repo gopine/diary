@@ -9,3 +9,5 @@ Using serverless functions to build APIs and background tasks.
 Reducing infrastructure costs.
 
 Deployed a serverless function to AWS Lambda.
+
+Configured API Gateway for the Lambda function.
