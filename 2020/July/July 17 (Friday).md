@@ -9,3 +9,5 @@ Optimizing image formats and compression levels.
 Using a CDN to deliver images.
 
 Implemented lazy loading for images.
+
+Used a CDN for image delivery.
