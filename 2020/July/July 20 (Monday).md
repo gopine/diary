@@ -9,3 +9,5 @@ Storing JWTs in cookies or local storage.
 Protecting our API endpoints with authentication.
 
 Implemented authentication with JWTs.
+
+Protected API endpoints with authentication middleware.
