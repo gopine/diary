@@ -7,3 +7,5 @@ Using JSON Web Tokens (JWTs) to authenticate users.
 Storing JWTs in cookies or local storage.
 
 Protecting our API endpoints with authentication.
+
+Implemented authentication with JWTs.
