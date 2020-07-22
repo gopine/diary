@@ -7,3 +7,5 @@ Optimizing our website for offline use.
 Adding a service worker to cache assets.
 
 Implementing push notifications to re-engage users.
+
+Added a service worker for caching.
