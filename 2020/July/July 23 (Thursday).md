@@ -9,3 +9,5 @@ Choosing the right SSR framework for our project.
 Optimizing SSR performance.
 
 Compared Next.js with Remix.
+
+Considered the advantages of each framework for server-side rendering.
