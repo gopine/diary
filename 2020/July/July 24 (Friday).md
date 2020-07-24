@@ -9,3 +9,5 @@ Using a Content Security Policy (CSP) to restrict the resources that can be load
 Regularly auditing our code for security vulnerabilities.
 
 Improved the Content Security Policy.
+
+Audited code for security vulnerabilities.
