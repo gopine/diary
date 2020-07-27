@@ -7,3 +7,5 @@ Using the Context API and hooks for simple state management.
 Using Redux or Zustand for more complex state management scenarios.
 
 Choosing the right state management solution for each project.
+
+Refactored parts of a project to use Context API.
