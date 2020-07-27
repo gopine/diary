@@ -9,3 +9,5 @@ Using Redux or Zustand for more complex state management scenarios.
 Choosing the right state management solution for each project.
 
 Refactored parts of a project to use Context API.
+
+Assessed current project's state management needs.
