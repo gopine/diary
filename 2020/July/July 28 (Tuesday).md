@@ -7,3 +7,5 @@ Automating the testing and deployment process.
 Using Docker to containerize our applications.
 
 Integrating our pipeline with cloud platforms like AWS and Azure.
+
+Configured a new CI/CD pipeline.
