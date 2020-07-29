@@ -9,3 +9,5 @@ Using AWS Lambda, Azure Functions, or Google Cloud Functions.
 Reducing infrastructure costs and improving scalability.
 
 Deployed an API to AWS Lambda.
+
+Reviewed serverless computing best practices.
