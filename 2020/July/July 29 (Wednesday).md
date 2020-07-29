@@ -7,3 +7,5 @@ Deploying our applications as serverless functions.
 Using AWS Lambda, Azure Functions, or Google Cloud Functions.
 
 Reducing infrastructure costs and improving scalability.
+
+Deployed an API to AWS Lambda.
