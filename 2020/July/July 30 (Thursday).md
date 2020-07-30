@@ -9,3 +9,5 @@ Using Apollo Server or Yoga.
 Connecting our GraphQL API to a database.
 
 Configured Yoga GraphQL server.
+
+Connected GraphQL server to a MongoDB database.
