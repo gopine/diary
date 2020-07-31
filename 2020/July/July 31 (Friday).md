@@ -9,3 +9,5 @@ Using code splitting and lazy loading.
 Implementing caching strategies.
 
 Used lazy loading in React components.
+
+Updated image optimization process.
