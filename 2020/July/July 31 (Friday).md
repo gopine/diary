@@ -7,3 +7,5 @@ Optimizing images and other assets.
 Using code splitting and lazy loading.
 
 Implementing caching strategies.
+
+Used lazy loading in React components.
