@@ -9,3 +9,5 @@ Following accessibility guidelines like WCAG.
 Testing our applications with assistive technologies.
 
 Ran accessibility audits on the website.
+
+Fixed contrast issues on a landing page.
