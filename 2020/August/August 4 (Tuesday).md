@@ -9,3 +9,5 @@ Choosing the right framework for our project.
 Learning the fundamentals of each framework.
 
 Compared Vue.js and React.
+
+Reviewed front-end framework architectural patterns.
