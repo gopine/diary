@@ -1,0 +1,1 @@
+Implemented a Web Component.
