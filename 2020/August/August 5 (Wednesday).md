@@ -9,3 +9,5 @@ Using Shadow DOM and Custom Elements.
 Building a simple Web Component.
 
 Implemented a Web Component.
+
+Reviewed web component lifecycle.
