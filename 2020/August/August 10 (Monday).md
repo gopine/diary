@@ -9,3 +9,5 @@ Using tools like Jenkins, Travis CI, or CircleCI.
 Deploying our applications to cloud platforms like AWS and Azure.
 
 Configured a new CI/CD pipeline in CircleCI.
+
+Automated tests in the CI/CD pipeline.
