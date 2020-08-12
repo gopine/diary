@@ -9,3 +9,5 @@ Using GraphQL subscriptions for real-time updates.
 Building a GraphQL API with Node.js and Express.
 
 Implemented a GraphQL API.
+
+Connected GraphQL to a PostgreSQL database.
