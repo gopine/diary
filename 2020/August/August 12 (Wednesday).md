@@ -7,3 +7,5 @@ Fetching data with GraphQL queries.
 Using GraphQL subscriptions for real-time updates.
 
 Building a GraphQL API with Node.js and Express.
+
+Implemented a GraphQL API.
