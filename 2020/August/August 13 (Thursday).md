@@ -7,3 +7,5 @@ Jest, Mocha, and Jasmine are popular options.
 Writing unit tests, integration tests, and end-to-end tests.
 
 Ensuring the quality of our code.
+
+Wrote unit tests with Jest.
