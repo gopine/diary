@@ -9,3 +9,5 @@ Using code splitting and lazy loading to reduce the initial load time.
 Profiling our applications to identify performance bottlenecks.
 
 Used useMemo hook for a component.
+
+Analyzed React Profiler results.
