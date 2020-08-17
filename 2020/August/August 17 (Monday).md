@@ -7,3 +7,5 @@ Using memoization techniques to prevent unnecessary re-renders.
 Using code splitting and lazy loading to reduce the initial load time.
 
 Profiling our applications to identify performance bottlenecks.
+
+Used useMemo hook for a component.
