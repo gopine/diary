@@ -9,3 +9,5 @@ Understanding the differences between SSR, SSG, and CSR.
 Deploying our Next.js application to a production environment.
 
 Configured server-side rendering in a Next.js project.
+
+Looked at Next.js image optimization.
