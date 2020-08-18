@@ -7,3 +7,5 @@ Improving website performance and SEO.
 Understanding the differences between SSR, SSG, and CSR.
 
 Deploying our Next.js application to a production environment.
+
+Configured server-side rendering in a Next.js project.
