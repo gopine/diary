@@ -9,3 +9,5 @@ Using Docker to containerize our applications.
 Integrating our pipeline with cloud platforms like AWS and Azure.
 
 Configured Docker for a project.
+
+Connected CI/CD pipeline to Azure Container Registry.
