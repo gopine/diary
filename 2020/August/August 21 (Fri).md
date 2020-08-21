@@ -7,3 +7,5 @@ The `useState` hook seems really useful for managing component state.
 Need to dive deeper into `useEffect` for side effects.
 
 Thinking about refactoring a class component to use hooks.
+
+Successfully refactored a simple component with useState.
