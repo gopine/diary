@@ -9,3 +9,5 @@ The type system and query language look powerful.
 Need to compare it with existing REST endpoints.
 
 Read about Apollo Client for GraphQL.
+
+Trying to integrate GraphQL into a new project.
