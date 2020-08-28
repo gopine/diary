@@ -9,3 +9,5 @@ The pre-built components save a lot of time.
 Customizing the theme is a bit challenging.
 
 Customized the Material-UI theme with our brand colors.
+
+Implemented a navigation bar using Material-UI.
