@@ -7,3 +7,5 @@ It looks like a good option for improving SEO and performance.
 Setting up a basic Next.js project to test it out.
 
 Successfully deployed a Next.js app to Vercel.
+
+Exploring Next.js API routes.
