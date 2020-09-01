@@ -5,3 +5,5 @@ Investigating CI/CD pipelines.
 Setting up a pipeline with GitHub Actions.
 
 Automating the build, test, and deployment processes.
+
+CI/CD pipeline is now running successfully.
