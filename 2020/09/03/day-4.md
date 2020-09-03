@@ -1,0 +1,1 @@
+Configured scaling for the application based on load.
