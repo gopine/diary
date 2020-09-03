@@ -1,0 +1,1 @@
+Deployed the application to a Kubernetes cluster.
