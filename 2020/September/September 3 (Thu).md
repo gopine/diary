@@ -5,3 +5,5 @@ Exploring Kubernetes for orchestrating Docker containers.
 Deploying the application to a Kubernetes cluster.
 
 Managing deployments and scaling the application.
+
+Deployed the application to a Kubernetes cluster.
