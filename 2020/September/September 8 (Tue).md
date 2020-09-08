@@ -7,3 +7,5 @@ Exploring the benefits of serverless architecture.
 Considering migrating the application's database.
 
 Read about FaunaDB.
+
+Compared FaunaDB to DynamoDB.
