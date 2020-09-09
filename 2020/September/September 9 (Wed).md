@@ -7,3 +7,5 @@ Using a CDN to improve the application's performance.
 Caching static assets and reducing latency.
 
 Configured a CDN for the application.
+
+Improved page load times significantly.
