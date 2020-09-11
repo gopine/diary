@@ -7,3 +7,5 @@ Building a chat application.
 Implementing features like sending and receiving messages.
 
 Established a WebSocket connection between client and server.
+
+Implemented sending and receiving messages.
