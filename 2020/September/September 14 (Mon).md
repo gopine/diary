@@ -7,3 +7,5 @@ Using Stripe or PayPal.
 Processing payments securely.
 
 Integrated Stripe for payment processing.
+
+Tested the payment flow.
