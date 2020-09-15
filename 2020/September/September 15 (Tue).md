@@ -7,3 +7,5 @@ Setting up a GraphQL server with subscriptions.
 Pushing data to clients in real-time.
 
 Set up a GraphQL server with subscriptions.
+
+Implemented real-time updates using GraphQL subscriptions.
