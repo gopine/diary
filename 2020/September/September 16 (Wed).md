@@ -7,3 +7,5 @@ Exploring the benefits of NoSQL for specific use cases.
 Considering migrating from a relational database.
 
 Read about MongoDB.
+
+Compared MongoDB with Cassandra.
