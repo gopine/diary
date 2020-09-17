@@ -7,3 +7,5 @@ Creating a simple UI.
 Exploring Flutter's widget system.
 
 Created a basic Flutter UI.
+
+Learning about Flutter's widget system.
