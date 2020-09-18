@@ -7,3 +7,5 @@ Using code splitting and tree shaking.
 Reducing the amount of JavaScript that needs to be downloaded.
 
 Implemented code splitting.
+
+Reduced bundle size significantly.
