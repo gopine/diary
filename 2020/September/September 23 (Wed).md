@@ -7,3 +7,5 @@ Improving SEO and performance.
 Generating HTML on the server.
 
 Implemented server-side rendering with Next.js.
+
+Improved SEO and performance.
