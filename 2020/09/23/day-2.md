@@ -1,0 +1,1 @@
+Implemented server-side rendering with Next.js.
