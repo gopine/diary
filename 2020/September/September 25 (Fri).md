@@ -7,3 +7,5 @@ Designing GraphQL schema and resolvers.
 Building flexible and efficient API.
 
 Designed GraphQL schema.
+
+Built GraphQL API with Apollo Server.
