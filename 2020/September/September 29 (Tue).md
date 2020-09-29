@@ -1,0 +1,7 @@
+# September 29, 2020
+
+Researching different data visualization libraries like D3.js and Three.js.
+
+Exploring the capabilities of these libraries.
+
+Creating interactive charts and graphs.
