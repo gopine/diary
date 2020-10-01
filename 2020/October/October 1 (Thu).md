@@ -5,3 +5,5 @@ Experimenting with ReasonML and BuckleScript for building fast and reliable web 
 Exploring its type system and syntax.
 
 Considering using ReasonML for a new project.
+
+Explored ReasonML and BuckleScript.
