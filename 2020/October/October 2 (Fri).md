@@ -7,3 +7,5 @@ Using memoization and lazy loading.
 Profiling the application to identify bottlenecks.
 
 Used memoization and lazy loading techniques.
+
+Identified bottlenecks in the application's performance by profiling.
