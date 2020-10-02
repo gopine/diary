@@ -5,3 +5,5 @@ Working on improving the application's performance with code optimization techni
 Using memoization and lazy loading.
 
 Profiling the application to identify bottlenecks.
+
+Used memoization and lazy loading techniques.
