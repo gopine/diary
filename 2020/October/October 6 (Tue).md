@@ -7,3 +7,5 @@ Exploring their capabilities.
 Implementing asynchronous communication between services.
 
 Read about RabbitMQ.
+
+Compared RabbitMQ and Kafka.
