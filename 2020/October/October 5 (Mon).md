@@ -7,3 +7,5 @@ Deploying backend logic as serverless functions.
 Reducing infrastructure costs.
 
 Implemented serverless functions with AWS Lambda.
+
+Reduced infrastructure costs.
