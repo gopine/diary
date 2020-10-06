@@ -5,3 +5,5 @@ Researching different message queue systems like RabbitMQ and Kafka.
 Exploring their capabilities.
 
 Implementing asynchronous communication between services.
+
+Read about RabbitMQ.
