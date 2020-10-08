@@ -1,0 +1,1 @@
+Simplifying data access for clients.
