@@ -7,3 +7,5 @@ Building a unified data graph.
 Simplifying data access for clients.
 
 Implemented GraphQL Federation.
+
+Simplified data access for clients by building unified data graph.
