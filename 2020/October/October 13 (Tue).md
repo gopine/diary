@@ -7,3 +7,5 @@ Collecting metrics and visualizing data.
 Monitoring the application's performance.
 
 Collected metrics.
+
+Monitored the application's performance.
