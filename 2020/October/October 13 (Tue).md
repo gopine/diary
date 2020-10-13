@@ -5,3 +5,5 @@ Researching different monitoring tools like Prometheus and Grafana.
 Collecting metrics and visualizing data.
 
 Monitoring the application's performance.
+
+Collected metrics.
