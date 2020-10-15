@@ -5,3 +5,5 @@ Experimenting with serverless databases like AWS Aurora Serverless and Google Cl
 Scaling databases automatically.
 
 Reducing database costs.
+
+Scaled databases automatically by using AWS Aurora Serverless.
