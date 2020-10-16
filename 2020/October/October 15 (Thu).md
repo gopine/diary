@@ -7,3 +7,5 @@ Scaling databases automatically.
 Reducing database costs.
 
 Scaled databases automatically by using AWS Aurora Serverless.
+
+Reducing database costs.
