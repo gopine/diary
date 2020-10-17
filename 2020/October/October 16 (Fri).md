@@ -7,3 +7,5 @@ Improving performance and reducing network requests.
 Caching data on the client.
 
 Implemented GraphQL caching.
+
+Reduced network requests.
