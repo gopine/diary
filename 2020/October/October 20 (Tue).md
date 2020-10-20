@@ -5,3 +5,5 @@ Researching different API gateways like Kong and Tyk.
 Managing API traffic.
 
 Securing APIs.
+
+Secured APIs.
