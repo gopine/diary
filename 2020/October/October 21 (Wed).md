@@ -7,3 +7,5 @@ Automating accessibility checks.
 Ensuring the application is accessible to everyone.
 
 Automated accessibility checks with accessibility testing.
+
+Ensuring that application is accessible to everyone.
