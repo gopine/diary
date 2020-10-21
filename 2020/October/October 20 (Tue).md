@@ -7,3 +7,5 @@ Managing API traffic.
 Securing APIs.
 
 Secured APIs.
+
+Managed API traffic by researching Kong.
