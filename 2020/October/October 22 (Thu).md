@@ -7,3 +7,5 @@ Defining API contracts with protocol buffers.
 Improving API speed and efficiency.
 
 Experimenting with gRPC.
+
+Improving API speed.
