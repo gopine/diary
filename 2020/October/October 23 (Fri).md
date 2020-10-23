@@ -1,0 +1,7 @@
+# October 23, 2020
+
+Working on implementing A/B testing with Google Optimize or Optimizely.
+
+Testing different versions of the application.
+
+Optimizing user experience.
