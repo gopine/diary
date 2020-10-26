@@ -7,3 +7,5 @@ Optimizing images.
 Minifying CSS and JavaScript.
 
 Improving page load times.
+
+Optimized images.
