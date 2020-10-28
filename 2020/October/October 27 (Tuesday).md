@@ -9,3 +9,5 @@ I experimented with a simple Node.js function.
 Debugging feels different without traditional servers.
 
 I think serverless is the future.
+
+Deployment is very easy though.
