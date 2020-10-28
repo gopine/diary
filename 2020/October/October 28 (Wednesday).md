@@ -9,3 +9,5 @@ I built a small component to fetch data from an API.
 Still struggling with managing complex state.
 
 The React ecosystem is ever-changing.
+
+Context API seems powerful for sharing state.
