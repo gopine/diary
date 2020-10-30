@@ -9,3 +9,5 @@ Set up a basic Apollo Client on the frontend.
 Need to understand schema design better.
 
 GraphQL could be an option for my next project.
+
+It could reduce unnecessary data transfer too.
