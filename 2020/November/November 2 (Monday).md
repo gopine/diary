@@ -9,3 +9,5 @@ The event-driven nature is interesting.
 Need to consider scalability for production.
 
 WebSockets have their own challenges.
+
+Security is a concern with real-time apps.
