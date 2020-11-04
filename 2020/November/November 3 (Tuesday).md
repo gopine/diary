@@ -9,3 +9,5 @@ It felt complex initially, but the benefits for deployment are clear.
 I pushed the image to Docker Hub.
 
 Docker simplifies deployments.
+
+I need to dive deeper into Docker Compose.
