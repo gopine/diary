@@ -1,0 +1,1 @@
+Started learning TypeScript to add static typing to my JavaScript projects.
