@@ -9,3 +9,5 @@ It helps with visual testing and documentation.
 I need to explore more advanced features.
 
 Storybook promotes reusability.
+
+Visual testing is easier with Storybook.
