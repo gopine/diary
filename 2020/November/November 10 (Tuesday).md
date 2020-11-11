@@ -9,3 +9,5 @@ It feels much less boilerplate.
 The learning curve is moderate.
 
 Redux Toolkit reduces boilerplate.
+
+Redux still feels complex.
