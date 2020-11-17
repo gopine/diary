@@ -7,3 +7,5 @@ This helps to ensure type safety between the frontend and backend.
 The setup was a bit involved.
 
 It seems beneficial in the long run.
+
+Type safety is crucial for large projects.
