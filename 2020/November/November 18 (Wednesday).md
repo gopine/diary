@@ -7,3 +7,5 @@ It simplifies data fetching significantly.
 The automatic caching and background updates are a huge time saver.
 
 Need to learn more about advanced configurations.
+
+React Query simplifies data fetching.
