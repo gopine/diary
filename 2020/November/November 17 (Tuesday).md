@@ -9,3 +9,5 @@ The setup was a bit involved.
 It seems beneficial in the long run.
 
 Type safety is crucial for large projects.
+
+GraphQL Code Generator seems promising.
