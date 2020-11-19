@@ -1,0 +1,1 @@
+Looked into using Playwright for cross-browser testing.
