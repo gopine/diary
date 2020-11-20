@@ -1,0 +1,1 @@
+Configuration is much simpler than Webpack.
