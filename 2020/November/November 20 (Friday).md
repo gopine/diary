@@ -7,3 +7,5 @@ The development server starts almost instantly.
 Configuration is much simpler than Webpack.
 
 It's a game changer.
+
+Vite is incredibly fast.
