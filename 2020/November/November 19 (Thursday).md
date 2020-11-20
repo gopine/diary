@@ -11,3 +11,5 @@ The API is also quite intuitive.
 Cross-browser testing is essential.
 
 Playwright is a powerful testing tool.
+
+I should try Playwright more often.
