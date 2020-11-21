@@ -9,3 +9,5 @@ Configuration is much simpler than Webpack.
 It's a game changer.
 
 Vite is incredibly fast.
+
+Webpack is getting old now.
