@@ -9,3 +9,5 @@ The server-side rendering and data loading are well designed.
 It's a strong alternative to Next.js.
 
 Remix is a promising framework.
+
+The web is evolving.
