@@ -9,3 +9,5 @@ It's essential for large projects.
 I should try it someday.
 
 Monorepos are becoming common.
+
+Build times matter.
