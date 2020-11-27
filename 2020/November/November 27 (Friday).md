@@ -9,3 +9,5 @@ The low latency is noticeable.
 It's a great way to improve performance for global users.
 
 Edge computing is the future.
+
+Speed is so important.
