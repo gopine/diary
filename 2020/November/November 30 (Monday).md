@@ -5,3 +5,5 @@ Started using ESLint and Prettier to enforce code style and formatting in my pro
 The automated linting and formatting save time and improve code quality.
 
 The setup process was straightforward.
+
+Code quality matters.
