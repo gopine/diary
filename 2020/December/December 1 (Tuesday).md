@@ -9,3 +9,5 @@ The real-time functionality is compelling.
 Scaling subscriptions can be challenging.
 
 Real-time is essential for some applications.
+
+Scalability is always a concern.
