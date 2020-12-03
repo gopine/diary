@@ -9,3 +9,5 @@ The configuration is complex.
 It will take time to fully understand.
 
 Microfrontends are an interesting architecture.
+
+Webpack is still relevant.
