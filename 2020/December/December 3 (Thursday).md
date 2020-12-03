@@ -7,3 +7,5 @@ This is a faster alternative to end-to-end testing for component-level tests.
 The setup was straightforward.
 
 It will improve test coverage.
+
+Component testing is valuable.
