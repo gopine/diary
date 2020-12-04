@@ -7,3 +7,5 @@ This simplifies the development of full-stack applications.
 The deployment is very easy.
 
 Serverless is the new standard.
+
+Serverless is a useful concept.
