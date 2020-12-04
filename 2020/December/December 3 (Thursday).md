@@ -9,3 +9,5 @@ The setup was straightforward.
 It will improve test coverage.
 
 Component testing is valuable.
+
+Testing is important for quality assurance.
