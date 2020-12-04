@@ -9,3 +9,5 @@ The deployment is very easy.
 Serverless is the new standard.
 
 Serverless is a useful concept.
+
+APIs are not that hard to build.
