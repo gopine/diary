@@ -7,3 +7,5 @@ This simplifies imports and reduces boilerplate.
 The setup was straightforward.
 
 Code is now cleaner.
+
+Clean code is easier to maintain.
