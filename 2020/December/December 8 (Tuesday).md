@@ -9,3 +9,5 @@ The concept is intriguing.
 Early stage but promising.
 
 React Server Components could be a game changer.
+
+Server-side rendering is still a challenge.
