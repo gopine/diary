@@ -7,3 +7,5 @@ Middleware provides a central place to handle these tasks.
 The setup was straightforward.
 
 Security is paramount.
+
+Security is paramount.
