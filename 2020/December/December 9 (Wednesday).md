@@ -9,3 +9,5 @@ The setup was straightforward.
 Security is paramount.
 
 Security is paramount.
+
+Next.js middleware simplifies authentication.
