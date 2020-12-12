@@ -9,3 +9,5 @@ Optimized images improve performance and reduce bandwidth usage.
 The web is evolving.
 
 Responsive images are important.
+
+Image optimization is crucial for performance.
