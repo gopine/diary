@@ -5,3 +5,5 @@ Started using GitHub Actions for continuous integration and continuous deploymen
 Created a workflow to automatically build and deploy my Next.js application to Vercel.
 
 CI/CD automates the deployment process.
+
+Automation is key for efficiency.
