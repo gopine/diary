@@ -7,3 +7,5 @@ Created a workflow to automatically build and deploy my Next.js application to V
 CI/CD automates the deployment process.
 
 Automation is key for efficiency.
+
+CI/CD is essential for modern development.
