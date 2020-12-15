@@ -1,0 +1,1 @@
+Serverless scales well.
