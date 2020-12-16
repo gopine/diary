@@ -7,3 +7,5 @@ Deployed a function to AWS Lambda using the Serverless Framework.
 Serverless functions are scalable and cost-effective.
 
 Serverless scales well.
+
+Serverless has less operational overhead.
