@@ -9,3 +9,5 @@ Convention over configuration is key.
 The future is here.
 
 RedwoodJS is a full-stack solution.
+
+Convention over configuration is useful.
