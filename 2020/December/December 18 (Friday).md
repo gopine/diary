@@ -7,3 +7,5 @@ DDD helps to create more maintainable and scalable applications.
 The concepts are complex.
 
 It requires more deep understanding.
+
+DDD helps with maintainability.
