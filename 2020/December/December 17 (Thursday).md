@@ -9,3 +9,5 @@ The API is easy to use.
 Cache invalidation is hard.
 
 Caching can be difficult to manage.
+
+SWR simplifies data fetching.
