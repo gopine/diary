@@ -11,3 +11,5 @@ Testing is important to build quality.
 Jest is a great testing framework.
 
 React Testing Library is a good choice.
+
+Testing is essential for quality.
