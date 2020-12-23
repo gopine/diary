@@ -1,0 +1,1 @@
+Federation is great for large graphql api systems.
