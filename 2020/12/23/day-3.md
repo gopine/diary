@@ -1,0 +1,1 @@
+GraphQL Federation simplifies development.
