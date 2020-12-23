@@ -5,3 +5,5 @@ Looked into using GraphQL Federation for building a unified GraphQL API from mul
 GraphQL Federation simplifies the development of distributed systems.
 
 It enables composing multiple graphql schemas.
+
+GraphQL Federation simplifies development.
