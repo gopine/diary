@@ -9,3 +9,5 @@ The server-side rendering and data loading are well designed.
 It's a strong alternative to Next.js.
 
 Web standards are key to the web.
+
+Remix is a promising framework.
