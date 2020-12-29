@@ -9,3 +9,5 @@ I added type annotations to a React component.
 It feels like it will catch errors earlier.
 
 Typescript catches issues during compile time.
+
+TypeScript improves code quality.
