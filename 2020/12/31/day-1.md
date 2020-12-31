@@ -1,0 +1,1 @@
+Looked into using GraphQL Federation for building a unified GraphQL API from multiple GraphQL services.
