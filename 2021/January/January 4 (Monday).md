@@ -7,3 +7,5 @@ The type system feels a bit strict at first.
 Hopefully, it will catch errors early on.
 
 Going through some online tutorials and documentation.
+
+Configured ESLint and Prettier for consistent code style.
