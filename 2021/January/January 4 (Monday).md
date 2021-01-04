@@ -1,0 +1,9 @@
+# January 4, 2021
+
+Diving into TypeScript to improve code maintainability.
+
+The type system feels a bit strict at first.
+
+Hopefully, it will catch errors early on.
+
+Going through some online tutorials and documentation.
