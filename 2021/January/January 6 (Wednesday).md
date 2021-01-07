@@ -9,3 +9,5 @@ Thinking of migrating one of my small projects to AWS Lambda.
 Need to understand the cold start problem.
 
 Experimented with deploying a simple function to AWS Lambda.
+
+Learned about API Gateway for managing access to Lambda functions.
