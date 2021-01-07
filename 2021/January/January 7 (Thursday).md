@@ -7,3 +7,5 @@ Using Material-UI for the UI components.
 Planning to integrate a REST API for data.
 
 The initial setup is going smoothly.
+
+Set up basic routing using React Router.
