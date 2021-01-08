@@ -9,3 +9,5 @@ Planning to integrate a REST API for data.
 The initial setup is going smoothly.
 
 Set up basic routing using React Router.
+
+Implemented a simple form using React and Material-UI.
