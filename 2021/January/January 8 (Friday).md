@@ -9,3 +9,5 @@ Considering using Context API with hooks for simplicity.
 Need to evaluate the performance implications.
 
 Experimented with using Context API for global state management.
+
+Read about the useReducer hook for more complex state logic.
