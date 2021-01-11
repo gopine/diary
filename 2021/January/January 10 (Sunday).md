@@ -9,3 +9,5 @@ Or PostgreSQL for its strong data integrity.
 Need to weigh the pros and cons.
 
 Decided to go with MongoDB for the simplicity of setup.
+
+Started working on the database schema for my project.
