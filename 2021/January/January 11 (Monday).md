@@ -7,3 +7,5 @@ Securing the API endpoints.
 Learning about best practices for storing passwords.
 
 Need to handle token refresh and revocation.
+
+Implemented user registration and login endpoints.
