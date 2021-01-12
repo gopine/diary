@@ -7,3 +7,5 @@ Jest seems to be the most popular choice.
 Need to learn how to write unit tests and integration tests.
 
 Setting up a CI/CD pipeline would be beneficial.
+
+Configured Jest and React Testing Library.
