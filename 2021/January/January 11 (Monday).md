@@ -9,3 +9,5 @@ Learning about best practices for storing passwords.
 Need to handle token refresh and revocation.
 
 Implemented user registration and login endpoints.
+
+Added authentication middleware to protect certain routes.
