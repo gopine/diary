@@ -7,3 +7,5 @@ Breaking down a monolithic application into smaller, independent services.
 Considering using Docker and Kubernetes for deployment.
 
 Need to understand the challenges of distributed systems.
+
+Read about the advantages and disadvantages of microservices architecture.
