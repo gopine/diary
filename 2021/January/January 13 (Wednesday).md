@@ -9,3 +9,5 @@ Considering using Docker and Kubernetes for deployment.
 Need to understand the challenges of distributed systems.
 
 Read about the advantages and disadvantages of microservices architecture.
+
+Experimented with Dockerizing a simple Node.js application.
