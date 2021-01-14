@@ -1,0 +1,9 @@
+# January 14, 2021
+
+Looking into different cloud providers.
+
+AWS, Azure, and Google Cloud Platform are the major players.
+
+Need to compare their pricing and services.
+
+Considering using a serverless platform for my personal projects.
