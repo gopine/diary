@@ -9,3 +9,5 @@ Need to compare their pricing and services.
 Considering using a serverless platform for my personal projects.
 
 Compared the pricing models of AWS and Azure.
+
+Started exploring the AWS Free Tier.
