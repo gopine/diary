@@ -9,3 +9,5 @@ Using a CDN for fast content delivery.
 Need to choose a static site generator.
 
 Researched different static site generators like Gatsby and Hugo.
+
+Started experimenting with Gatsby.
