@@ -9,3 +9,5 @@ Using service workers for offline support and push notifications.
 Need to create a manifest file.
 
 Created a manifest.json file for my PWA.
+
+Registered a service worker in my PWA.
