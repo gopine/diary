@@ -9,3 +9,5 @@ Ensuring proper keyboard navigation.
 Need to test with assistive technologies.
 
 Added ARIA attributes to improve the accessibility of my website.
+
+Tested my website with a screen reader.
