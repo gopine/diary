@@ -7,3 +7,5 @@ Managing infrastructure using code.
 Using tools like Terraform and CloudFormation.
 
 Need to automate the provisioning of resources.
+
+Learned about Terraform and its configuration language.
