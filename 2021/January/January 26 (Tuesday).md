@@ -7,3 +7,5 @@ OAuth 2.0 for delegated authorization.
 SAML for single sign-on.
 
 Need to choose the right method for my application.
+
+Researched the OAuth 2.0 protocol.
