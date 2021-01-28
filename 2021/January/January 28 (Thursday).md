@@ -9,3 +9,5 @@ Choosing the right database for my application's data model.
 Need to consider scalability and performance.
 
 Compared the features of MongoDB and Cassandra.
+
+Explored the data model of Couchbase.
