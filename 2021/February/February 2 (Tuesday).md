@@ -9,3 +9,5 @@ Compiling components to highly optimized JavaScript.
 Need to understand its reactive programming model.
 
 Learned about Svelte's reactive programming model.
+
+Built a simple Svelte component.
