@@ -7,3 +7,5 @@ Databases that scale automatically.
 Paying only for what you use.
 
 Need to consider the limitations.
+
+Researched different serverless databases like DynamoDB and FaunaDB.
