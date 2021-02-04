@@ -7,3 +7,5 @@ Decentralized and immutable ledgers.
 Building decentralized applications (dApps).
 
 Need to understand the concepts of cryptography and consensus algorithms.
+
+Learned about the basics of blockchain technology.
