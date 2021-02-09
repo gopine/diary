@@ -9,3 +9,5 @@ Using a content delivery network (CDN).
 Need to measure the impact of the changes.
 
 Optimized images and videos for my website.
+
+Started using a CDN to improve website performance.
