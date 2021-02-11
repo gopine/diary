@@ -9,3 +9,5 @@ Using different frameworks and technologies.
 Need to understand the challenges of integration.
 
 Learned about the benefits and challenges of micro frontends.
+
+Researched different micro frontend architectures.
