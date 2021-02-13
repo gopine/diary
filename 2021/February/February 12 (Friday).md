@@ -9,3 +9,5 @@ Protecting against common web vulnerabilities.
 Need to follow security best practices.
 
 Implemented authentication and authorization in my application.
+
+Protected against common web vulnerabilities like XSS and CSRF.
