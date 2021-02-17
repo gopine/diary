@@ -9,3 +9,5 @@ Managing deployments and scaling applications.
 Need to understand pods, services, and deployments.
 
 Learned about the basic concepts of Kubernetes.
+
+Deployed my application to Kubernetes.
