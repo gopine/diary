@@ -7,3 +7,5 @@ AWS, Azure, and Google Cloud Platform are popular options.
 Choosing the right provider for my project.
 
 Need to consider pricing, services, and geographic location.
+
+Compared the pricing models of AWS, Azure, and Google Cloud Platform.
