@@ -1,0 +1,9 @@
+# February 18, 2021
+
+Investigating different cloud providers.
+
+AWS, Azure, and Google Cloud Platform are popular options.
+
+Choosing the right provider for my project.
+
+Need to consider pricing, services, and geographic location.
