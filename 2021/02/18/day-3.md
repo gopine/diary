@@ -1,0 +1,1 @@
+Learned about the basic concepts of Kubernetes.
