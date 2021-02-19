@@ -1,0 +1,9 @@
+# February 19, 2021
+
+Looking at Flutter for cross-platform mobile development.
+
+Dart language.
+
+Single codebase for iOS and Android.
+
+Need to explore its UI widgets and state management.
