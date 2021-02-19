@@ -9,3 +9,5 @@ Single codebase for iOS and Android.
 Need to explore its UI widgets and state management.
 
 Installed Flutter and Dart SDK.
+
+Built a simple Flutter app with a basic UI.
