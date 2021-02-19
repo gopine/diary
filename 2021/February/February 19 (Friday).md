@@ -7,3 +7,5 @@ Dart language.
 Single codebase for iOS and Android.
 
 Need to explore its UI widgets and state management.
+
+Installed Flutter and Dart SDK.
