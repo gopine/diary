@@ -9,3 +9,5 @@ Using a CDN to serve static assets.
 Need to profile my application to identify bottlenecks.
 
 Implemented code splitting and lazy loading in my application.
+
+Used a CDN to serve static assets.
