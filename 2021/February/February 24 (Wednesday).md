@@ -7,3 +7,5 @@ Creating a set of reusable UI components and guidelines.
 Ensuring consistency across different applications.
 
 Need to document the design system.
+
+Learned about the benefits of design systems.
