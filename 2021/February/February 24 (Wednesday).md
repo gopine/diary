@@ -9,3 +9,5 @@ Ensuring consistency across different applications.
 Need to document the design system.
 
 Learned about the benefits of design systems.
+
+Started creating a design system for my organization.
