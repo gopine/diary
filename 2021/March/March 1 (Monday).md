@@ -9,3 +9,5 @@ I'm interested in its security features and built-in TypeScript support.
 Will explore it this week.
 
 Successfully ran a simple "Hello, World!" program in Deno.
+
+Deno's module import system seems more secure and explicit.
