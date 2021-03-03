@@ -1,0 +1,1 @@
+GraphQL is a powerful alternative to REST APIs.
