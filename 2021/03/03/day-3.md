@@ -1,0 +1,1 @@
+Created a GraphQL schema for a simple blog application.
