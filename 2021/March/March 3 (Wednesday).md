@@ -9,3 +9,5 @@ Understanding resolvers and schemas is crucial.
 Also, explore tools like Apollo Client and Relay.
 
 Created a GraphQL schema for a simple blog application.
+
+Implemented resolvers for my GraphQL schema.
