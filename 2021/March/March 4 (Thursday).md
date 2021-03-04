@@ -7,3 +7,5 @@ I need to understand the benefits and drawbacks.
 AWS Lambda, Azure Functions, and Google Cloud Functions are popular options.
 
 Security and cold starts are important considerations.
+
+Deployed a simple function to AWS Lambda.
