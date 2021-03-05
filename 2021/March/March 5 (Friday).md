@@ -9,3 +9,5 @@ Integrating Wasm modules into JavaScript applications.
 This could be useful for computationally intensive tasks.
 
 Compiled a C program to WebAssembly using Emscripten.
+
+Integrated the Wasm module into my JavaScript code.
