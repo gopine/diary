@@ -7,3 +7,5 @@ I need to learn how to compile code to Wasm.
 Integrating Wasm modules into JavaScript applications.
 
 This could be useful for computationally intensive tasks.
+
+Compiled a C program to WebAssembly using Emscripten.
