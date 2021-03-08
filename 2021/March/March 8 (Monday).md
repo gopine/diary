@@ -7,3 +7,5 @@ It produces highly optimized JavaScript.
 The learning curve seems gentle.
 
 Want to build a small project with it to get a feel for its reactivity model.
+
+Created a simple to-do list application using Svelte.
