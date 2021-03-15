@@ -9,3 +9,5 @@ Need to address the technical debt in the component architecture.
 Will start with the most frequently used components.
 
 Refactoring the component is taking longer than expected.
+
+More testing is needed.
