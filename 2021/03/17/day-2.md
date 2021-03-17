@@ -1,0 +1,1 @@
+Logical assignment operators seem useful for simplifying code.
