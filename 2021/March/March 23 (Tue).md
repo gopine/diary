@@ -7,3 +7,5 @@ Static typing can help prevent errors and improve code maintainability.
 Configuring TypeScript with React.
 
 TypeScript is adding complexity.
+
+The benefits of TypeScript are worth the effort.
