@@ -1,0 +1,1 @@
+GraphQL subscriptions are complex to implement.
