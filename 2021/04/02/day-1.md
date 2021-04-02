@@ -1,0 +1,1 @@
+Researching server-side rendering (SSR) for React applications.
