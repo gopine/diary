@@ -7,3 +7,5 @@ Integrating new features into the existing React application.
 Using TypeScript to improve code maintainability.
 
 Writing unit tests for the new components.
+
+Unit tests are catching bugs early.
