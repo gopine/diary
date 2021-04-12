@@ -1,0 +1,1 @@
+Researching different authentication methods for web applications.
