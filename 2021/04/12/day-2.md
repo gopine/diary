@@ -1,0 +1,1 @@
+OAuth 2.0 and JSON Web Tokens (JWT) are common choices.
