@@ -1,0 +1,1 @@
+Redis is a powerful caching solution.
