@@ -1,0 +1,5 @@
+# April 20, 2021
+
+Investigating the use of Infrastructure as Code (IaC) with Terraform.
+
+Automating the provisioning and management of infrastructure.
