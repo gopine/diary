@@ -5,3 +5,5 @@ Investigating different image optimization techniques.
 Reducing image file sizes without sacrificing quality.
 
 Using tools like ImageOptim.
+
+Image optimization improves website loading speed.
