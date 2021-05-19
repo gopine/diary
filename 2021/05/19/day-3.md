@@ -1,0 +1,1 @@
+ES2022 features are making JavaScript more powerful.
