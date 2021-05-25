@@ -3,3 +3,5 @@
 Looking into Server Components in React 18.
 
 Seems like a big step forward for improving performance and SEO.
+
+React Server Components have a lot of potential.
