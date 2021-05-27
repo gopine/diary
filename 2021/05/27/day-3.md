@@ -1,0 +1,1 @@
+Cypress component testing looks promising.
