@@ -3,3 +3,5 @@
 Looking into using a monorepo structure for our projects.
 
 Lerna and Nx seem like good tools for managing monorepos.
+
+Monorepos can improve code sharing and collaboration.
