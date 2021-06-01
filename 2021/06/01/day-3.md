@@ -1,0 +1,1 @@
+Monorepos can improve code sharing and collaboration.
