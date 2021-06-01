@@ -1,0 +1,1 @@
+Lerna and Nx seem like good tools for managing monorepos.
