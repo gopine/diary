@@ -1,0 +1,1 @@
+Looking into the viability of using Rust to write WebAssembly modules for performance-critical parts of our web application.
