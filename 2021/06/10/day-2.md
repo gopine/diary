@@ -1,0 +1,1 @@
+Zero Trust security model seems more secure than traditional.
