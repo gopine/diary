@@ -1,0 +1,1 @@
+Temporal helps coordinate microservices.
