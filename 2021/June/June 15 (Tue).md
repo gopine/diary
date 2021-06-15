@@ -3,3 +3,5 @@
 Looking at using Temporal to orchestrate microservices.
 
 It seems useful in solving distributed systems.
+
+Temporal helps coordinate microservices.
