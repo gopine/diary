@@ -1,0 +1,1 @@
+Started exploring the new React 18 features, particularly concurrent rendering.
