@@ -7,3 +7,5 @@ Focusing on clean code and good documentation.
 Want to improve my backend skills.
 
 Implemented basic CRUD operations for the API.
+
+Added authentication middleware to the API endpoints.
