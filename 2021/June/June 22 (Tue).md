@@ -1,0 +1,7 @@
+# June 22, 2021
+
+Exploring WebSockets for real-time communication in an application.
+
+It seems promising for chat applications and live dashboards.
+
+Going to read the documentation.
