@@ -7,3 +7,5 @@ It seems essential for modern development workflows.
 Want to become proficient in Docker.
 
 Dockerized the Node.js API application.
+
+Successfully built and ran the Docker image.
