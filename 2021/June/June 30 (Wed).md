@@ -7,3 +7,5 @@ Applying proven solutions to common problems is essential.
 Need to study more.
 
 Implemented the Singleton pattern in a Node.js application.
+
+Studied the Factory pattern and its use cases.
