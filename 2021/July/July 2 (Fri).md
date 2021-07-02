@@ -7,3 +7,5 @@ Understanding their services and pricing models is important.
 It will help make better decisions.
 
 Created a free tier account on AWS.
+
+Launched a virtual machine on AWS EC2.
