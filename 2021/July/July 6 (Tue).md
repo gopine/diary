@@ -7,3 +7,5 @@ Monitoring performance and errors is crucial for maintaining a healthy applicati
 Datadog and Sentry are popular choices.
 
 Integrated Sentry for error tracking in the Next.js blog.
+
+Set up basic monitoring with Prometheus and Grafana.
