@@ -5,3 +5,5 @@ Investigating different accessibility best practices for web applications.
 Making applications accessible to users with disabilities is important.
 
 It shows professionalism.
+
+Added ARIA attributes to improve accessibility.
