@@ -7,3 +7,5 @@ Optimizing components and reducing bundle size is important for improving perfor
 It will provide better user experience.
 
 Implemented code splitting to reduce the initial bundle size.
+
+Used React.memo to prevent unnecessary re-renders.
