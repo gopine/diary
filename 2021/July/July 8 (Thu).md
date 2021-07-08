@@ -1,0 +1,7 @@
+# July 8, 2021
+
+Investigating different accessibility best practices for web applications.
+
+Making applications accessible to users with disabilities is important.
+
+It shows professionalism.
