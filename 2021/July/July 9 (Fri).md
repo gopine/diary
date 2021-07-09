@@ -5,3 +5,5 @@ Studying about different internationalization (i18n) and localization (l10n) tec
 Supporting multiple languages is important for reaching a global audience.
 
 It will open up many opportunities.
+
+Implemented basic i18n support using react-i18next.
