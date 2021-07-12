@@ -1,0 +1,1 @@
+Studying about different internationalization (i18n) and localization (l10n) techniques for web applications.
