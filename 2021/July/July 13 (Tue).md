@@ -7,3 +7,5 @@ Measuring and improving performance is crucial for providing a good user experie
 It is important to keep track of these metrics.
 
 Used Google Lighthouse to analyze the blog's performance.
+
+Optimized images to improve the Largest Contentful Paint (LCP).
