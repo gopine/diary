@@ -5,3 +5,5 @@ Investigating different authentication and authorization methods for web applica
 Securely managing user identities is essential.
 
 OAuth and JWT are popular choices.
+
+Implemented JWT-based authentication for the Node.js API.
