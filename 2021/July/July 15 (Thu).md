@@ -7,3 +7,5 @@ Securely managing user identities is essential.
 OAuth and JWT are popular choices.
 
 Implemented JWT-based authentication for the Node.js API.
+
+Added role-based access control (RBAC) to the API.
