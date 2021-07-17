@@ -7,3 +7,5 @@ They seem promising for building real-time applications.
 It is good to have options.
 
 Created a Firebase project and set up a real-time database.
+
+Integrated Firebase with the React application.
