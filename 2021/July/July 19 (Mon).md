@@ -7,3 +7,5 @@ Jest, Enzyme, and React Testing Library are popular choices.
 Testing the React component is a must.
 
 Wrote unit tests for React components using React Testing Library.
+
+Used Jest to perform snapshot testing.
