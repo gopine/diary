@@ -1,0 +1,1 @@
+Explored Chakra UI's styling capabilities.
