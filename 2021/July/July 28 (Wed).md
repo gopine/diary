@@ -7,3 +7,5 @@ AWS DynamoDB, Azure Cosmos DB, and FaunaDB are popular choices.
 Serverless database helps to reduce maintenance overhead.
 
 Created a DynamoDB table and added data.
+
+Queried the DynamoDB table using the AWS SDK.
