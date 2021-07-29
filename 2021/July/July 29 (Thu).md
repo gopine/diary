@@ -5,3 +5,5 @@ Investigating different front-end build tools.
 Webpack, Parcel, and Rollup are popular choices.
 
 Choosing the right build tool for your project is important.
+
+Configured Webpack for a React project.
