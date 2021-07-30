@@ -1,0 +1,1 @@
+Authentication helps to secure your web application.
