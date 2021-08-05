@@ -5,3 +5,5 @@ Investigating different cloud cost management tools.
 AWS Cost Explorer, Azure Cost Management, and Google Cloud Billing are popular choices.
 
 Cost management helps to optimize cloud spendings.
+
+Analyzed cloud costs using AWS Cost Explorer.
