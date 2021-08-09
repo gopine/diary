@@ -1,0 +1,7 @@
+# August 9, 2021
+
+Investigating the new features of ES2022.
+
+Class fields, top-level await, and error cause are interesting additions.
+
+JavaScript evolves very quickly.
