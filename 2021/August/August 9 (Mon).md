@@ -5,3 +5,5 @@ Investigating the new features of ES2022.
 Class fields, top-level await, and error cause are interesting additions.
 
 JavaScript evolves very quickly.
+
+Experimented with class fields in a JavaScript project.
