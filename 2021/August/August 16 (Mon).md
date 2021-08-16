@@ -7,3 +7,5 @@ Ethereum, Solana, and Cardano are popular choices.
 dApps can help to create more transparent applications.
 
 Created a smart contract using Solidity.
+
+Deployed the smart contract to the Ethereum blockchain.
