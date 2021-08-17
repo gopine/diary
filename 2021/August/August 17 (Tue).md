@@ -7,3 +7,5 @@ Supervised learning, unsupervised learning, and reinforcement learning are impor
 AI is everywhere now.
 
 Trained a simple machine learning model using TensorFlow.
+
+Deployed the machine learning model to a web application.
