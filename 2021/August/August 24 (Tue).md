@@ -5,3 +5,5 @@ Studying about different cost optimization strategies for serverless application
 Right-sizing functions, optimizing code, and using caching are important.
 
 Cost optimization is very important.
+
+Optimized serverless function code to reduce execution time.
