@@ -7,3 +7,5 @@ Blue/green deployments, canary deployments, and rolling deployments are popular 
 Deployment helps to quickly deploy new changes.
 
 Implemented a blue/green deployment for serverless functions.
+
+Experimented with canary deployments using AWS Lambda.
