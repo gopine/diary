@@ -1,0 +1,1 @@
+Implemented connection pooling for database connections in serverless functions.
