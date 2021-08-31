@@ -1,0 +1,1 @@
+Spent some time setting up the initial project structure and configuring Webpack.
