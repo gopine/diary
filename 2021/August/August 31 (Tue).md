@@ -7,3 +7,5 @@ It's a big undertaking, but the improved type safety and component structure wil
 Spent some time setting up the initial project structure and configuring Webpack.
 
 Struggling with some Webpack configuration issues, but Stack Overflow is helping.
+
+Finished setting up the basic components structure.
