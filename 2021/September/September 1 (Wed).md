@@ -3,3 +3,5 @@
 Diving deeper into React Hooks and how to manage state effectively.
 
 Experimenting with useState and useEffect for data fetching.
+
+Thinking about ways to implement custom hooks for reusable logic.
