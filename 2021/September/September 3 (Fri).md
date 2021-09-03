@@ -1,3 +1,5 @@
 # September 3, 2021
 
 Started working on the API integration using Fetch.
+
+Need to handle loading states and error handling properly.
