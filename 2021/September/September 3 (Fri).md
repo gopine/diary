@@ -3,3 +3,5 @@
 Started working on the API integration using Fetch.
 
 Need to handle loading states and error handling properly.
+
+Thinking about using Axios for easier request configuration.
