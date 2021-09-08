@@ -7,3 +7,5 @@ Jest and React Testing Library seem like the most popular choices.
 Setting up Jest and React Testing Library in the project.
 
 Testing the components properly is crucial.
+
+Wrote a few tests for a simple React component.
