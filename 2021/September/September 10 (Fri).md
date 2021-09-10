@@ -7,3 +7,5 @@ GitHub Actions seems like a convenient option since we're already using GitHub.
 Setting up a basic CI/CD pipeline with GitHub Actions.
 
 Automated deployments are pretty cool.
+
+Configured GitHub Actions to automatically deploy the app to staging.
