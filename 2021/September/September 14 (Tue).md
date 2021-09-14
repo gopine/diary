@@ -3,3 +3,5 @@
 Investigating the adoption of micro frontend architecture.
 
 Each team could own and deploy their own frontend application.
+
+Trying to figure out how to integrate multiple React applications.
