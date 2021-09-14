@@ -1,0 +1,1 @@
+Each team could own and deploy their own frontend application.
