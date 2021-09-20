@@ -3,3 +3,5 @@
 Back to the React migration and working on the settings page.
 
 This page involves a lot of complex form interactions.
+
+Breaking down the settings page into smaller, manageable components.
