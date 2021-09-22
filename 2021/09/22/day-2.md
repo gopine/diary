@@ -1,0 +1,1 @@
+Configuring logging with Winston to capture application events.
