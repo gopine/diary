@@ -3,3 +3,5 @@
 Investigating different approaches to internationalization (i18n).
 
 Using i18next to support multiple languages in the application.
+
+Setting up language files and translations for different locales.
