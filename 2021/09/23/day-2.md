@@ -1,0 +1,1 @@
+Using i18next to support multiple languages in the application.
