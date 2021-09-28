@@ -1,0 +1,1 @@
+Analyzing the application's performance using Chrome DevTools.
