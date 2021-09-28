@@ -1,0 +1,1 @@
+Focusing on improving the performance of the newly migrated React application.
