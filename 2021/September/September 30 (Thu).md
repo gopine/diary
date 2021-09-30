@@ -7,3 +7,5 @@ Writing unit tests for React components using Jest and React Testing Library.
 Aiming for high code coverage to ensure the reliability of the application.
 
 Testing helps prevent bugs from being introduced.
+
+Writing tests is more fun that debugging.
