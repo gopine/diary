@@ -7,3 +7,5 @@ Setting up a CI/CD pipeline using Jenkins to automate the build and deployment p
 Configuring Jenkins to run tests and build the application on every commit.
 
 Jenkins automates the release process.
+
+Automated CI/CD is a major efficiency boost.
