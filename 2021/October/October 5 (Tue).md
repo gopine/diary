@@ -7,3 +7,5 @@ Considering using Zustand as a simple and lightweight alternative to Redux.
 Experimenting with Zustand to manage application state.
 
 Zustand make managing global state very easy.
+
+Zustand simplifies state management.
