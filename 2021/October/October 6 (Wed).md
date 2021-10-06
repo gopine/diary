@@ -5,3 +5,5 @@ Investigating different approaches to handling asynchronous operations in JavaSc
 Using async/await to simplify asynchronous code.
 
 Handling errors and exceptions in asynchronous code.
+
+Promises are great for preventing callback hell.
