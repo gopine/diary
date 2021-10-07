@@ -7,3 +7,5 @@ Adding ARIA attributes to make the application more accessible to screen readers
 Ensuring that the application meets accessibility standards.
 
 Accessibility is a very important requirement.
+
+Accessibility improves user experience.
