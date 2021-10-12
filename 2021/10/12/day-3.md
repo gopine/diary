@@ -1,0 +1,1 @@
+JWTs are a good way to implement stateless authentication.
