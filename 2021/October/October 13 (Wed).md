@@ -5,3 +5,5 @@ Investigating different approaches to handling user authentication and authoriza
 Using JSON Web Tokens (JWTs) to authenticate users.
 
 Implementing role-based access control to authorize users.
+
+JWTs are a good way to implement stateless authentication.
