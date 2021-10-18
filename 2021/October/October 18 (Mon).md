@@ -7,3 +7,5 @@ Analyzing the application's performance using Chrome DevTools.
 Identifying and addressing performance bottlenecks.
 
 Performance optimization is ongoing.
+
+Optimizing images and reducing the size of JavaScript bundles.
