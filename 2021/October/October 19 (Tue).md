@@ -5,3 +5,5 @@ Exploring different approaches to building microservices.
 Using Docker to containerize microservices.
 
 Orchestrating microservices using Kubernetes.
+
+Microservices allow teams to work independently.
