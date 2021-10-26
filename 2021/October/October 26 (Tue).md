@@ -7,3 +7,5 @@ Finally realized I needed to configure the Access-Control-Allow-Origin header co
 It was a frustrating but valuable learning experience.
 
 Now I need to properly validate the origin."
+
+"Exploring different ways to handle authentication in my React app."
