@@ -1,0 +1,1 @@
+"Exploring different ways to handle authentication in my React app."
