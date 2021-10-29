@@ -9,3 +9,5 @@ I need to spend more time reading the documentation and examples.
 Maybe I should reconsider MongoDB."
 
 "Successfully executed my first FaunaDB query."
+
+"Refactored my React components to be more reusable."
