@@ -5,3 +5,5 @@
 Styled Components seems like a good option for my project.
 
 I need to evaluate performance implications carefully."
+
+"Installed and configured Styled Components in my app."
