@@ -9,3 +9,5 @@ Also looking at the built-in image optimization.
 I need to learn more about the API routes."
 
 "Implemented a basic API route in my Next.js app."
+
+"Working on deploying my Next.js app to Vercel."
