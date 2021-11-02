@@ -7,3 +7,5 @@ Next.js makes the whole process very straightforward.
 Now I need to test it in production.
 
 I need to learn more about CI/CD pipelines."
+
+"Added some basic unit tests to my Next.js components."
