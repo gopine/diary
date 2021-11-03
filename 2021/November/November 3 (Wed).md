@@ -9,3 +9,5 @@ Apollo Client looks like a popular GraphQL client.
 Should be fun to learn."
 
 "Set up a GraphQL endpoint with Apollo Server."
+
+"Connected Apollo Client to my GraphQL endpoint."
