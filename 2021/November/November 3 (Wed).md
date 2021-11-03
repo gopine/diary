@@ -7,3 +7,5 @@ The strongly-typed schema seems appealing.
 Apollo Client looks like a popular GraphQL client.
 
 Should be fun to learn."
+
+"Set up a GraphQL endpoint with Apollo Server."
