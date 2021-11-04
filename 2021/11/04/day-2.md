@@ -1,0 +1,1 @@
+I need to learn how to optimize queries for performance.
