@@ -5,3 +5,5 @@
 I need to learn how to optimize queries for performance.
 
 Maybe I should learn about data loaders."
+
+"Implemented basic error handling in my GraphQL resolvers."
