@@ -1,0 +1,1 @@
+"Implemented basic error handling in my GraphQL resolvers."
