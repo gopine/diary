@@ -7,3 +7,5 @@ Pre-rendering and static site generation are very compelling.
 Netlify and Vercel are the top platforms.
 
 Should work well with Next.js."
+
+"Experimenting with pre-rendering different pages in my Next.js app."
