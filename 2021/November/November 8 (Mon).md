@@ -7,3 +7,5 @@ The initial setup is a bit complex.
 Hoping it will improve code quality.
 
 I need to rewrite my project in TypeScript."
+
+"Converted one of my React components to TypeScript."
