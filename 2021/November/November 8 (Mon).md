@@ -9,3 +9,5 @@ Hoping it will improve code quality.
 I need to rewrite my project in TypeScript."
 
 "Converted one of my React components to TypeScript."
+
+"Configured ESLint and Prettier to enforce code style."
