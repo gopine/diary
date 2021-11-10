@@ -1,0 +1,7 @@
+# November 10, 2021
+
+"Looking into testing frameworks like Jest and React Testing Library.
+
+Writing unit tests for my React components.
+
+Trying to get to 100% coverage."
