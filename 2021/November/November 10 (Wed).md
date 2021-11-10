@@ -5,3 +5,5 @@
 Writing unit tests for my React components.
 
 Trying to get to 100% coverage."
+
+"Wrote several unit tests for my utility functions."
