@@ -5,3 +5,5 @@
 React Intl and i18next seem like popular choices.
 
 Need to support multiple languages."
+
+"Implemented a basic internationalization setup with i18next."
