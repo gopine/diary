@@ -7,3 +7,5 @@ Framer Motion and React Spring seem powerful.
 Adding subtle animations to improve the user experience.
 
 It is very important not to over animate."
+
+"Added a simple fade-in animation to my homepage."
