@@ -5,3 +5,5 @@
 Measuring and optimizing my website's performance.
 
 Using Google PageSpeed Insights."
+
+"Optimized images to improve LCP score."
