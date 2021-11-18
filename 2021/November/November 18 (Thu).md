@@ -7,3 +7,5 @@ Protecting against XSS and CSRF attacks.
 Using HTTP security headers.
 
 Considering setting up a Content Security Policy."
+
+"Implemented HTTP security headers in my Netlify configuration."
