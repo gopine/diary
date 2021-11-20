@@ -7,3 +7,5 @@ Choosing the right database for my serverless application.
 Looking at cost and scalability."
 
 "Set up a PlanetScale database for my Next.js app."
+
+"Connected my Next.js API routes to PlanetScale."
