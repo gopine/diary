@@ -9,3 +9,5 @@ Using Socket.IO for handling WebSocket connections.
 Need to consider the costs and latency."
 
 "Set up a WebSocket server with Socket.IO."
+
+"Implemented a basic chat client in React using Socket.IO."
