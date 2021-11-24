@@ -7,3 +7,5 @@ Choosing a component library that fits my design aesthetic.
 Customizing components to match my brand.
 
 Considering accessibility."
+
+"Integrated Material UI into my React project."
