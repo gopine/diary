@@ -9,3 +9,5 @@ Customizing components to match my brand.
 Considering accessibility."
 
 "Integrated Material UI into my React project."
+
+"Customized the Material UI theme to match my website's colors."
