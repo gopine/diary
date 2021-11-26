@@ -7,3 +7,5 @@ Testing with screen readers and keyboard navigation.
 Fixing any accessibility issues I find.
 
 Need to work on color contrast."
+
+"Improved the color contrast of my website's text."
