@@ -9,3 +9,5 @@ Exploring the AWS ecosystem.
 Costs can be unpredictable."
 
 "Deployed a simple \"Hello, World!\" function to AWS Lambda."
+
+"Secured my AWS Lambda function using API Gateway authentication."
