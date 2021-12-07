@@ -5,3 +5,5 @@
 Using MobX and Jotai as alternatives to Redux.
 
 Understanding the trade-offs between different approaches."
+
+"Implemented a simple global state using Jotai."
