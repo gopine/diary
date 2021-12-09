@@ -5,3 +5,5 @@
 Analyzing bundle sizes and identifying performance bottlenecks.
 
 Using the Next.js built-in performance tools."
+
+"Optimized images and implemented lazy loading to improve performance."
