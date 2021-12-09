@@ -1,0 +1,1 @@
+Moving logic closer to the user for faster response times.
