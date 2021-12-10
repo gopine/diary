@@ -5,3 +5,5 @@
 Moving logic closer to the user for faster response times.
 
 Experimenting with request and response manipulation."
+
+"Deployed a simple Cloudflare Worker to redirect traffic based on country."
