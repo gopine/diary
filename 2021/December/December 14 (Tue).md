@@ -7,3 +7,5 @@ Using ESLint and SonarQube to identify code quality issues.
 Improving the maintainability and readability of my codebase.
 
 Making code better."
+
+"Configured SonarQube to analyze my Next.js project."
