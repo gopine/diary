@@ -5,3 +5,5 @@
 Implementing content security policies (CSPs) and protecting against cross-site scripting (XSS) attacks.
 
 Strengthening my website's security."
+
+"Configured a content security policy for my Next.js application."
