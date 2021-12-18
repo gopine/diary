@@ -7,3 +7,5 @@ Using ARIA attributes and semantic HTML to make my website more inclusive.
 Testing with screen readers and keyboard navigation."
 
 "Added ARIA labels to my form elements."
+
+"Making the contrast of my website more adequate to the accessibility guidelines."
