@@ -1,0 +1,7 @@
+# December 20, 2021
+
+"Diving into the world of design systems and component libraries.
+
+Creating reusable UI components and documenting them with Storybook.
+
+Building a consistent and maintainable design language for my projects."
