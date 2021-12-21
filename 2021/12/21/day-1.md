@@ -1,0 +1,1 @@
+"Experimenting with different animation libraries for React applications.
