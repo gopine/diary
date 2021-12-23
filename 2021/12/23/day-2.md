@@ -1,0 +1,1 @@
+"Optimized the images so that they use the new webp format."
