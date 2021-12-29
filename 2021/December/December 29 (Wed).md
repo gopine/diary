@@ -5,3 +5,5 @@
 Using Netlify, Vercel, and GitHub Pages to deploy my website.
 
 Choosing the right platform based on my needs and budget."
+
+"Migrated my website from GitHub Pages to Netlify."
