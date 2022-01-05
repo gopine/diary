@@ -5,3 +5,5 @@
 Using Sentry, LogRocket, and New Relic to track errors and performance issues.
 
 Gaining insights into user behavior and application health."
+
+"Integrated LogRocket into my Next.js application."
