@@ -1,0 +1,1 @@
+Using the Chrome DevTools to identify performance bottlenecks and improve page load times."
