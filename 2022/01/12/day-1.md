@@ -1,0 +1,1 @@
+Finally got around to setting up ESLint and Prettier on the codebase.
