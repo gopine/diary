@@ -1,0 +1,1 @@
+It's amazing how much cleaner the code already looks! Also started to investigate serverless functions and how they work.
