@@ -9,3 +9,5 @@ I also used React.memo and useMemo hooks to avoid unnecessary re-renders.
 Profiling tools have revealed some performance hotspots.
 
 Implemented code splitting to reduce initial load time.
+
+Attended a workshop on accessibility best practices for web development.
