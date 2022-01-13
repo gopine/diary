@@ -7,3 +7,5 @@ It's amazing how much cleaner the code already looks! Also started to investigat
 I'm thinking of using them for some of the backend tasks.
 
 Configured CI/CD pipeline for automatic deployment.
+
+Reviewed a colleague's React code and provided feedback.
