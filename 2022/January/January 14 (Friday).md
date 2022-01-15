@@ -9,3 +9,5 @@ I also learned more about the SameSite attribute for cookies.
 Now I need to implement CSRF protection.
 
 Added unit tests for the utility functions.
+
+Created a pull request for the changes I made this week.
