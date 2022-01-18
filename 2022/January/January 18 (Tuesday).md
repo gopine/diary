@@ -9,3 +9,5 @@ I also explored different WebSocket libraries for Node.js.
 Now need to secure the WebSocket connection with TLS.
 
 Integrated the chat application with the existing user authentication system.
+
+Debugged an issue with the WebSocket connection dropping intermittently.
