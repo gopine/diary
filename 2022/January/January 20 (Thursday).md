@@ -9,3 +9,5 @@ I am also looking into the Web App Manifest file.
 Caching API looks very powerful.
 
 Registered a service worker for the website.
+
+Added push notifications to the PWA.
