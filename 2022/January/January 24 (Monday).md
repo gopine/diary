@@ -9,3 +9,5 @@ I started converting the existing JavaScript codebase to TypeScript.
 It's a challenging but rewarding process.
 
 Configured TypeScript with Webpack.
+
+Converted a React component to TypeScript.
