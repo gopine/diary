@@ -1,0 +1,9 @@
+# January 25, 2022
+
+I am investigating the usage of Next.js and server-side rendering.
+
+I learned how to handle the initial render on the server.
+
+I want to use the data from the API.
+
+I am studying getStaticProps and getServerSideProps.
