@@ -11,3 +11,5 @@ It's a challenging but rewarding process.
 Configured TypeScript with Webpack.
 
 Converted a React component to TypeScript.
+
+Learned about advanced TypeScript types.
