@@ -9,3 +9,5 @@ I want to use the data from the API.
 I am studying getStaticProps and getServerSideProps.
 
 Set up a Next.js project with TypeScript.
+
+Implemented server-side rendering for the homepage.
