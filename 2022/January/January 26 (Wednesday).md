@@ -1,0 +1,9 @@
+# January 26, 2022
+
+Studied more about using React Context API.
+
+It's an elegant way to manage global state in React applications.
+
+I experimented with creating a custom context provider.
+
+I used useContext hook to make it much more simpler.
