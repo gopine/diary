@@ -7,3 +7,5 @@ The purpose is to create reusable components and design tokens.
 I am also studying Atomic Design principles.
 
 It is difficult to make a decision on the color palette.
+
+Created a button component in the design system.
