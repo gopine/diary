@@ -9,3 +9,5 @@ I will integrate it with the CI/CD pipeline.
 I am learning about writing custom Cypress commands.
 
 Wrote a test for the login flow.
+
+Debugged a failing test in Cypress.
