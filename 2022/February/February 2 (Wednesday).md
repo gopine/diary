@@ -11,3 +11,5 @@ I am trying to dockerize everything.
 Created a Dockerfile for the application.
 
 Built a Docker image for the application.
+
+Ran the Docker image locally.
