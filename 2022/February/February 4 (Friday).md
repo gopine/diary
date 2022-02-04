@@ -9,3 +9,5 @@ This will help to automate infrastructure management.
 IaC will be the future of ops.
 
 Installed Terraform and configured it to use AWS.
+
+Wrote a Terraform configuration to create an S3 bucket.
