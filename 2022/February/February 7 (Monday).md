@@ -1,0 +1,7 @@
+# February 7, 2022
+
+Studying about Kubernetes and container orchestration.
+
+I am exploring how to deploy and manage containerized applications at scale.
+
+Kubernetes allows automated deployments, scaling, and management of containerized applications.
