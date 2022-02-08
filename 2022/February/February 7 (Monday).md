@@ -9,3 +9,5 @@ Kubernetes allows automated deployments, scaling, and management of containerize
 Set up a local Kubernetes cluster using Minikube.
 
 Deployed the Docker image to the Kubernetes cluster.
+
+Configured a service to expose the application.
