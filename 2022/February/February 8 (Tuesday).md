@@ -9,3 +9,5 @@ This will help to detect and resolve issues quickly.
 Installed Prometheus and configured it to collect metrics.
 
 Created a Grafana dashboard to visualize the metrics.
+
+Set up alerts to be notified of critical issues.
