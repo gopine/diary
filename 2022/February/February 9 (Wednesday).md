@@ -9,3 +9,5 @@ Wasm opens up new possibilities for web development.
 I will use it for video editing.
 
 Installed the WebAssembly toolchain.
+
+Compiled a C program to WebAssembly.
