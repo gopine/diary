@@ -7,3 +7,5 @@ I am learning about smart contracts and how they can be used to build secure and
 DeFi is very interesting topic.
 
 Set up a local Ethereum development environment.
+
+Wrote a simple smart contract in Solidity.
