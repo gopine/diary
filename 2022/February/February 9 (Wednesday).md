@@ -11,3 +11,5 @@ I will use it for video editing.
 Installed the WebAssembly toolchain.
 
 Compiled a C program to WebAssembly.
+
+Loaded the WebAssembly module in the browser.
