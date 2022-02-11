@@ -9,3 +9,5 @@ DeFi is very interesting topic.
 Set up a local Ethereum development environment.
 
 Wrote a simple smart contract in Solidity.
+
+Deployed the smart contract to the local Ethereum network.
