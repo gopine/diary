@@ -7,3 +7,5 @@ Privacy and security is very important and Federated learning solves a very comm
 I will be focusing on image processing.
 
 Setup a local environment for federated learning.
+
+Implemented secure aggregation for federated learning.
