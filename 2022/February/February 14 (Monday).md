@@ -9,3 +9,5 @@ It will use the full potential of the GPU.
 I should be able to create complex shaders.
 
 Downloaded the WGSL shader compiler.
+
+Created a rendering pipeline for WebGPU.
