@@ -11,3 +11,5 @@ I should be able to create complex shaders.
 Downloaded the WGSL shader compiler.
 
 Created a rendering pipeline for WebGPU.
+
+Rendered a simple triangle.
