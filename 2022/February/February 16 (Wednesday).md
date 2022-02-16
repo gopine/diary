@@ -9,3 +9,5 @@ The app should support Android and IOS.
 I need to think about a proper state management solution.
 
 Created a new Expo project.
+
+Implemented navigation using React Navigation.
