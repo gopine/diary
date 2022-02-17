@@ -9,3 +9,5 @@ It will allow low latency communication.
 It can solve a lot of issues for autonomous driving.
 
 Read a paper on Edge Computing.
+
+Setup a local Kubernetes Edge cluster.
