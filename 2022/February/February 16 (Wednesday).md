@@ -11,3 +11,5 @@ I need to think about a proper state management solution.
 Created a new Expo project.
 
 Implemented navigation using React Navigation.
+
+Added state management using Redux Toolkit.
