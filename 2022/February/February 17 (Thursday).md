@@ -7,3 +7,5 @@ It allows to move computation closer to the users.
 It will allow low latency communication.
 
 It can solve a lot of issues for autonomous driving.
+
+Read a paper on Edge Computing.
