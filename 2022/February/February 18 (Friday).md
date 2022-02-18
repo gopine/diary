@@ -9,3 +9,5 @@ I am also learning about long running workflows.
 I plan to refactor our payment service with Temporal.
 
 Downloaded the Temporal CLI tools.
+
+Wrote a simple Temporal worker.
