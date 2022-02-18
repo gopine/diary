@@ -7,3 +7,5 @@ It helps to build reliable distributed systems using code.
 I am also learning about long running workflows.
 
 I plan to refactor our payment service with Temporal.
+
+Downloaded the Temporal CLI tools.
