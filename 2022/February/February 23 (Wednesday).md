@@ -7,3 +7,5 @@ We are using Webpack Bundle Analyzer.
 I need to remove unused code and dependencies.
 
 Lazy loading could also help.
+
+Analyzed the bundle with Webpack Bundle Analyzer.
