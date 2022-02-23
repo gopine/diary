@@ -11,3 +11,5 @@ I am studying about different integrations options.
 Explored the different features of Appsmith.
 
 Created a new application in Appsmith.
+
+Connected it to a Postgres database.
