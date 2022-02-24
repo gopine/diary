@@ -11,3 +11,5 @@ Lazy loading could also help.
 Analyzed the bundle with Webpack Bundle Analyzer.
 
 Removed unused dependencies.
+
+Implemented lazy loading for some components.
