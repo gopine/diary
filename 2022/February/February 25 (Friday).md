@@ -5,3 +5,5 @@ I started using Rome, a fast linter, formatter, bundler, and more for JavaScript
 I replaced eslint and prettier.
 
 The configuration is very simple.
+
+Configured the project to use Rome.
