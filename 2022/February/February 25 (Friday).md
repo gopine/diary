@@ -7,3 +7,5 @@ I replaced eslint and prettier.
 The configuration is very simple.
 
 Configured the project to use Rome.
+
+Formatted the code with Rome.
