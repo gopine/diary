@@ -9,3 +9,5 @@ It looks a lot like React, but much more performant.
 I should consider using it for a new project.
 
 Created a simple SolidJS component.
+
+Compared SolidJS with React.
