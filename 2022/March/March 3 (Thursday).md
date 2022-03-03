@@ -9,3 +9,5 @@ It improves the code sharing between projects.
 I will need to migrate our internal components to a monorepo.
 
 Created a new Nx workspace.
+
+Generated a new React application inside the workspace.
