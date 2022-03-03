@@ -9,3 +9,5 @@ I would like to use it to create a regression suite.
 Installed Playwright.
 
 Wrote a test using Playwright.
+
+Integrated Playwright into our CI pipeline.
