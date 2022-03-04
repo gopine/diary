@@ -9,3 +9,5 @@ It allows to cache the build and test.
 Our build times are too high, so Turborepo could help.
 
 Added Turborepo into our Nx workspace.
+
+Configured caching.
