@@ -7,3 +7,5 @@ It is a utility-first CSS framework.
 We need to improve the style of our app, and I am exploring it as an option.
 
 The learning curve is pretty big.
+
+Installed Tailwind CSS.
