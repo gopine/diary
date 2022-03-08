@@ -11,3 +11,5 @@ The learning curve is pretty big.
 Installed Tailwind CSS.
 
 Configured Tailwind CSS.
+
+Created a component using Tailwind CSS.
