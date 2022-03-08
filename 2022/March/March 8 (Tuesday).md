@@ -9,3 +9,5 @@ I will look into integrating it into our codebase.
 I have to look if it's compatible with NextJS.
 
 Installed Million.js.
+
+Integrated Million.js into a React component.
