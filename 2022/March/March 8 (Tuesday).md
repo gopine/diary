@@ -7,3 +7,5 @@ This JavaScript library is very small but it can greatly optimize React performa
 I will look into integrating it into our codebase.
 
 I have to look if it's compatible with NextJS.
+
+Installed Million.js.
