@@ -9,3 +9,5 @@ I like that the composition is much more simple than the options API.
 The reactivity system is pretty cool too.
 
 Created a component using the Composition API.
+
+Integrated with Pinia for state management.
