@@ -7,3 +7,5 @@ I need to add validation and sanitization.
 I also should add rate limiting to prevent DDOS attacks.
 
 Added validation with Zod.
+
+Added sanitization to prevent XSS attacks.
