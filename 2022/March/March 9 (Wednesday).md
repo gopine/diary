@@ -11,3 +11,5 @@ The reactivity system is pretty cool too.
 Created a component using the Composition API.
 
 Integrated with Pinia for state management.
+
+Configured Vue.js with Typescript.
