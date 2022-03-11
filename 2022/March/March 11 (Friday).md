@@ -9,3 +9,5 @@ The hot reloading is much better too.
 I hope the configuration is not so complicated.
 
 Created a new Vite project.
+
+Migrated the React application to Vite.
