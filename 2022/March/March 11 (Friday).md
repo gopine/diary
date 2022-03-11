@@ -7,3 +7,5 @@ It is much faster than Webpack.
 The hot reloading is much better too.
 
 I hope the configuration is not so complicated.
+
+Created a new Vite project.
