@@ -7,3 +7,5 @@ It allows to query data from multiple sources with GraphQL.
 It removes the need of a dedicated GraphQL server.
 
 I will try to connect it to a REST API and a database.
+
+Created a GraphQL Mesh project.
