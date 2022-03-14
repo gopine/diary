@@ -11,3 +11,5 @@ I will try to connect it to a REST API and a database.
 Created a GraphQL Mesh project.
 
 Configured GraphQL Mesh to use a REST API as a source.
+
+Configured GraphQL Mesh to use a database as a source.
