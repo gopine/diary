@@ -7,3 +7,5 @@ Svelte is a compiler that transforms your components into highly efficient imper
 The syntax looks very simple.
 
 Created a new Svelte project.
+
+Created a component.
