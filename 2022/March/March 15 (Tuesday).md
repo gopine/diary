@@ -9,3 +9,5 @@ The syntax looks very simple.
 Created a new Svelte project.
 
 Created a component.
+
+Added a store for state management.
