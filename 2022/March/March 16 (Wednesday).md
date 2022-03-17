@@ -11,3 +11,5 @@ It looks promising.
 Installed Flutter.
 
 Created a Flutter project.
+
+Created a simple UI.
