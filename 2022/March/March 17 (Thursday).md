@@ -11,3 +11,5 @@ Rust WebAssembly looks pretty cool too.
 Created a new Rust project.
 
 Wrote a simple HTTP server.
+
+Deployed to AWS Lambda.
