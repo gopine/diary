@@ -7,3 +7,5 @@ Tauri apps are smaller and more secure.
 It allows to build applications with Rust and web technologies.
 
 The frontend can be written in any framework.
+
+Installed Tauri.
