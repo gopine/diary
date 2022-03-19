@@ -11,3 +11,5 @@ The frontend can be written in any framework.
 Installed Tauri.
 
 Created a Tauri project with React.
+
+Added a backend written in Rust.
