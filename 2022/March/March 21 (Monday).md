@@ -11,3 +11,5 @@ It follows conventions.
 Created a RedwoodJS project.
 
 Setup the database with Prisma.
+
+Wrote the schema for a blog.
