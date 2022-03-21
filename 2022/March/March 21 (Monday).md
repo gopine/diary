@@ -9,3 +9,5 @@ It is a full-stack framework.
 It follows conventions.
 
 Created a RedwoodJS project.
+
+Setup the database with Prisma.
