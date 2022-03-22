@@ -11,3 +11,5 @@ It is optimized for content-heavy websites.
 Created an Astro project.
 
 Created a blog layout.
+
+Integrated with Markdown.
