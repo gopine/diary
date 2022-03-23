@@ -1,0 +1,1 @@
+I am working on adding localization to our application.
