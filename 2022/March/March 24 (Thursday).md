@@ -9,3 +9,5 @@ I can automate the tests with Newman.
 It helps a lot to speed up the development.
 
 Created a Postman collection.
+
+Added API tests with Newman.
