@@ -1,0 +1,9 @@
+# March 24, 2022
+
+I am using Postman to test our API endpoints.
+
+I can create collections with different requests.
+
+I can automate the tests with Newman.
+
+It helps a lot to speed up the development.
