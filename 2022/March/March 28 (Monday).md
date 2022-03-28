@@ -9,3 +9,5 @@ It is simple to use.
 The animation looks very smooth.
 
 Installed Framer Motion.
+
+Created a simple animation.
