@@ -9,3 +9,5 @@ It is great for building complex web applications.
 I also want to focus on SEO optimization.
 
 Installed Remix.
+
+Created a simple layout and page.
