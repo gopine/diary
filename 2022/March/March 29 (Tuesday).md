@@ -7,3 +7,5 @@ It is a framework for building React web apps that focuses on web standards and 
 It is great for building complex web applications.
 
 I also want to focus on SEO optimization.
+
+Installed Remix.
