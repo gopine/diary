@@ -9,3 +9,5 @@ This will allow me to reuse mobile code for the web.
 Created a React Native Web project.
 
 Wrote a component to display on web.
+
+Configured the layout for mobile.
