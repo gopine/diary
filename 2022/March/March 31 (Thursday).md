@@ -7,3 +7,5 @@ It is one of the best framework to build production ready websites.
 I also need to setup a CI/CD pipeline using Vercel.
 
 Setup a new nextjs project with typescript.
+
+Added internationalization features.
