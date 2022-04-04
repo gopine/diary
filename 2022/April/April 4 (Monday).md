@@ -9,3 +9,5 @@ It seems like a good fit for a JavaScript-centric stack.
 Setting up the server and basic routes was relatively straightforward.
 
 Dealing with CORS issues.
+
+Need to configure the database.
