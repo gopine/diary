@@ -7,3 +7,5 @@ Mongoose makes it easier to interact with MongoDB from Node.js.
 Implemented basic CRUD operations for the data models.
 
 The data flow is starting to take shape.
+
+Data validation is important.
