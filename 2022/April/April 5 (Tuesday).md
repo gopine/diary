@@ -9,3 +9,5 @@ Implemented basic CRUD operations for the data models.
 The data flow is starting to take shape.
 
 Data validation is important.
+
+Testing the API endpoints.
