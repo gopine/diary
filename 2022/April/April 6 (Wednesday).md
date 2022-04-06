@@ -7,3 +7,5 @@ Implementing JWT (JSON Web Tokens) for secure user sessions.
 Securing the API endpoints with middleware to prevent unauthorized access.
 
 Security is definitely a top priority.
+
+Reading about best practices for authentication.
