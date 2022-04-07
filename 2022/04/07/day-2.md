@@ -1,0 +1,1 @@
+Securing the API endpoints with middleware to prevent unauthorized access.
