@@ -9,3 +9,5 @@ Securing the API endpoints with middleware to prevent unauthorized access.
 Security is definitely a top priority.
 
 Reading about best practices for authentication.
+
+Refactoring the codebase.
