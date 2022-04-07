@@ -7,3 +7,5 @@ Fetching data from the API using Axios in the React components.
 Handling asynchronous requests and updating the UI accordingly.
 
 The application is becoming more interactive now.
+
+Troubleshooting API request errors.
