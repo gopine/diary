@@ -9,3 +9,5 @@ Handling asynchronous requests and updating the UI accordingly.
 The application is becoming more interactive now.
 
 Troubleshooting API request errors.
+
+The data flow is now complete from front to back.
