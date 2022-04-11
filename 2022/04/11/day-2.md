@@ -1,0 +1,1 @@
+A smooth user experience is crucial for adoption.
