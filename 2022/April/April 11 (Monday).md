@@ -9,3 +9,5 @@ Exploring the benefits of using GraphQL for data fetching.
 The query language looks quite powerful.
 
 Watching tutorials on GraphQL.
+
+Experimenting with GraphQL queries.
