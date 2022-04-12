@@ -9,3 +9,5 @@ Thinking about using serverless for some of the backend logic.
 The pay-as-you-go pricing model is appealing.
 
 Reading documentation on serverless architectures.
+
+Trying out a simple serverless function.
