@@ -9,3 +9,5 @@ WebSockets enable bidirectional communication between the client and server.
 The possibilities for real-time applications are exciting.
 
 Implementing the WebSocket server.
+
+Connecting the client to the WebSocket server.
