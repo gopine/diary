@@ -9,3 +9,5 @@ React Native allows developers to write cross-platform mobile apps using JavaScr
 The code reusability is a major advantage.
 
 Setting up a React Native development environment.
+
+Building a basic UI in React Native.
