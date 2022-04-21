@@ -1,0 +1,1 @@
+Building a simple Vue.js component.
