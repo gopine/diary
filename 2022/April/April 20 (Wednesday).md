@@ -9,3 +9,5 @@ Thinking about using it for future projects.
 It could improve performance and SEO.
 
 Setting up a Next.js project.
+
+Experimenting with server-side rendering.
