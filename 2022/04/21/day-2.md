@@ -1,0 +1,1 @@
+Vue's learning curve appears to be gentler than React's.
