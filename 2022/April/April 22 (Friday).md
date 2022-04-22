@@ -7,3 +7,5 @@ Containerizing my applications for easier deployment.
 Docker allows developers to package applications with all their dependencies.
 
 The portability and consistency benefits are significant.
+
+Installing Docker and learning the basic commands.
