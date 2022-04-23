@@ -9,3 +9,5 @@ Docker allows developers to package applications with all their dependencies.
 The portability and consistency benefits are significant.
 
 Installing Docker and learning the basic commands.
+
+Creating a Dockerfile for my application.
