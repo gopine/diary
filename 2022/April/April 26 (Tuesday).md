@@ -9,3 +9,5 @@ It promises better performance with less code.
 Excited to try it out on a smaller project first.
 
 Reading about Svelte's syntax.
+
+Building a basic Svelte component.
