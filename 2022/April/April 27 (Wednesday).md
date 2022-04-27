@@ -9,3 +9,5 @@ Thinking of its advantages of using web standards.
 Will try it out after doing some tutorials.
 
 Watching introduction videos of Remix.
+
+Trying some tutorial on using React Router.
