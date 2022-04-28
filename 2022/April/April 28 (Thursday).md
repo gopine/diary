@@ -7,3 +7,5 @@ It has similar component structure with React, but with more performant renderin
 It eliminates the virtual DOM concept.
 
 The framework is gaining popularity.
+
+Doing a simple Todo app with SolidJS.
