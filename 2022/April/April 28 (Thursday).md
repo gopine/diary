@@ -9,3 +9,5 @@ It eliminates the virtual DOM concept.
 The framework is gaining popularity.
 
 Doing a simple Todo app with SolidJS.
+
+Compared the performance with React.
