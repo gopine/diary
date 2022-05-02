@@ -7,3 +7,5 @@ A language developed by Google with high performance.
 It is widely used on backend.
 
 Might be useful in the future.
+
+Installing Go.
