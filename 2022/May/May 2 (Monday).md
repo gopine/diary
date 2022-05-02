@@ -9,3 +9,5 @@ It is widely used on backend.
 Might be useful in the future.
 
 Installing Go.
+
+Setting up a simple API server.
