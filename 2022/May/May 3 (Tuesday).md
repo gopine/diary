@@ -9,3 +9,5 @@ Need to understand more about the underlying technologies.
 The concepts are quite different from the traditional web.
 
 Reading about blockchain consensus mechanisms.
+
+Investigating different Web3 development frameworks.
