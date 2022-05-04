@@ -7,3 +7,5 @@ It is a mechanism that allows you to prove something without revealing the actua
 It is widely used in Web3.
 
 Need to understand it to have a better overview of Web3.
+
+Reading the introduction article.
