@@ -9,3 +9,5 @@ It is widely used in Web3.
 Need to understand it to have a better overview of Web3.
 
 Reading the introduction article.
+
+Need to dive deeper in the future.
