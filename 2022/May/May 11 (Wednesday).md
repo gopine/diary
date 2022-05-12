@@ -9,3 +9,5 @@ It seems useful for large teams.
 Need to consider adopting this on some projects.
 
 Investigating different Micro Frontend architectures.
+
+Reading articles on single-spa.
