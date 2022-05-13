@@ -7,3 +7,5 @@ Especially on Azure Functions.
 Need to understand the differences between AWS and Azure.
 
 The pricing model seems to be different.
+
+Reading the documentation on Azure Functions.
