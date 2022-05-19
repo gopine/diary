@@ -9,3 +9,5 @@ The concept is similar with Blitz.js.
 Need to compare these two.
 
 Reading the documentation on RedwoodJS.
+
+Building a simple blog with RedwoodJS.
