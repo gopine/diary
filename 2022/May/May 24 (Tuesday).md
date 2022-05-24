@@ -9,3 +9,5 @@ It is useful when writing blogs.
 Need to use it in the next blog project.
 
 Reading the documentation on MDX.
+
+Trying out MDX with Next.js.
