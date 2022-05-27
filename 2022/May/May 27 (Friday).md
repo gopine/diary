@@ -7,3 +7,5 @@ It generates TypeScript types from GraphQL schema.
 It improves the type safety of GraphQL applications.
 
 Need to use it on my projects.
+
+Reading the documentation on GraphQL Code Generator.
