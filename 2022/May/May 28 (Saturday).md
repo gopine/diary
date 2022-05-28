@@ -7,3 +7,5 @@ It allows building end-to-end type-safe APIs.
 Need to see how it compares with GraphQL.
 
 The concept is pretty useful.
+
+Reading the documentation on tRPC.
