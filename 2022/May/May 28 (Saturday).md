@@ -9,3 +9,5 @@ Need to see how it compares with GraphQL.
 The concept is pretty useful.
 
 Reading the documentation on tRPC.
+
+Building a simple API with tRPC.
