@@ -1,0 +1,9 @@
+# June 1, 2022
+
+Diving into Supabase.
+
+An open source Firebase alternative.
+
+It provides many features, like authentication, database, and storage.
+
+Will use it on the side projects.
