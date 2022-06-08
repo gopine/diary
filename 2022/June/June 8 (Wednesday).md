@@ -9,3 +9,5 @@ It is similar with Styled Components.
 Need to compare these two.
 
 Reading the documentation on Emotion.
+
+Using Emotion in a React project.
