@@ -9,3 +9,5 @@ It allows writing CSS in JavaScript.
 Need to try it out on some side projects.
 
 Reading the documentation on Styled Components.
+
+Using Styled Components in a React project.
