@@ -5,3 +5,5 @@ Studying more on Next.js.
 It's widely used to build web apps with React.
 
 The server side rendering is quite useful.
+
+Reading the documentation on Next.js.
