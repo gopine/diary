@@ -1,0 +1,1 @@
+The server side rendering is quite useful.
