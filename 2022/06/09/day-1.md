@@ -1,0 +1,1 @@
+Studying more on Next.js.
