@@ -11,3 +11,5 @@ Hoping to see these reflected in our app's load times.
 Considering integrating Top-Level Await in some of our build scripts.
 
 Initial tests with static initialization blocks are promising.
+
+Read up on the deprecation of Shadow DOM V0.
