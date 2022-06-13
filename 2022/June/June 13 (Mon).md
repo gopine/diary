@@ -9,3 +9,5 @@ Also, the middleware feature looks interesting for handling authentication redir
 Planning to migrate one of our smaller projects to Next.js.
 
 Initial result looks quite good.
+
+Experimenting with the Next.js Image component for optimized image delivery.
