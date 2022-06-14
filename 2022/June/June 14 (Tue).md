@@ -13,3 +13,5 @@ It's hard to decide to migrate existing project.
 Benchmarking Styled Components vs.
 
 Emotion with a simple component.
+
+Emotion seems to be slightly faster in initial tests.
