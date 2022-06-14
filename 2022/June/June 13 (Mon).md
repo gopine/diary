@@ -11,3 +11,5 @@ Planning to migrate one of our smaller projects to Next.js.
 Initial result looks quite good.
 
 Experimenting with the Next.js Image component for optimized image delivery.
+
+The Next.js middleware seems powerful but also complex.
