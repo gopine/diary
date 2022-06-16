@@ -7,3 +7,5 @@ Svelte seems very interesting to me.
 It feels very easy to pick up.
 
 Thinking to adopt it to build the simple internal tools.
+
+Completed the official Svelte tutorial.
