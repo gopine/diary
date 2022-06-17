@@ -9,3 +9,5 @@ Apollo Client seems to be the most popular choice for React.
 Been reading up on schema design best practices.
 
 Need to get a better understanding of subscriptions.
+
+Setting up a simple GraphQL server with Apollo Server.
