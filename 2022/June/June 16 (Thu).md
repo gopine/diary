@@ -9,3 +9,5 @@ It feels very easy to pick up.
 Thinking to adopt it to build the simple internal tools.
 
 Completed the official Svelte tutorial.
+
+The Svelte syntax is refreshingly clean.
