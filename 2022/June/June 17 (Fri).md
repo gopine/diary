@@ -11,3 +11,5 @@ Been reading up on schema design best practices.
 Need to get a better understanding of subscriptions.
 
 Setting up a simple GraphQL server with Apollo Server.
+
+Successfully queried data from the GraphQL server.
