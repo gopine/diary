@@ -9,3 +9,5 @@ Recoil offers fine-grained subscriptions.
 Need to evaluate these against our existing Redux setup.
 
 Building a simple application with Zustand.
+
+Zustand is surprisingly easy to get started with.
