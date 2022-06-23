@@ -7,3 +7,5 @@ Thinking about caching static assets.
 Need to consider strategies for handling API requests.
 
 Seems not easy to apply for the whole app.
+
+Generating a service worker with Workbox.
