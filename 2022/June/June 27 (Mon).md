@@ -7,3 +7,5 @@ GitHub Actions seems like a good fit for our current setup.
 Setting up automated tests and deployments.
 
 Need to configure code linting as well.
+
+Configuring a GitHub Actions workflow.
