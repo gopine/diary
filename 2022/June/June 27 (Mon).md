@@ -9,3 +9,5 @@ Setting up automated tests and deployments.
 Need to configure code linting as well.
 
 Configuring a GitHub Actions workflow.
+
+Successfully ran the tests in GitHub Actions!
