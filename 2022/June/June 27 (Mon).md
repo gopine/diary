@@ -1,0 +1,9 @@
+# June 27, 2022
+
+Researching different CI/CD solutions.
+
+GitHub Actions seems like a good fit for our current setup.
+
+Setting up automated tests and deployments.
+
+Need to configure code linting as well.
