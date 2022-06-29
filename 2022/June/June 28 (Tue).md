@@ -9,3 +9,5 @@ Need to consider the impact on initial load time.
 Analyzing bundle sizes with Webpack.
 
 Implementing code splitting with dynamic imports.
+
+Reduced the initial bundle size significantly!
