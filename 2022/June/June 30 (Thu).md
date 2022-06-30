@@ -9,3 +9,5 @@ Need to review our current security practices.
 Planning to implement a content security policy.
 
 Implementing a Content Security Policy.
+
+Testing the CSP configuration.
