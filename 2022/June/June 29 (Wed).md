@@ -9,3 +9,5 @@ Need to define clear guidelines for branding and styling.
 Thinking about using Storybook.
 
 Setting up Storybook for our component library.
+
+Documenting components in Storybook.
