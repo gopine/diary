@@ -7,3 +7,5 @@ The built-in test runner is intriguing.
 Need to explore performance improvements.
 
 Trying out the new 'node:' protocol for imports.
+
+Using 'node:' protocol for import.
