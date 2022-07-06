@@ -7,3 +7,5 @@ Trying to implement the compound component pattern.
 Need to practice higher-order components.
 
 Also, studying render props.
+
+Refactoring component to use compound pattern.
