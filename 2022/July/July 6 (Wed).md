@@ -9,3 +9,5 @@ Need to practice higher-order components.
 Also, studying render props.
 
 Refactoring component to use compound pattern.
+
+These design patterns make a huge difference.
