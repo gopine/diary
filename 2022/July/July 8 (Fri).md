@@ -9,3 +9,5 @@ Need to create a testing plan for the project.
 Practicing TDD.
 
 Setting up Jest for unit testing.
+
+Writing my first unit test.
