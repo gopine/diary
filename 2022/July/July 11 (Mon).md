@@ -7,3 +7,5 @@ MongoDB seems flexible and easy to use.
 PostgreSQL offers better data integrity.
 
 Need to consider the scalability requirements.
+
+Setting up a MongoDB database.
