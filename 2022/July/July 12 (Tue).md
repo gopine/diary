@@ -9,3 +9,5 @@ Practicing refactoring techniques.
 Trying to avoid code smells.
 
 Refactoring a messy function.
+
+The code is much cleaner now!
