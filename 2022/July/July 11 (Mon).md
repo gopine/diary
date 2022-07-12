@@ -9,3 +9,5 @@ PostgreSQL offers better data integrity.
 Need to consider the scalability requirements.
 
 Setting up a MongoDB database.
+
+Connecting to MongoDB with Node.js.
