@@ -7,3 +7,5 @@ Learning about different cloud providers: AWS, Azure, Google Cloud.
 Exploring different cloud services: compute, storage, networking.
 
 Need to move to Cloud solution.
+
+Setting up an AWS account.
