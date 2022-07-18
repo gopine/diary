@@ -7,3 +7,5 @@ Learning about different GraphQL clients.
 Exploring advanced features like schema stitching.
 
 Thinking about caching strategies.
+
+Setting up Apollo Client for GraphQL.
