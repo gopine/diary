@@ -9,3 +9,5 @@ Using tools like OWASP ZAP to identify vulnerabilities.
 Need to stay up to date.
 
 Running a penetration test with OWASP ZAP.
+
+Fixing the identified security vulnerabilities.
