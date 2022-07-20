@@ -7,3 +7,5 @@ D3.js seems powerful but complex.
 Chart.js offers a simpler API.
 
 Need to choose the right library for the project.
+
+Creating a simple chart with Chart.js.
