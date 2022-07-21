@@ -9,3 +9,5 @@ Chart.js offers a simpler API.
 Need to choose the right library for the project.
 
 Creating a simple chart with Chart.js.
+
+The chart looks great!
