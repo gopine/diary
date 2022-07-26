@@ -7,3 +7,5 @@ Learning about different microservices architectures.
 Thinking about how to break down a monolithic application into microservices.
 
 Drawing diagrams of potential microservices architectures.
+
+Documenting the microservices API.
