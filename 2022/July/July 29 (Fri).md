@@ -7,3 +7,5 @@ Understanding the tradeoffs between different NoSQL databases.
 Need to choose the right NoSQL database for the project.
 
 Setting up Cassandra.
+
+Querying Cassandra with CQL.
