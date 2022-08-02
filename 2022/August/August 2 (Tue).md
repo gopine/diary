@@ -5,3 +5,5 @@ Learning about different programming paradigms: functional programming, object-o
 Understanding the tradeoffs between different programming paradigms.
 
 Writing code in a functional style.
+
+Refactoring code to use functional programming principles.
