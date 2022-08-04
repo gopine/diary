@@ -7,3 +7,5 @@ Learning about qubits and quantum algorithms.
 Thinking about potential applications of quantum computing in web development.
 
 Reading about quantum gates.
+
+Simulating a quantum circuit.
