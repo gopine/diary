@@ -7,3 +7,5 @@ Learning about different types of cyberattacks.
 Thinking about how to protect web applications from cyberattacks.
 
 Need to understand the different types of attacks.
+
+Reading about SQL injection attacks.
