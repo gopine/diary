@@ -11,3 +11,5 @@ Need to understand the different types of attacks.
 Reading about SQL injection attacks.
 
 Implementing measures to prevent SQL injection attacks.
+
+The application is now more secure.
