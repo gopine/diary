@@ -5,3 +5,5 @@ Learning about different software development methodologies: Agile, Waterfall, S
 Understanding the tradeoffs between different software development methodologies.
 
 Reading the Agile manifesto.
+
+Practicing Scrum with the team.
