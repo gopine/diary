@@ -7,3 +7,5 @@ Learning about different IoT devices.
 Thinking about potential applications of IoT in web development.
 
 Need to buy some IoT devices.
+
+Reading about the MQTT protocol.
