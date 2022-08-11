@@ -9,3 +9,5 @@ Thinking about potential applications of IoT in web development.
 Need to buy some IoT devices.
 
 Reading about the MQTT protocol.
+
+Connecting an IoT device to the web.
