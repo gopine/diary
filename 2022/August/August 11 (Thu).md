@@ -7,3 +7,5 @@ Learning about blockchain technology and decentralized applications.
 Thinking about building decentralized web applications.
 
 Creating a web3 wallet.
+
+Connecting the wallet to a decentralized application.
