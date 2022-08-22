@@ -1,0 +1,1 @@
+"Fixed some minor UI issues reported by the QA team."
