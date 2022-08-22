@@ -1,0 +1,1 @@
+It allows users to modify their profile picture and update personal information."
