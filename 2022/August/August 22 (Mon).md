@@ -5,3 +5,5 @@
 It allows users to modify their profile picture and update personal information."
 
 "Fixed some minor UI issues reported by the QA team."
+
+"Created unit tests for user profile customization feature."
