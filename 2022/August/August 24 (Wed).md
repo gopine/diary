@@ -5,3 +5,5 @@
 This project helps with tracking the daily activities."
 
 "Created initial components and services for Vue.js project."
+
+"Set up the Vuex store for managing the application state."
