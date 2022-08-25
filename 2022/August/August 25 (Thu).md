@@ -5,3 +5,5 @@
 Users can receive updates on important events."
 
 "Configured the websocket server and client connection."
+
+"Created a service to handle notification events."
