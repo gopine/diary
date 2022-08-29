@@ -5,3 +5,5 @@
 I think it will increase the transaction rate."
 
 "Configured the Stripe API and implemented the payment form."
+
+"Created the payment processing logic on the backend."
