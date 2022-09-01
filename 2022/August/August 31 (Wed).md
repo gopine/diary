@@ -5,3 +5,5 @@
 It is good idea for reducing the cost."
 
 "Created a simple AWS Lambda function using Node.js."
+
+"Integrated AWS Lambda with our API Gateway."
