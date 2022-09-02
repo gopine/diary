@@ -5,3 +5,5 @@
 This should help increase customer reach and engagement."
 
 "Configured Google Optimize and created different landing page variants."
+
+"Set up the A/B testing parameters and metrics."
