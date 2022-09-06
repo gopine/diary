@@ -5,3 +5,5 @@
 This should help reduce the risk of unauthorized access."
 
 "Configured the Authy API and implemented the MFA flow."
+
+"Updated the user authentication process to include MFA."
