@@ -1,0 +1,1 @@
+"Researched the use of WebAssembly for improving the performance of computationally intensive tasks.
