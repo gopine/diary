@@ -1,0 +1,1 @@
+"Integrated WebAssembly module with our Javascript application."
