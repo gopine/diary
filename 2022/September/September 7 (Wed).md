@@ -5,3 +5,5 @@
 This would greatly improve the productivity."
 
 "Created a simple WebAssembly module using Rust."
+
+"Integrated WebAssembly module with our Javascript application."
