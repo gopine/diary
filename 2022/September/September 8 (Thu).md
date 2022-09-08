@@ -5,3 +5,5 @@
 Some users were being logged out unexpectedly.
 
 I think it might be a concurrency issue."
+
+"Fixed a bug related to session expiration."
