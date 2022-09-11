@@ -1,0 +1,1 @@
+Some users were being logged out unexpectedly.
