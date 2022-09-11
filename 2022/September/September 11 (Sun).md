@@ -3,3 +3,5 @@
 "Learned more about serverless databases like FaunaDB and PlanetScale.
 
 Need to see which one best suits our needs."
+
+"Set up a test database in FaunaDB."
