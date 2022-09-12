@@ -1,0 +1,1 @@
+"Updated our image URLs to point to the CDN."
