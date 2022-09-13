@@ -5,3 +5,5 @@
 Images were slow to load."
 
 "Configured Cloudflare as our CDN provider."
+
+"Updated our image URLs to point to the CDN."
