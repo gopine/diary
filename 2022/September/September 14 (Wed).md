@@ -3,3 +3,5 @@
 "Investigated using Remix framework for building web applications.
 
 It is a new framework for building web applications."
+
+"Created a simple Remix application with basic routing."
