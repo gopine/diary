@@ -5,3 +5,5 @@
 It is a new framework for building web applications."
 
 "Created a simple Remix application with basic routing."
+
+"Explored Remix data loading and form handling capabilities."
