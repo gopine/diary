@@ -1,0 +1,5 @@
+# September 15, 2022
+
+"Debugged issues with the email sending service.
+
+Some emails were not being delivered."
