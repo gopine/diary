@@ -5,3 +5,5 @@
 Some IP addresses were sending too many requests."
 
 "Configured rate limiting using Redis."
+
+"Added rate limiting middleware to our API endpoints."
