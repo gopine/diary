@@ -5,3 +5,5 @@
 This should greatly increase our website traffic."
 
 "Updated the meta tags for all pages."
+
+"Submitted our sitemap to Google Search Console."
