@@ -1,0 +1,5 @@
+# September 19, 2022
+
+"Worked on improving the SEO of our website by optimizing the meta tags and content.
+
+This should greatly increase our website traffic."
