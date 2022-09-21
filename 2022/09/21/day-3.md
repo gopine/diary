@@ -1,0 +1,1 @@
+"Configured Playwright to run in our CI/CD pipeline."
