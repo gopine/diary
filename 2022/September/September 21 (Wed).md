@@ -1,0 +1,5 @@
+# September 21, 2022
+
+"Investigated the use of Playwright for end-to-end testing.
+
+Cypress and Playwright both are really good."
