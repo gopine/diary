@@ -1,0 +1,1 @@
+"Used lazy loading for images and other resources."
