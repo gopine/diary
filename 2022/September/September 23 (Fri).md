@@ -5,3 +5,5 @@
 Client had reported slow performance for the page."
 
 "Implemented code splitting for large components."
+
+"Used lazy loading for images and other resources."
