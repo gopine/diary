@@ -5,3 +5,5 @@
 It makes the code more clean and testable."
 
 "Added Dagger to our Android project."
+
+"Configured Dagger to inject dependencies into our activities and fragments."
