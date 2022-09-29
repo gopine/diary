@@ -5,3 +5,5 @@
 Push notifications were failing a lot."
 
 "Fixed a bug related to push notification token generation."
+
+"Updated the push notification service configuration."
