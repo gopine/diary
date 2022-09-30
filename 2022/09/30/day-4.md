@@ -1,0 +1,1 @@
+"Sanitized user inputs to prevent injection attacks."
