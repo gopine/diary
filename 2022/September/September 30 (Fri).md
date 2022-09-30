@@ -5,3 +5,5 @@
 Security is becoming more and more important."
 
 "Added input validation middleware to our API endpoints."
+
+"Sanitized user inputs to prevent injection attacks."
