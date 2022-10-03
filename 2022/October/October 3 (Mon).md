@@ -5,3 +5,5 @@
 This should improve user engagement."
 
 "Configured the WebSocket server using Socket.IO."
+
+"Created a React component for displaying the chat messages."
