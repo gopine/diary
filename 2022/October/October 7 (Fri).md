@@ -5,3 +5,5 @@
 Sentry is a good tool for tracking errors."
 
 "Integrated Sentry into our application."
+
+"Configured Sentry to capture exceptions and errors."
