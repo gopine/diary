@@ -5,3 +5,5 @@
 A component was rendering way too many times."
 
 "Used React.memo to memoize pure components."
+
+"Used useMemo and useCallback hooks to memoize values and functions."
