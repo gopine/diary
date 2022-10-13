@@ -5,3 +5,5 @@
 It is becoming a more and more relevant tool in the industry."
 
 "Created a Kotlin Multiplatform project."
+
+"Shared code between our Android and iOS apps using Kotlin Multiplatform."
