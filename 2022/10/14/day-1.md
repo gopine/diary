@@ -1,0 +1,1 @@
+"Worked on improving the security of our application by implementing Content Security Policy (CSP).
