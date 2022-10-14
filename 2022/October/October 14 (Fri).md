@@ -5,3 +5,5 @@
 Securing the web application is important."
 
 "Configured CSP headers for our application."
+
+"Updated our code to comply with CSP restrictions."
