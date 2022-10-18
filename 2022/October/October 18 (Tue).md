@@ -5,3 +5,5 @@
 Caching is important for speed."
 
 "Implemented caching for static assets using Service Workers."
+
+"Used Service Workers to cache API responses."
