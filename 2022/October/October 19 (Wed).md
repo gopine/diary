@@ -5,3 +5,5 @@
 I want to have it in the portfolio."
 
 "Created a simple WebGPU application with basic rendering."
+
+"Explored WebGPU shading and compute capabilities."
