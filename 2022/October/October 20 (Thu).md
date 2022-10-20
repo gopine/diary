@@ -5,3 +5,5 @@
 Emails were not delivered properly."
 
 "Fixed a bug related to email segmentation."
+
+"Updated the email marketing campaign configuration."
