@@ -5,3 +5,5 @@
 NodeJS is really important for the backend."
 
 "Used Node.js Inspector to profile our application."
+
+"Identified and optimized performance bottlenecks."
