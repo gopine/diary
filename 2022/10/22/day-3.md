@@ -1,0 +1,1 @@
+"Created a simple static website using Astro."
