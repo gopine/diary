@@ -1,0 +1,1 @@
+"Explored Astro as an alternative to Next.js for building static websites.
