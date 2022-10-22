@@ -3,3 +3,5 @@
 "Explored Astro as an alternative to Next.js for building static websites.
 
 It's good for performance."
+
+"Created a simple static website using Astro."
