@@ -1,0 +1,1 @@
+"Worked on optimizing the image compression of our website using WebP format.
