@@ -5,3 +5,5 @@
 It is really good for image compression."
 
 "Converted our images to WebP format."
+
+"Updated our code to serve WebP images."
