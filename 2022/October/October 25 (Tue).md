@@ -3,3 +3,5 @@
 "Worked on optimizing the image compression of our website using WebP format.
 
 It is really good for image compression."
+
+"Converted our images to WebP format."
