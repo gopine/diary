@@ -11,3 +11,5 @@ The documentation is pretty extensive.
 This could significantly improve perceived performance.
 
 Tried out the useTransition hook; quite elegant.
+
+Debugging a weird hydration issue.
