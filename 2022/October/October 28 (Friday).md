@@ -1,0 +1,9 @@
+# October 28, 2022
+
+Attended a workshop on Next.js.
+
+Learned about the app directory, it is interesting.
+
+Thinking of migrating the blog to it.
+
+Seems like a better approach than the pages directory.
