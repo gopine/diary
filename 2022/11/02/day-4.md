@@ -1,0 +1,1 @@
+Svelte's performance is impressive.
