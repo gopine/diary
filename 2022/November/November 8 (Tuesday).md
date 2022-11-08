@@ -9,3 +9,5 @@ Testing with screen readers is essential.
 Need to improve the color contrast.
 
 Accessibility is very important.
+
+Fixed a few accessibility issues.
