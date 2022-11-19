@@ -7,3 +7,5 @@ Creating smooth and engaging animations.
 Improving the user experience.
 
 Framer Motion is easy to use for simple animations.
+
+GSAP is more powerful.
