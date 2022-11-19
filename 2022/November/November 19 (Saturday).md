@@ -5,3 +5,5 @@ Experimenting with different animation libraries like Framer Motion and GreenSoc
 Creating smooth and engaging animations.
 
 Improving the user experience.
+
+Framer Motion is easy to use for simple animations.
