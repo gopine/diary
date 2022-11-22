@@ -7,3 +7,5 @@ Minifying CSS and JavaScript files.
 Optimizing images.
 
 Using a Content Delivery Network (CDN).
+
+Website performance improved significantly.
