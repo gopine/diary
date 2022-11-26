@@ -7,3 +7,5 @@ Automating the deployment process.
 Using continuous integration and continuous delivery (CI/CD).
 
 DevOps is essential for modern software development.
+
+Learning about Docker and Kubernetes.
