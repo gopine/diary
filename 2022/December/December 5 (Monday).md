@@ -9,3 +9,5 @@ Using HTTPS.
 Protecting against common web vulnerabilities.
 
 CSP is important for preventing XSS attacks.
+
+Configured the SSL certificate.
