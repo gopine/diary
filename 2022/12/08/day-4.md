@@ -1,0 +1,1 @@
+Integration testing is important for complex applications.
