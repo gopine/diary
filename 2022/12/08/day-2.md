@@ -1,0 +1,1 @@
+Writing tests to ensure that different parts of the application work together correctly.
