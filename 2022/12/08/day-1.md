@@ -1,0 +1,1 @@
+Investigating different testing strategies like integration testing and end-to-end testing.
