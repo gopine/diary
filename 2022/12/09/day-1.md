@@ -1,0 +1,1 @@
+Exploring different approaches to server-side rendering (SSR).
