@@ -7,3 +7,5 @@ Using linters and code formatters.
 Following coding standards.
 
 Writing clean and maintainable code.
+
+Code quality is crucial for long-term maintainability.
