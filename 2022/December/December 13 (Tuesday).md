@@ -5,3 +5,5 @@ Exploring different testing methodologies like Test-Driven Development (TDD) and
 Writing tests before writing code.
 
 Using tools like Jest and Cucumber.
+
+TDD can improve code quality and reduce bugs.
