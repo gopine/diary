@@ -5,3 +5,5 @@ Investigating different cloud computing services like AWS Lambda, Google Cloud F
 Building serverless applications.
 
 Using serverless functions for backend logic.
+
+Serverless computing can reduce infrastructure costs.
