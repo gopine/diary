@@ -9,3 +9,5 @@ Minifying CSS and JavaScript.
 Using a Content Delivery Network (CDN).
 
 Website performance is important for user experience and SEO.
+
+Lazy loading images can improve page load speed.
