@@ -1,0 +1,1 @@
+Investigating different security vulnerabilities like Cross-Site Scripting (XSS), SQL Injection, and Cross-Site Request Forgery (CSRF).
