@@ -1,0 +1,1 @@
+Implementing security measures to protect against these vulnerabilities.
