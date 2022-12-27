@@ -1,0 +1,1 @@
+Exploring different DevOps practices like Continuous Integration (CI) and Continuous Delivery (CD).
