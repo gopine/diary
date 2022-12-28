@@ -1,0 +1,1 @@
+Learning about different types of testing like unit testing, integration testing, and end-to-end testing.
