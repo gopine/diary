@@ -1,0 +1,1 @@
+Wrote some unit tests for a React component.
