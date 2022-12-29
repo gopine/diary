@@ -1,0 +1,1 @@
+Cloud computing offers many benefits, including scalability and cost savings.
