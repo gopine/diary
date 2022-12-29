@@ -1,0 +1,1 @@
+Using cloud services for storage, compute, and networking.
