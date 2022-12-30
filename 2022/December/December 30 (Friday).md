@@ -7,3 +7,5 @@ Building and deploying applications using containers.
 Managing containerized applications.
 
 Orchestrating containers with Kubernetes.
+
+Containerization simplifies application deployment and management.
