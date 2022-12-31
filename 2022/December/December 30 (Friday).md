@@ -9,3 +9,5 @@ Managing containerized applications.
 Orchestrating containers with Kubernetes.
 
 Containerization simplifies application deployment and management.
+
+Kubernetes is a powerful container orchestration platform.
