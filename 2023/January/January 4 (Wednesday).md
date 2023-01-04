@@ -7,3 +7,5 @@ Using CSS variables.
 Exploring the new layout features.
 
 Trying out the new color functions.
+
+Modern CSS features make styling easier and more powerful.
