@@ -7,3 +7,5 @@ Learning about XSS and CSRF attacks.
 Implementing security measures to prevent attacks.
 
 Using security tools to identify vulnerabilities.
+
+Web security is a constantly evolving field.
