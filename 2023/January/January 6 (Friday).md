@@ -7,3 +7,5 @@ Learning about Infrastructure as Code (IaC).
 Using tools like Terraform and CloudFormation.
 
 Automating infrastructure provisioning and management.
+
+IaC can improve infrastructure consistency and repeatability.
