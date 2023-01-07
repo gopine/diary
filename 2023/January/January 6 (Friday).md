@@ -9,3 +9,5 @@ Using tools like Terraform and CloudFormation.
 Automating infrastructure provisioning and management.
 
 IaC can improve infrastructure consistency and repeatability.
+
+Terraform looks really powerful.
