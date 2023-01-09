@@ -11,3 +11,5 @@ Minifying CSS and JavaScript.
 Using a Content Delivery Network (CDN).
 
 Website performance is critical for user experience and SEO.
+
+Added the new images with the next/image component.
