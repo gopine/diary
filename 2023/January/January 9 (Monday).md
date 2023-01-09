@@ -9,3 +9,5 @@ Optimizing images and videos.
 Minifying CSS and JavaScript.
 
 Using a Content Delivery Network (CDN).
+
+Website performance is critical for user experience and SEO.
