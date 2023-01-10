@@ -7,3 +7,5 @@ Learning about Web Authentication (WebAuthn).
 Implementing multi-factor authentication (MFA).
 
 Using passwordless authentication.
+
+Strong authentication is essential for securing web applications.
