@@ -1,0 +1,1 @@
+Learning about new design patterns for web development.
