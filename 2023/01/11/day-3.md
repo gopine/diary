@@ -1,0 +1,1 @@
+Applying design patterns to improve code structure and maintainability.
