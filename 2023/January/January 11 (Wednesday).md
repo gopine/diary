@@ -9,3 +9,5 @@ Applying design patterns to improve code structure and maintainability.
 Using design patterns to solve common problems.
 
 Design patterns can make code more reusable and testable.
+
+Spent some time refactoring old code.
