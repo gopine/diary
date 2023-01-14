@@ -7,3 +7,5 @@ Learning more about transformers.
 Trying to use the openAI API for different ideas.
 
 The application of Large language models is unlimited.
+
+Getting to know the different parameter when calling the API.
