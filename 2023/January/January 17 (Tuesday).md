@@ -9,3 +9,5 @@ I'm trying to build a more complex component layout.
 It involves nested flex containers and precise alignment.
 
 Read about accessibility best practices for web development.
+
+Implemented basic form validation.
