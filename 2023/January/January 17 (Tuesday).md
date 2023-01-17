@@ -7,3 +7,5 @@ Flexbox and Grid are powerful, but getting them to work responsively can be tric
 I'm trying to build a more complex component layout.
 
 It involves nested flex containers and precise alignment.
+
+Read about accessibility best practices for web development.
