@@ -11,3 +11,5 @@ It involves nested flex containers and precise alignment.
 Read about accessibility best practices for web development.
 
 Implemented basic form validation.
+
+Refactored code to use more descriptive variable names.
