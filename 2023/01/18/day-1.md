@@ -1,0 +1,1 @@
+Today I focused on learning more about Typescript.
