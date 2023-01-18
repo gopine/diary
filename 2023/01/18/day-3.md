@@ -1,0 +1,1 @@
+It is a slow process but I hope that static typing will help me catch errors early.
