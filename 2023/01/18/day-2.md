@@ -1,0 +1,1 @@
+I'm adding types to the existing Javascript codebase.
