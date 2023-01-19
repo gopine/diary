@@ -9,3 +9,5 @@ It is a slow process but I hope that static typing will help me catch errors ear
 I'm also using the `any` type too often...
 
 Reviewed a teammate's pull request on GitHub.
+
+Researched performance optimization techniques for React apps.
