@@ -7,3 +7,5 @@ I also updated dependencies in package.json.
 Trying to keep things up to date and avoid security vulnerabilities.
 
 Attended a team meeting about upcoming project milestones.
+
+Started setting up CI/CD pipeline with Jenkins.
