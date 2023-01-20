@@ -11,3 +11,5 @@ Using Postman to test the endpoints has been invaluable.
 Fixed a bug in the user authentication flow.
 
 Wrote unit tests for the new API integration.
+
+Created a Dockerfile for the app.
