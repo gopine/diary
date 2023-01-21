@@ -7,3 +7,5 @@ Framer Motion looks very promising.
 It seems intuitive and performant.
 
 I want to add some subtle animations to the user interface.
+
+Read articles about improving website loading speed.
