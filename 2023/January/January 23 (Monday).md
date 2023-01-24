@@ -5,3 +5,5 @@ Continued working on the drag-and-drop feature, finally managed to get it workin
 Also investigated ways to improve the visual feedback during the drag operation.
 
 Deployed changes to the staging environment for testing.
+
+Had a discussion with the team about the future architecture.
