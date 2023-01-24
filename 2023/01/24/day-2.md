@@ -1,0 +1,1 @@
+I profiled the application using Chrome DevTools.
