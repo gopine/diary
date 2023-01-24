@@ -1,0 +1,1 @@
+Today was all about performance optimization.
