@@ -1,0 +1,1 @@
+Identified some bottlenecks in the rendering process.
