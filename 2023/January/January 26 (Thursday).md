@@ -11,3 +11,5 @@ I need to set up the basic infrastructure for supporting multiple languages.
 Configured the i18next library with different locales.
 
 Added translation files for English and Spanish.
+
+Tested the language switching functionality.
