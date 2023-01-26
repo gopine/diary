@@ -9,3 +9,5 @@ It dramatically reduced the initial load time.
 The app feels much snappier now.
 
 Experimented with different image optimization techniques.
+
+Updated the documentation with the new features.
