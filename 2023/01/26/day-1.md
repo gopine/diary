@@ -1,0 +1,1 @@
+Investigated the performance issues revealed yesterday.
