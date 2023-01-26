@@ -11,3 +11,5 @@ The app feels much snappier now.
 Experimented with different image optimization techniques.
 
 Updated the documentation with the new features.
+
+Reviewed the changes with the team.
