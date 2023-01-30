@@ -1,0 +1,1 @@
+Using Apollo Client for managing the GraphQL connection.
