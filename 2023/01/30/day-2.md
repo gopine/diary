@@ -1,0 +1,1 @@
+It required a bit of restructuring of the data fetching logic.
