@@ -1,0 +1,1 @@
+Began integrating GraphQL into the existing React application.
