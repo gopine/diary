@@ -7,3 +7,5 @@ After hours of debugging, I discovered a subtle race condition.
 It only occurred under specific circumstances.
 
 I resolved it by using a callback-based approach to update the state safely.
+
+Researched best practices for managing complex state in React.
