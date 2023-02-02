@@ -11,3 +11,5 @@ I resolved it by using a callback-based approach to update the state safely.
 Researched best practices for managing complex state in React.
 
 Discussed alternative state management solutions with team.
+
+Started planning the next sprint with the team.
