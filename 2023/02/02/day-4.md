@@ -1,0 +1,1 @@
+Implemented asynchronous actions using Redux Thunk middleware.
