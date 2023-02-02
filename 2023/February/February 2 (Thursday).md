@@ -7,3 +7,5 @@ I'm aiming to refactor state management using Redux Toolkit.
 It might make the component easier to maintain.
 
 Setup the store and reducers.
+
+Added actions and reducers to the Redux store.
