@@ -9,3 +9,5 @@ The data flow is more predictable.
 The component code is cleaner.
 
 Implemented asynchronous actions using Redux Thunk middleware.
+
+Completed the Redux refactoring for a key part of the app.
