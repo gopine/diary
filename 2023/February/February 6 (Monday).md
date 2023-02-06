@@ -7,3 +7,5 @@ Using the useEffect hook to establish the WebSocket connection and to manage mes
 Displaying the real-time updates in a component.
 
 Facing issues with handling the connection lifecycle.
+
+Discussed team's project road map.
