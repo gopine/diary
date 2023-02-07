@@ -11,3 +11,5 @@ Facing issues with handling the connection lifecycle.
 Discussed team's project road map.
 
 Added message filtering and sorting.
+
+Debugged the WebSocket connection.
