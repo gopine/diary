@@ -7,3 +7,5 @@ Using a combination of `useEffect` and cleanup functions.
 Ensured that the connection is closed when the component unmounts.
 
 Preventing memory leaks.
+
+Investigated ways to improve the performance of the WebSocket communication.
