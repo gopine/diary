@@ -9,3 +9,5 @@ Ensured that the connection is closed when the component unmounts.
 Preventing memory leaks.
 
 Investigated ways to improve the performance of the WebSocket communication.
+
+Added retry logic to handle intermittent connection failures.
