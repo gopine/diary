@@ -7,3 +7,5 @@ Writing unit tests and integration tests.
 Aim to cover a high percentage of the codebase with tests.
 
 Refactored components.
+
+Wrote tests for core business logic.
