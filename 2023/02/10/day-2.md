@@ -1,0 +1,1 @@
+Added ARIA attributes to improve screen reader compatibility.
