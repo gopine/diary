@@ -7,3 +7,5 @@ Following the WCAG guidelines.
 Making sure that the app is usable by people with disabilities.
 
 Added ARIA attributes to improve screen reader compatibility.
+
+Tested the application with screen readers.
