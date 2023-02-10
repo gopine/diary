@@ -9,3 +9,5 @@ Using mock functions and spies to verify the behavior of components.
 Improved code coverage.
 
 Reviewed tests with teammates.
+
+Created CI/CD pipeline to run tests.
