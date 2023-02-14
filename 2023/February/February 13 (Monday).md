@@ -9,3 +9,5 @@ Storing user data in Firebase Firestore.
 Set up a Firebase project and configured the Firebase SDK.
 
 Implemented user signup and login using Firebase Authentication.
+
+Storing user data in Firestore database.
