@@ -1,0 +1,1 @@
+Optimized the layout for mobile devices.
