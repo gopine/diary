@@ -7,3 +7,5 @@ Seems like a big change to the framework that can really help with reducing clie
 Gonna test it out in a new branch.
 
 Set up new Next.js project with the `app` directory.
+
+Started writing Server Components.
