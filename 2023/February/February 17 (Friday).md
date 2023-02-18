@@ -7,3 +7,5 @@ It's neat how you can handle form submissions directly on the server without nee
 Setting up form validation to handle errors properly.
 
 Implementing form validation with Zod.
+
+Handled errors properly using React's `useFormState` hook.
