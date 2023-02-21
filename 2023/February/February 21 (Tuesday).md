@@ -7,3 +7,5 @@ It works well with database mutation, but the revalidation logic is not very int
 Have to manually clear the cache using `use server` and `revalidatePath`.
 
 Updated types.
+
+Revalidated path after DB update.
