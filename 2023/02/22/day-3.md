@@ -1,0 +1,1 @@
+Set up a demo Astro project.
