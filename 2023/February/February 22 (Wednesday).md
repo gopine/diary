@@ -7,3 +7,5 @@ Performance-wise, it does seem to have some advantages, especially with the init
 But it does add some complexity to the development process.
 
 Refactored code.
+
+Documented implementation.
