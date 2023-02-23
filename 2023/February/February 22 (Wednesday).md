@@ -9,3 +9,5 @@ But it does add some complexity to the development process.
 Refactored code.
 
 Documented implementation.
+
+Merged component.
