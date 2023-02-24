@@ -7,3 +7,5 @@ It supports various UI frameworks like React, Vue, and Svelte, but with a focus 
 This "Islands Architecture" is intriguing.
 
 Added React Component Island.
+
+Implemented React Component Island for the Astro project.
