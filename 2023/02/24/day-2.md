@@ -1,0 +1,1 @@
+It supports various UI frameworks like React, Vue, and Svelte, but with a focus on rendering as much as possible to static HTML.
