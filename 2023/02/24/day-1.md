@@ -1,0 +1,1 @@
+Exploring Astro's component model.
