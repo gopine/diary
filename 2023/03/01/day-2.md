@@ -1,0 +1,1 @@
+The type safety is great and it seems more lightweight than Prisma.
