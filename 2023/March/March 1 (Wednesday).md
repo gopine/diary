@@ -5,3 +5,5 @@ Implemented Tanstack Query and now the page loads really fast because of the que
 But now I have to think about how to invalidate cache properly whenever the data changes.
 
 Will look into `useMutation` hook from Tanstack.
+
+Added more documentation to the project.
