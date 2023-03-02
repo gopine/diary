@@ -7,3 +7,5 @@ But now I have to think about how to invalidate cache properly whenever the data
 Will look into `useMutation` hook from Tanstack.
 
 Added more documentation to the project.
+
+Added mutation to tRPC.
