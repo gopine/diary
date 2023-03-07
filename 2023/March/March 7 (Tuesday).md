@@ -7,3 +7,5 @@ Trying out different memory management techniques to minimize overhead.
 Using shared buffer array.
 
 Fixed an issue with the shared buffer array.
+
+Optimized data transfer.
