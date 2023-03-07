@@ -5,3 +5,5 @@ Experimenting with different ways to optimize the data transfer between JavaScri
 Trying out different memory management techniques to minimize overhead.
 
 Using shared buffer array.
+
+Fixed an issue with the shared buffer array.
