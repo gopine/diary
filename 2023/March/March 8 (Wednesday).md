@@ -9,3 +9,5 @@ The Wasm module significantly improves the performance of the CPU intensive oper
 This is promising so far.
 
 Compared Wasm and Javascript performance with benchmark.
+
+Updated result.
