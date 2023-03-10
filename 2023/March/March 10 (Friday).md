@@ -7,3 +7,5 @@ I am impressed with its ability to understand the context of the code and sugges
 It saves me a lot of time on boilerplate code.
 
 Pair programmed with another developer to test GitHub Copilot.
+
+Reviewed Copilot commits.
