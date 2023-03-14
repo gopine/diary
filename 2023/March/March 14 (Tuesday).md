@@ -9,3 +9,5 @@ CF worker seems really fast and performant.
 Will try to create an endpoint using CF Worker.
 
 Created a CF account.
+
+Created demo CF worker.
