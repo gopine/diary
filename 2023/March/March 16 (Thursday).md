@@ -9,3 +9,5 @@ Jotai seems more flexible and powerful.
 I'm leaning towards Zustand.
 
 Read articles about Jotai and Zustand.
+
+Decided to use Zustand.
