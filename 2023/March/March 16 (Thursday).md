@@ -11,3 +11,5 @@ I'm leaning towards Zustand.
 Read articles about Jotai and Zustand.
 
 Decided to use Zustand.
+
+Experimented with Jotai and Zustand.
