@@ -7,3 +7,5 @@ Zustand looks lightweight and easy to use.
 Jotai seems more flexible and powerful.
 
 I'm leaning towards Zustand.
+
+Read articles about Jotai and Zustand.
