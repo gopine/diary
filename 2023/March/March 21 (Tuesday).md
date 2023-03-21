@@ -7,3 +7,5 @@ It's preventing bugs, but slows down the initial development.
 Debating whether to convert the whole codebase.
 
 Managed to get a better understanding of generic types.
+
+TypeScript is definitely worth the initial time investment.
