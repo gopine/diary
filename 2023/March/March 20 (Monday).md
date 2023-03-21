@@ -9,3 +9,5 @@ Reviewed some PRs.
 Started working on the new admin dashboard features.
 
 Finally finished the basic layout of the admin dashboard.
+
+Need to add more components tomorrow.
