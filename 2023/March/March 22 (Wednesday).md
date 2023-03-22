@@ -5,3 +5,5 @@ Spent time investigating new UI libraries.
 MUI and Ant Design seem popular.
 
 Trying to decide which one fits the project's aesthetic best.
+
+Ant Design seems more suitable for the current design.
