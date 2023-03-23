@@ -5,3 +5,5 @@ Working on API integrations.
 Dealing with CORS errors as usual.
 
 Learning more about different authentication methods.
+
+Solved the CORS issue using a proxy.
