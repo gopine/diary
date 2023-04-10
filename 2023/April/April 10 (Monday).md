@@ -1,0 +1,7 @@
+# April 10, 2023
+
+Starting a new project using React and TypeScript.
+
+Setting up the development environment.
+
+It's going to be fun.
