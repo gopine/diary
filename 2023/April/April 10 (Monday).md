@@ -7,3 +7,5 @@ Setting up the development environment.
 It's going to be fun.
 
 Project setup is completed.
+
+Implementing the initial components for the new project.
