@@ -1,0 +1,1 @@
+Configuring Playwright to perform E2E tests.
