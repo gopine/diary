@@ -1,0 +1,1 @@
+The filter component supports different fields now.
