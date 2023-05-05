@@ -3,3 +3,5 @@
 Refactoring the codebase for the charts.
 
 Splitting up the chart component.
+
+Refactored the codebase.
