@@ -3,3 +3,5 @@
 Implement Notification Component.
 
 The Notification Component shows notifications.
+
+Styling the Notifications.
