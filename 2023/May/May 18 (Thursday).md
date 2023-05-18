@@ -3,3 +3,5 @@
 Sending notifications to users.
 
 Configuring websocket connection.
+
+Notifications are sending to users.
