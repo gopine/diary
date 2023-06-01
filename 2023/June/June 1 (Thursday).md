@@ -3,3 +3,5 @@
 Creating a summarization function.
 
 Sending requests to the Api for summarization.
+
+Function summarizes the content.
