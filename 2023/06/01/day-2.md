@@ -1,0 +1,1 @@
+Sending requests to the Api for summarization.
