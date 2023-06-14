@@ -3,3 +3,5 @@
 Creating more UI components with Glassmorphism.
 
 Styled components with the Glassmorphism effect.
+
+The UI looks modern now.
