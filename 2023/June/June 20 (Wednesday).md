@@ -9,3 +9,5 @@ Hoping to improve performance and maintainability significantly.
 The initial setup and configuration took longer than expected, dealing with Webpack configurations and Babel presets.
 
 Managed to get a basic component rendering.
+
+Still struggling with some of the older jQuery plugins.
