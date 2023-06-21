@@ -7,3 +7,5 @@ Implemented a basic data fetching component using `useEffect` hook and `fetch` A
 Encountered a few CORS issues, resolved by updating the server-side headers.
 
 Learning a lot about functional components and the React lifecycle.
+
+Successfully refactored the module.
