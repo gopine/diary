@@ -7,3 +7,5 @@ Turns out it was a simple typo in a prop name.
 Refactored some code to improve readability and maintainability.
 
 Thinking about implementing some unit tests using Jest and Enzyme.
+
+Added some basic unit tests.
