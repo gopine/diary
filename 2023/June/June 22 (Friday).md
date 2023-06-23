@@ -9,3 +9,5 @@ Refactored some code to improve readability and maintainability.
 Thinking about implementing some unit tests using Jest and Enzyme.
 
 Added some basic unit tests.
+
+Finished for the week.
