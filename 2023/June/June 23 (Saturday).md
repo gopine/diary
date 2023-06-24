@@ -9,3 +9,5 @@ Struggled a bit with understanding the `getServerSideProps` function.
 Definitely seeing the appeal of server-side rendering for SEO and initial load performance.
 
 Deployed a simple demo app to Vercel.
+
+Read some articles about Next.js best practices.
