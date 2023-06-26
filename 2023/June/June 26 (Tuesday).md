@@ -9,3 +9,5 @@ Experimented with Zustand in a small side project.
 The simplicity is very appealing.
 
 Created a proof of concept with Zustand.
+
+Discussed the potential benefits of Zustand with the team.
