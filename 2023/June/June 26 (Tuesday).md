@@ -7,3 +7,5 @@ Looked into Zustand and Jotai, which seem to offer a simpler API and smaller bun
 Experimented with Zustand in a small side project.
 
 The simplicity is very appealing.
+
+Created a proof of concept with Zustand.
