@@ -9,3 +9,5 @@ Faced compatibility issues with the existing UI framework, had to write some cus
 It's always a challenge integrating third-party libraries.
 
 Fixed the styling issues.
+
+Documented the integration process for the date picker.
