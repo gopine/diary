@@ -9,3 +9,5 @@ Also implemented error handling and loading indicators to improve the user exper
 Thinking about adding some integration tests.
 
 Added a loading indicator.
+
+Started working on the integration tests.
