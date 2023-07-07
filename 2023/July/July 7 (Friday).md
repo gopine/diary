@@ -3,3 +3,5 @@
 Today I have started with Typescript migration.
 
 Typescript is complicated but interesting.
+
+I learned a lot today.
