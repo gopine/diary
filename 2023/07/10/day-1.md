@@ -1,0 +1,1 @@
+I improved the performance by implementing throttling in some functions.
