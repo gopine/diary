@@ -1,0 +1,1 @@
+It's a great way to enforce consistency and reusability across the application.
