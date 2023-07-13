@@ -7,3 +7,5 @@ It's a great way to enforce consistency and reusability across the application.
 Defined basic theme variables for colors, typography, and spacing.
 
 The theming capabilities of styled-components are very powerful.
+
+Created the initial theme file.
