@@ -9,3 +9,5 @@ Defined basic theme variables for colors, typography, and spacing.
 The theming capabilities of styled-components are very powerful.
 
 Created the initial theme file.
+
+Implemented a few basic components using the theme.
