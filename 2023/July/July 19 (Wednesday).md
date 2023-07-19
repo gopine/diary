@@ -3,3 +3,5 @@
 I have improved the documentation.
 
 Documentation is essential.
+
+I love documentation.
