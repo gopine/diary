@@ -7,3 +7,5 @@ Answered questions and provided guidance.
 Identified a few areas for improvement based on their feedback.
 
 Fixed a minor bug in one of the components.
+
+Created an issue to address the identified areas for improvement.
