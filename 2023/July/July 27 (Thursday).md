@@ -7,3 +7,5 @@ Used Prisma as an ORM for interacting with the database.
 Generated the initial migrations.
 
 Created the database schema.
+
+Seeded the database with some initial data.
