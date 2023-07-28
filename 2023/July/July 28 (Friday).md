@@ -5,3 +5,5 @@ Implemented the API endpoints for creating, reading, updating, and deleting reso
 Used Node.js and Express.js.
 
 Added validation middleware to ensure data integrity.
+
+Implemented the API endpoints.
