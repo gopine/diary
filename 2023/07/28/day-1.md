@@ -1,0 +1,1 @@
+Implemented the API endpoints for creating, reading, updating, and deleting resources.
