@@ -7,3 +7,5 @@ Used Node.js and Express.js.
 Added validation middleware to ensure data integrity.
 
 Implemented the API endpoints.
+
+Tested the API endpoints with Postman.
