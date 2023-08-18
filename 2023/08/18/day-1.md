@@ -1,0 +1,1 @@
+I have started learning about different design patterns.
