@@ -3,3 +3,5 @@
 I have been learning about Clean Architecture.
 
 Clean architecture seems to be very useful.
+
+It makes the code more maintainable.
