@@ -1,0 +1,1 @@
+Documented the web worker setup.
