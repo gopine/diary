@@ -9,3 +9,5 @@ This prevents the UI from freezing during long operations.
 The initial implementation was challenging, but the performance gains are significant.
 
 Tested the web worker implementation with various inputs.
+
+Documented the web worker setup.
