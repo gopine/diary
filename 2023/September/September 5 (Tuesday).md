@@ -3,3 +3,5 @@
 Today I have been working with Nuxt.
 
 Nuxt seems complicated.
+
+It has many features.
