@@ -1,0 +1,1 @@
+Attended a webinar on the latest advancements in serverless computing.
