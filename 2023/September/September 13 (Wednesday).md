@@ -7,3 +7,5 @@ Profiling the code reveals that database queries are the culprit.
 Need to optimize the queries or introduce caching mechanisms.
 
 This issue is critical for user experience.
+
+Implemented a caching layer using Redis to improve performance.
