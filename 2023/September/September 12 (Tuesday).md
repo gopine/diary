@@ -9,3 +9,5 @@ Implementing the subscription logic on the server-side seems straightforward.
 The client-side integration with Apollo Client should be relatively easy as well.
 
 Attended a webinar on the latest advancements in serverless computing.
+
+Deployed the new feature to the staging environment for testing.
