@@ -9,3 +9,5 @@ Making sure that our applications are usable by everyone.
 This is not just a nice-to-have, but a necessity.
 
 Started auditing the website for accessibility issues.
+
+Implementing accessibility improvements based on the audit results.
