@@ -7,3 +7,5 @@ The improved performance and developer experience are promising.
 Considering migrating our existing Angular application to the latest version.
 
 This will require careful planning and execution.
+
+Experimented with the new Angular CLI features.
