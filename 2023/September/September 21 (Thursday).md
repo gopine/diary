@@ -7,3 +7,5 @@ Running high-performance code in the browser opens up new opportunities.
 Potentially using it for image processing or other computationally intensive tasks.
 
 This could significantly improve the performance of our applications.
+
+Tried compiling a C++ program to WebAssembly using Emscripten.
