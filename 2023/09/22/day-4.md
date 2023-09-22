@@ -1,0 +1,1 @@
+Increased the test coverage to 75%.
