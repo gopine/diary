@@ -9,3 +9,5 @@ Potentially using it for image processing or other computationally intensive tas
 This could significantly improve the performance of our applications.
 
 Tried compiling a C++ program to WebAssembly using Emscripten.
+
+Integrated the WebAssembly module into a simple web application.
