@@ -7,3 +7,5 @@ Updating the library to the latest version to mitigate the risk.
 Security is a top priority.
 
 Need to stay up-to-date on the latest security threats and vulnerabilities.
+
+Updated the vulnerable library to the latest version.
