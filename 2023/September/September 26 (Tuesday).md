@@ -9,3 +9,5 @@ The possibilities are endless.
 Need to learn more about the available tools and techniques.
 
 Experimented with a pre-trained machine learning model for image recognition.
+
+Read a case study about using AI to improve customer service.
