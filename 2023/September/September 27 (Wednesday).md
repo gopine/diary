@@ -7,3 +7,5 @@ Implementing lazy loading for images and videos.
 Reducing the size of the JavaScript bundles.
 
 This is critical for improving user engagement.
+
+Implemented lazy loading for images using the Intersection Observer API.
