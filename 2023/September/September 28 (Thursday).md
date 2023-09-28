@@ -9,3 +9,5 @@ Offering a native app-like experience.
 This could significantly improve user retention.
 
 Added a service worker to the website to enable offline functionality.
+
+Configured the website to be installable as a PWA.
