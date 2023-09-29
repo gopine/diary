@@ -9,3 +9,5 @@ Optimizing the UI for different screen sizes.
 This is crucial for providing a great user experience on mobile devices.
 
 Redesigned the main navigation menu for the mobile application.
+
+Conducted user testing to gather feedback on the new UI.
