@@ -7,3 +7,5 @@ Integrating with a third-party payment provider to process online payments.
 Ensuring that the payment process is secure and reliable.
 
 This is crucial for generating revenue.
+
+Configured the payment gateway API credentials.
