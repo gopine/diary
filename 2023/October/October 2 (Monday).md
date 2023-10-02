@@ -9,3 +9,5 @@ Ensuring that the payment process is secure and reliable.
 This is crucial for generating revenue.
 
 Configured the payment gateway API credentials.
+
+Implemented the payment processing logic in the application.
