@@ -9,3 +9,5 @@ Fixing the leak to prevent the application from crashing.
 This is critical for ensuring the stability of the application.
 
 Used a memory profiler to identify the source of the leak.
+
+Implemented a fix to prevent the memory leak from occurring.
