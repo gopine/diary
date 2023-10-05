@@ -9,3 +9,5 @@ Improving the performance of the application for users in different geographic l
 This is crucial for providing a great user experience globally.
 
 Researched different edge computing platforms, like Cloudflare Workers.
+
+Deployed a simple serverless function to an edge computing platform.
