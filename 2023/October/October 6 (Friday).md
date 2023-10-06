@@ -7,3 +7,5 @@ Making sure that the application is usable by people with disabilities.
 Using assistive technologies to test the accessibility of the application.
 
 This is a legal and ethical requirement.
+
+Added ARIA attributes to improve the accessibility of the forms.
