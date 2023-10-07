@@ -9,3 +9,5 @@ Improving the efficiency of the development process.
 This is crucial for building scalable and maintainable applications.
 
 Created a component library using Storybook.
+
+Documented the components in the component library.
