@@ -9,3 +9,5 @@ Improving the search relevance and performance.
 This is crucial for helping users find what they are looking for.
 
 Configured the search engine API credentials.
+
+Implemented the search functionality in the application.
