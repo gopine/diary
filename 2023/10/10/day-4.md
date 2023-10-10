@@ -1,0 +1,1 @@
+Attending a workshop on building secure web applications.
