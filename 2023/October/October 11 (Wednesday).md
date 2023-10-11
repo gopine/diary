@@ -1,0 +1,9 @@
+# October 11, 2023
+
+Attending a workshop on building secure web applications.
+
+Learning about common web vulnerabilities and how to prevent them.
+
+Implementing security best practices in the application.
+
+This is critical for protecting user data and preventing attacks.
