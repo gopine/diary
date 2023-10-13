@@ -9,3 +9,5 @@ Writing unit tests to ensure code correctness.
 This is crucial for building a robust and reliable application.
 
 Refactored a complex function to improve its readability.
+
+Wrote unit tests for the refactored function.
