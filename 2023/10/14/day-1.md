@@ -1,0 +1,1 @@
+Learning about the principles of domain-driven design (DDD).
