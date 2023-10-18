@@ -5,3 +5,5 @@ Attending a meetup on the latest advancements in cloud computing.
 Learning about new cloud services and technologies.
 
 Networking with other cloud professionals.
+
+Learned about the latest features in AWS Lambda at the meetup.
