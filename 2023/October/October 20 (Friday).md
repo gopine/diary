@@ -9,3 +9,5 @@ Protecting the API from unauthorized access.
 This is critical for protecting user data and preventing API abuse.
 
 Implemented authentication using JWT tokens.
+
+Implemented authorization rules based on user roles.
