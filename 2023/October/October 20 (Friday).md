@@ -7,3 +7,5 @@ Implementing authentication and authorization mechanisms.
 Protecting the API from unauthorized access.
 
 This is critical for protecting user data and preventing API abuse.
+
+Implemented authentication using JWT tokens.
