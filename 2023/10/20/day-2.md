@@ -1,0 +1,1 @@
+Implemented authentication using JWT tokens.
