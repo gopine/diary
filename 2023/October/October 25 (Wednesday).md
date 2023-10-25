@@ -1,0 +1,9 @@
+# October 25, 2023
+
+Exploring the latest advancements in Web3 development and blockchain technologies.
+
+The possibilities are endless with decentralized applications.
+
+Smart contracts and NFTs are starting to gain more real-world usage.
+
+Trying to understand the gas fees and scalability issues.
