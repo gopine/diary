@@ -9,3 +9,5 @@ Smart contracts and NFTs are starting to gain more real-world usage.
 Trying to understand the gas fees and scalability issues.
 
 Deployed a simple smart contract to a test network.
+
+Experimenting with using IPFS to store decentralized data.
