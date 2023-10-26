@@ -1,0 +1,1 @@
+The concept of "use client" directive is crucial for RSCs.
