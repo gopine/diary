@@ -7,3 +7,5 @@ Understanding the client-server boundary is key.
 Experimented with fetching data directly on the server.
 
 This feels like a significant shift in React development.
+
+The concept of "use client" directive is crucial for RSCs.
