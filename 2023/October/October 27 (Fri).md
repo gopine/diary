@@ -7,3 +7,5 @@ The incremental build process is noticeably faster.
 Migrated a small project to use Turbopack.
 
 This speeds up local development.
+
+Turbopack configuration is still evolving and can be a bit challenging.
