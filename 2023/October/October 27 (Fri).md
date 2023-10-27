@@ -9,3 +9,5 @@ Migrated a small project to use Turbopack.
 This speeds up local development.
 
 Turbopack configuration is still evolving and can be a bit challenging.
+
+Successfully optimized a Next.js application's build time using Turbopack.
