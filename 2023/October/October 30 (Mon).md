@@ -7,3 +7,5 @@ The ability to style components based on their container size opens up new possi
 Implemented a responsive layout using container queries.
 
 CSS is evolving.
+
+Container queries are not yet supported in all browsers, so polyfills may be necessary.
