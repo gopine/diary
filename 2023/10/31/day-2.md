@@ -1,0 +1,1 @@
+Focused on optimizing images and lazy loading assets.
