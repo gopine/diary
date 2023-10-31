@@ -1,0 +1,1 @@
+Successfully improved the page load time by 20% by optimizing images and lazy loading.
