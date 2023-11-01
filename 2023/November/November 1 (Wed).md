@@ -7,3 +7,5 @@ Ensuring web applications are accessible to users with disabilities is crucial.
 Implemented ARIA attributes and keyboard navigation in a React component.
 
 This can help.
+
+Using accessibility testing tools like Axe to identify and fix accessibility issues.
