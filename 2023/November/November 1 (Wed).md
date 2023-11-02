@@ -9,3 +9,5 @@ Implemented ARIA attributes and keyboard navigation in a React component.
 This can help.
 
 Using accessibility testing tools like Axe to identify and fix accessibility issues.
+
+Learning about the different levels of WCAG compliance (A, AA, AAA).
