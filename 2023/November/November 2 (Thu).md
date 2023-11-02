@@ -9,3 +9,5 @@ Experimented with deploying a serverless function to a CDN edge network.
 Edge computing is very interesting.
 
 Configuring CDN caching policies for serverless functions requires careful planning.
+
+Successfully deployed a serverless function to the edge and observed a significant reduction in latency.
