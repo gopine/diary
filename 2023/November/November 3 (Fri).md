@@ -7,3 +7,5 @@ The new array methods and object enhancements are quite useful.
 Used the `Array.prototype.toSpliced()` in place of splice to avoid in place changes.
 
 The syntax is much cleaner now.
+
+Exploring the new features in the Temporal API for working with dates and times.
