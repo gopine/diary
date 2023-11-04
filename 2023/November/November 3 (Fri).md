@@ -9,3 +9,5 @@ Used the `Array.prototype.toSpliced()` in place of splice to avoid in place chan
 The syntax is much cleaner now.
 
 Exploring the new features in the Temporal API for working with dates and times.
+
+Trying out the new `findLast` method in JavaScript arrays.
