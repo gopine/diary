@@ -11,3 +11,5 @@ I need to understand the security implications better.
 This could change the way we build web apps.
 
 Debugging a hydration issue with server components; tricky stuff.
+
+Found a good article on server component best practices.
