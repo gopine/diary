@@ -9,3 +9,5 @@ It feels weird to mix server and client logic, but the benefits are hard to igno
 I need to understand the security implications better.
 
 This could change the way we build web apps.
+
+Debugging a hydration issue with server components; tricky stuff.
