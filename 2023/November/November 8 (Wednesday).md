@@ -9,3 +9,5 @@ The less javascript to write the better.
 Less code means fewer bugs.
 
 Started mapping out the HTMX rewrite.
+
+The intial HTMX implementation is promising.
