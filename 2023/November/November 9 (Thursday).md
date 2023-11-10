@@ -9,3 +9,5 @@ Considering using Rust to compile to WASM.
 It would be interesting to see the result and the performance gain.
 
 Found a good Rust WASM tutorial.
+
+Initial WASM proof-of-concept is working.
