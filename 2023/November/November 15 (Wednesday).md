@@ -9,3 +9,5 @@ I am a little worried about the security and intellectual property implications.
 It seems scary but useful.
 
 Copilot is surprisingly good at generating test cases.
+
+Configured Copilot with my editor.
