@@ -1,0 +1,1 @@
+It's a full-stack framework with a focus on web standards.
