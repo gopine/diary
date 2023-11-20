@@ -9,3 +9,5 @@ Re-rendered components are becoming a bottleneck.
 Investigating code splitting strategies to reduce initial load time.
 
 Successfully implemented lazy loading for images.
+
+Spent time debugging a tricky CSS issue in Firefox.
