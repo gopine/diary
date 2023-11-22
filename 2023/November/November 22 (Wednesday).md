@@ -1,0 +1,9 @@
+# November 22, 2023
+
+Attended a virtual conference on the latest advancements in GraphQL.
+
+Learned about federation and schema stitching for managing multiple GraphQL APIs.
+
+Thinking about how to apply these concepts to our existing architecture.
+
+Considering the learning curve for the team.
