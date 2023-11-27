@@ -1,0 +1,1 @@
+Successfully compiled a simple C++ function to WebAssembly.
