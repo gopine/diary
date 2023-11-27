@@ -7,3 +7,5 @@ Exploring integration possibilities with existing JavaScript codebase.
 Investigating use cases such as image processing and data compression.
 
 Initial tests show promising results.
+
+Successfully compiled a simple C++ function to WebAssembly.
