@@ -9,3 +9,5 @@ Investigating use cases such as image processing and data compression.
 Initial tests show promising results.
 
 Successfully compiled a simple C++ function to WebAssembly.
+
+Integrated the Wasm module into the React front-end.
