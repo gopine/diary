@@ -1,0 +1,1 @@
+Started refactoring code to utilize new TypeScript features.
