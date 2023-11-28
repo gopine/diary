@@ -1,0 +1,1 @@
+Upgraded TypeScript version in the project.
