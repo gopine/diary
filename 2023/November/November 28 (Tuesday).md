@@ -9,3 +9,5 @@ Exploring advanced type inference and conditional types.
 Planning to gradually migrate codebase to leverage these features.
 
 Upgraded TypeScript version in the project.
+
+Started refactoring code to utilize new TypeScript features.
