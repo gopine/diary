@@ -7,3 +7,5 @@ Exploring options like Zustand and Jotai for simpler and more lightweight state 
 Comparing their performance characteristics and ease of use.
 
 Considering adopting one for a new feature.
+
+Experimenting with Zustand for state management.
