@@ -9,3 +9,5 @@ Comparing their performance characteristics and ease of use.
 Considering adopting one for a new feature.
 
 Experimenting with Zustand for state management.
+
+Integrated Zustand into a small component.
