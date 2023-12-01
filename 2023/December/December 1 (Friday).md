@@ -9,3 +9,5 @@ Monitoring cache hit rates and optimizing cache invalidation.
 Prioritizing endpoints with high traffic.
 
 Setup Redis server for caching.
+
+Implemented server-side caching for a specific API endpoint.
