@@ -7,3 +7,5 @@ Exploring different caching layers, including server-side caching with Redis and
 Monitoring cache hit rates and optimizing cache invalidation.
 
 Prioritizing endpoints with high traffic.
+
+Setup Redis server for caching.
