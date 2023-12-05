@@ -7,3 +7,5 @@ Deploying specific API routes to the edge for faster response times.
 Considering the trade-offs between cost and performance.
 
 Implementing A/B testing with edge functions.
+
+Deployed a simple function to Cloudflare Workers.
