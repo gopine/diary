@@ -9,3 +9,5 @@ Sharing the Storybook with designers and other developers for feedback.
 Improving component reusability and consistency.
 
 Setup Storybook in the project.
+
+Created stories for several core components.
