@@ -7,3 +7,5 @@ Implementing ARIA attributes and semantic HTML to improve the user experience fo
 Conducting accessibility audits and fixing any issues found.
 
 Focusing on WCAG compliance.
+
+Performed an accessibility audit of the website.
