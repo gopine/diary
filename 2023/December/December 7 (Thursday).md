@@ -7,3 +7,5 @@ Experimenting with tools like TensorFlow.js and OpenAI's API.
 Building a simple chatbot using a pre-trained language model.
 
 Considering the ethical implications of using AI.
+
+Setup TensorFlow.js in a project.
