@@ -9,3 +9,5 @@ Building a simple chatbot using a pre-trained language model.
 Considering the ethical implications of using AI.
 
 Setup TensorFlow.js in a project.
+
+Built a basic chatbot using OpenAI's API.
