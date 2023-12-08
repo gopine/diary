@@ -7,3 +7,5 @@ Improving code organization and maintainability.
 Implementing a design system with reusable components.
 
 Considering the performance implications of CSS-in-JS.
+
+Installed Styled Components in the project.
