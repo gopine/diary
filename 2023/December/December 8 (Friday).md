@@ -9,3 +9,5 @@ Implementing a design system with reusable components.
 Considering the performance implications of CSS-in-JS.
 
 Installed Styled Components in the project.
+
+Migrated a component to use Styled Components.
