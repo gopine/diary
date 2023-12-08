@@ -1,0 +1,1 @@
+Migrated a component to use Styled Components.
