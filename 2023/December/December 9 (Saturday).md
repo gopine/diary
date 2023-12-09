@@ -9,3 +9,5 @@ Building a simple CRUD application using a serverless database.
 Considering the pricing models of different serverless databases.
 
 Setup FaunaDB account.
+
+Created a CRUD application using FaunaDB.
