@@ -9,3 +9,5 @@ Setting up alerts for critical errors.
 Improving the observability of the system.
 
 Integrated Sentry into the application.
+
+Setup alerts for critical errors in Sentry.
