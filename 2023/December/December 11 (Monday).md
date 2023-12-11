@@ -7,3 +7,5 @@ Using tools like Sentry or Rollbar to track errors and performance issues.
 Setting up alerts for critical errors.
 
 Improving the observability of the system.
+
+Integrated Sentry into the application.
