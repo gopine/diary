@@ -1,0 +1,1 @@
+Finally got Tailwind working with Astro.
