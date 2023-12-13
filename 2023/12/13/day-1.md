@@ -1,0 +1,1 @@
+Spent time diving into React Server Components (RSC).
