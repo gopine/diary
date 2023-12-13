@@ -9,3 +9,5 @@ The component islands architecture is intriguing.
 Hope it can improve the page speed.
 
 Struggling with configuring Tailwind CSS in Astro.
+
+Finally got Tailwind working with Astro.
