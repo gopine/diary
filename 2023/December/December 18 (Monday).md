@@ -9,3 +9,5 @@ Trying different techniques to enhance web performance.
 It's a constant battle.
 
 Image optimization can be a real time sink.
+
+Lighthouse scores are slightly better.
