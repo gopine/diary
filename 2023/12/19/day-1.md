@@ -1,0 +1,1 @@
+Spent the morning working on improving Lighthouse scores.
