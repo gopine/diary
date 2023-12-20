@@ -9,3 +9,5 @@ Excited about the possibilities they offer.
 Starting to integrate them into existing projects.
 
 Container queries are making responsive design easier.
+
+Successfully implemented some container queries.
