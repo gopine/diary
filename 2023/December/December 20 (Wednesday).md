@@ -9,3 +9,5 @@ The suggestions are surprisingly helpful.
 Exploring its potential to improve developer productivity.
 
 Copilot is pretty useful.
+
+AI is changing how we code.
