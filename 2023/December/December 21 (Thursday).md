@@ -9,3 +9,5 @@ Planning to experiment with it on a small project.
 Hoping to see significant performance improvements.
 
 Bun seems very fast.
+
+Trying to migrate a small app to Bun.
