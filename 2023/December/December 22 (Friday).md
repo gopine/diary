@@ -7,3 +7,5 @@ Conducting accessibility audits and fixing identified issues.
 Ensuring that our websites are usable by everyone.
 
 Accessibility is a fundamental requirement.
+
+Accessibility is more important than ever.
