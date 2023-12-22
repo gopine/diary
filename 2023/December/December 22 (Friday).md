@@ -9,3 +9,5 @@ Ensuring that our websites are usable by everyone.
 Accessibility is a fundamental requirement.
 
 Accessibility is more important than ever.
+
+Fixed some accessibility issues today.
