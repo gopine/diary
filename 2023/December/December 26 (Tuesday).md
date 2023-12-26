@@ -7,3 +7,5 @@ Setting up automated tests to verify application functionality.
 Improving the overall quality and reliability of our software.
 
 Testing is essential.
+
+Playwright is great for testing.
