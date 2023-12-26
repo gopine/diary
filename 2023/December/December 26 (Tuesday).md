@@ -9,3 +9,5 @@ Improving the overall quality and reliability of our software.
 Testing is essential.
 
 Playwright is great for testing.
+
+Writing more end-to-end tests.
