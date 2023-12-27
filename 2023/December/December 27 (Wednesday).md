@@ -7,3 +7,5 @@ Investigating Cloudflare Workers for deploying serverless functions closer to us
 Aiming to reduce latency and improve response times.
 
 Edge computing is the future.
+
+Edge computing is fascinating.
