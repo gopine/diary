@@ -9,3 +9,5 @@ I'm excited to see what we can do with it.
 It can potentially improve our app performance a lot.
 
 WebGPU is the future of web graphics.
+
+Learned about the different shading languages in WebGPU.
