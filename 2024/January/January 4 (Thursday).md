@@ -7,3 +7,5 @@ I've been learning about different types of web vulnerabilities.
 We need to protect our users from attacks.
 
 Security is an ongoing process.
+
+Tested the security of our application using different tools.
