@@ -1,0 +1,7 @@
+# January 10, 2024
+
+I explored more about Tailwind CSS.
+
+I really like how customizable it is.
+
+It might be a good option for rapid prototyping.
