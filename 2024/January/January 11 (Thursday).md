@@ -11,3 +11,5 @@ Lots to learn about Shadow DOM and custom elements.
 Hoping this will streamline future front-end projects."
 
 "Need to investigate the interoperability of Web Components with existing frameworks."
+
+"Struggling a bit with passing data to Web Components."
