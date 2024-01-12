@@ -11,3 +11,7 @@ Thinking about how to integrate it with my current web app.
 Might be good for handling image processing."
 
 "Learned about API Gateway for managing Lambda function endpoints."
+
+"Debugging CORS issues...
+
+the eternal struggle."
