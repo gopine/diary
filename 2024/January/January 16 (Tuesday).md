@@ -1,0 +1,11 @@
+# January 16, 2024
+
+"Exploring the JAMstack architecture.
+
+Pre-rendering websites for improved performance.
+
+Static site generators like Next.js and Gatsby are popular.
+
+Seems like a good fit for content-heavy websites.
+
+Considering migrating my personal website."
