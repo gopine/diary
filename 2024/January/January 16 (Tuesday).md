@@ -9,3 +9,5 @@ Static site generators like Next.js and Gatsby are popular.
 Seems like a good fit for content-heavy websites.
 
 Considering migrating my personal website."
+
+"Netlify looks like a great platform for hosting JAMstack sites."
