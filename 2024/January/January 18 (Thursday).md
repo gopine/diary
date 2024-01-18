@@ -9,3 +9,5 @@ Each has its own pros and cons.
 Thinking about using Zustand for a small project.
 
 Need to understand how to handle asynchronous actions."
+
+"Read about the Context API as a simpler alternative for smaller applications."
