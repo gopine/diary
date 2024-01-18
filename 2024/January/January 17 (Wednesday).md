@@ -13,3 +13,5 @@ Need to get used to the type system."
 "Dealing with TypeScript compiler errors...
 
 a learning experience."
+
+"Found a helpful VS Code extension for TypeScript."
