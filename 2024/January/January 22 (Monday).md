@@ -9,3 +9,5 @@ Each team can work on a separate frontend.
 Need to research different micro frontend architectures.
 
 Trying to understand the communication between micro frontends."
+
+"Read about using Web Components for micro frontend communication."
