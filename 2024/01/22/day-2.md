@@ -1,0 +1,1 @@
+Each team can work on a separate frontend.
