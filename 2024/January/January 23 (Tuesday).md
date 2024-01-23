@@ -7,3 +7,5 @@ Built-in TypeScript support and security features are appealing.
 No more `node_modules`! Experimenting with Deno's standard library.
 
 Need to understand the module import system."
+
+"Trying to migrate a simple Node.js script to Deno."
