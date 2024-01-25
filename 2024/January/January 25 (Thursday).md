@@ -9,3 +9,5 @@ Using languages like Rust or C++ to compile to Wasm.
 Integrating Wasm modules into JavaScript applications.
 
 Need to understand the Wasm memory model."
+
+"Setting up a basic Rust environment for compiling to Wasm."
