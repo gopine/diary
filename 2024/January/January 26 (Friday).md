@@ -11,3 +11,5 @@ Creating more intuitive and engaging user interfaces.
 Need to stay up-to-date with the evolving design landscape."
 
 "Experimenting with creating a dark mode theme for my website."
+
+"Using Figma to create UI mockups."
