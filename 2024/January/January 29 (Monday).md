@@ -9,3 +9,5 @@ Using Jest and Cypress for testing.
 Writing more robust and reliable code.
 
 Need to improve my testing skills."
+
+"Setting up a Jest environment for a React project."
