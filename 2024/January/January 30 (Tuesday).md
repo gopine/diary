@@ -11,3 +11,5 @@ Easier scalability and management.
 Considering using a serverless database for my next project.
 
 Need to understand the limitations compared to traditional databases."
+
+"Creating a simple database schema in FaunaDB."
