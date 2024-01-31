@@ -1,0 +1,11 @@
+# January 31, 2024
+
+"Exploring the world of WebXR.
+
+Creating immersive web experiences with Virtual Reality (VR) and Augmented Reality (AR).
+
+Using frameworks like Three.js and Babylon.js.
+
+Thinking about the potential applications of WebXR.
+
+Need to learn more about 3D graphics and spatial computing."
