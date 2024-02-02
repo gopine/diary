@@ -7,3 +7,5 @@ It's a lifesaver for catching errors early on.
 Especially helpful with complex component structures.
 
 Still learning advanced type definitions.
+
+Configured ESLint and Prettier for consistent code style in the project.
