@@ -7,3 +7,5 @@ It sounds like an efficient way to retrieve only the necessary data.
 Apollo Client seems to be the most popular client library.
 
 I should try setting up a basic query.
+
+Set up a basic GraphQL query using Apollo Client.
