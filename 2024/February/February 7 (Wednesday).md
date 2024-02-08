@@ -7,3 +7,5 @@ Writing tests seems crucial for ensuring code quality.
 Need to practice writing different types of tests.
 
 Wrote a unit test for a simple React component using Jest.
+
+Learned about mocking dependencies in tests.
