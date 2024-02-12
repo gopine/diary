@@ -7,3 +7,5 @@ Understanding the potential of running compiled code in the browser.
 It might be useful for performance-critical tasks.
 
 Need to explore different use cases.
+
+Read about converting C++ code to WebAssembly.
