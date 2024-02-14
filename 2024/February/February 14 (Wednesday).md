@@ -9,3 +9,5 @@ Need to practice using them effectively.
 Avoiding unnecessary re-renders is crucial.
 
 Refactored a component to use useMemo for memoizing expensive calculations.
+
+Used useCallback to prevent unnecessary re-renders of child components.
