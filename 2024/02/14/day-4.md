@@ -1,0 +1,1 @@
+Avoiding unnecessary re-renders is crucial.
