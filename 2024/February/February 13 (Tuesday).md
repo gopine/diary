@@ -9,3 +9,5 @@ Exploring the benefits of serverless functions.
 It could simplify backend development.
 
 Deployed a sample application to Vercel.
+
+Experimented with serverless functions on Vercel.
