@@ -1,0 +1,1 @@
+Set up a simple micro frontend architecture using Webpack Module Federation.
