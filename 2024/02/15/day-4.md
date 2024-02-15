@@ -1,0 +1,1 @@
+Successfully shared components between different micro frontends.
