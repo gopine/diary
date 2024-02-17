@@ -9,3 +9,5 @@ Exploring the use of dependency injection for managing dependencies.
 Applying these patterns could improve maintainability.
 
 Implemented the Repository pattern for data access in a project.
+
+Incorporated dependency injection into a component using a container.
