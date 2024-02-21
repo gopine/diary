@@ -7,3 +7,5 @@ It seems a lot faster than the other linters.
 Need to switch all the configuration over.
 
 It also supports Typescript.
+
+Replaced the current linter with biome and converted the configurations.
