@@ -9,3 +9,5 @@ Not sure about the direction the framework is taking.
 The learning curve seems pretty steep.
 
 Did a code review on the latest pull request.
+
+Read the new Angular documentation.
