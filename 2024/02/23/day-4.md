@@ -1,0 +1,1 @@
+Did some benchmarks on the endpoint with Bun and NodeJS.
