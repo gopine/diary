@@ -7,3 +7,5 @@ The deadline is coming soon so I need to work hard.
 Need to coordinate with the designer.
 
 The design keeps changing.
+
+Finished the initial version of the landing page.
