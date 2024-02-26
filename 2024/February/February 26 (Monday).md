@@ -9,3 +9,5 @@ Need to coordinate with the designer.
 The design keeps changing.
 
 Finished the initial version of the landing page.
+
+Received feedback from the designer and made the requested changes.
