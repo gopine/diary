@@ -7,3 +7,5 @@ This should make it easier to manage multiple packages.
 Hopefully it will improve the development process.
 
 Not sure if it is worth the effort.
+
+Configured the basic monorepo structure.
