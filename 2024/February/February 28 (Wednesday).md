@@ -9,3 +9,5 @@ Hopefully it will improve the development process.
 Not sure if it is worth the effort.
 
 Configured the basic monorepo structure.
+
+Created a shared component library in the monorepo.
