@@ -9,3 +9,5 @@ Need to decide between scaling vertically or horizontally.
 Also considering migration to a completely different database.
 
 Ran database performance test.
+
+Researched different NoSQL databases.
