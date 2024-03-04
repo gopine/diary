@@ -7,3 +7,5 @@ It is hard to understand.
 Some parts don't even have comments.
 
 Need to add comments and clean up the code.
+
+Refactored a few classes in the codebase.
