@@ -9,3 +9,5 @@ The cost savings could be significant for some of our projects.
 Need to investigate the cold start problem further.
 
 Also looking into the integration with API Gateway."
+
+"Debugging CORS issues with the new API endpoint."
