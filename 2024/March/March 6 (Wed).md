@@ -9,3 +9,5 @@ Tried implementing a custom hook for managing API requests.
 Thinking about refactoring some class components to functional components with hooks.
 
 This should improve code readability."
+
+"Read an article about advanced React patterns."
