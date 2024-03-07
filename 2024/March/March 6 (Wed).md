@@ -11,3 +11,5 @@ Thinking about refactoring some class components to functional components with h
 This should improve code readability."
 
 "Read an article about advanced React patterns."
+
+"Spent time learning about different state management libraries."
