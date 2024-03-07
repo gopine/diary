@@ -1,0 +1,1 @@
+Also, dynamic styling based on props is a major advantage."
