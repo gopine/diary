@@ -1,0 +1,1 @@
+It simplifies styling and improves component encapsulation.
