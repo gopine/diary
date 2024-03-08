@@ -1,0 +1,1 @@
+"Focused on optimizing website performance using Lighthouse.
