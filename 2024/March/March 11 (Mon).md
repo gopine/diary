@@ -9,3 +9,5 @@ Using Postman to test the API endpoints and troubleshoot issues.
 Documenting the integration process for future reference."
 
 "Investigated alternatives for our current CI/CD pipeline."
+
+"Updated project dependencies and resolved compatibility issues."
