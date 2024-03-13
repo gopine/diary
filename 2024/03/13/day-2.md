@@ -1,0 +1,1 @@
+The ability to fetch only the required data seems very efficient.
