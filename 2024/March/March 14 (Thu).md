@@ -7,3 +7,5 @@ Implementing input validation and output encoding to mitigate vulnerabilities.
 Using security headers to enhance website security.
 
 Need to schedule a security audit soon."
+
+"Configured monitoring and alerting for the production environment."
