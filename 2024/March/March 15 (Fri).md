@@ -9,3 +9,5 @@ Looking into using WebAssembly modules in JavaScript.
 The initial results are quite promising."
 
 "Completed documentation for the new feature."
+
+"Started planning the next sprint."
