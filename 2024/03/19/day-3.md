@@ -1,0 +1,1 @@
+Thinking about upgrading the Angular version of our legacy application.
