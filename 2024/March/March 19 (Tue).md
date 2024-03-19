@@ -7,3 +7,5 @@ Exploring the improvements in performance and developer experience.
 Thinking about upgrading the Angular version of our legacy application.
 
 Need to assess the migration effort and potential risks."
+
+"Refactored the database schema for better performance."
