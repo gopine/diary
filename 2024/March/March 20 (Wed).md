@@ -7,3 +7,5 @@ Writing end-to-end tests to ensure the application works correctly from the user
 Cypress provides a great developer experience and powerful debugging tools.
 
 Aiming for good coverage of critical user flows."
+
+"Investigated memory leaks in production environment."
