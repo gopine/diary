@@ -7,3 +7,5 @@ Deploying applications to a Kubernetes cluster.
 Understanding pods, deployments, and services.
 
 Kubernetes can simplify the management of complex applications."
+
+"Discussed strategies for improving team collaboration."
