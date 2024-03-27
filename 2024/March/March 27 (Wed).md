@@ -9,3 +9,5 @@ Using module federation or web components.
 Micro frontends can improve scalability and team autonomy."
 
 "Worked on setting up monitoring system."
+
+"Updated the error reporting system."
