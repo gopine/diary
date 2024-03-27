@@ -1,0 +1,1 @@
+Breaking down the application into smaller, independent modules.
