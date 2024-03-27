@@ -7,3 +7,5 @@ Breaking down the application into smaller, independent modules.
 Using module federation or web components.
 
 Micro frontends can improve scalability and team autonomy."
+
+"Worked on setting up monitoring system."
