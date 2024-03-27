@@ -1,0 +1,1 @@
+"Explored different approaches to micro frontend architecture.
