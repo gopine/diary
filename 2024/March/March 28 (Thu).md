@@ -7,3 +7,5 @@ Optimizing Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulati
 Using tools like Lighthouse and Chrome DevTools.
 
 Good core web vitals are essential for a positive user experience and SEO."
+
+"Investigated database performance bottleneck."
