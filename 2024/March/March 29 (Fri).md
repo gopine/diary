@@ -9,3 +9,5 @@ Exploring the differences between Deno and Node.js.
 Deno could be a viable alternative for some projects."
 
 "Started on new feature implementation."
+
+"Finished the documentation for the new changes."
