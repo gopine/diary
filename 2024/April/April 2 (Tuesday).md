@@ -11,3 +11,5 @@ The initial setup was surprisingly straightforward.
 Trying to understand the intricacies of edge functions.
 
 Deployed a small test function to Vercel's edge network.
+
+It works!
