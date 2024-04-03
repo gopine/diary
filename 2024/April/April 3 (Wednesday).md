@@ -9,3 +9,5 @@ I am planning to integrate it with the existing Javascript codebase.
 The tooling seems pretty robust too.
 
 Managed to compile a simple Rust function to WASM and use it in Javascript.
+
+Now the real work begins, optimizing the Rust code.
