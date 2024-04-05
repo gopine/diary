@@ -9,3 +9,5 @@ I'm refactoring a few components to utilize them.
 Finally, responsive design that doesn't depend on screen size!
 
 Successfully implemented container queries in the navigation bar.
+
+The code looks much cleaner and more maintainable.
