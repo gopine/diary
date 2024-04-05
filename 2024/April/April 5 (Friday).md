@@ -7,3 +7,5 @@ It feels like a real game changer for responsive design.
 I'm refactoring a few components to utilize them.
 
 Finally, responsive design that doesn't depend on screen size!
+
+Successfully implemented container queries in the navigation bar.
