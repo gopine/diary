@@ -1,0 +1,1 @@
+Successfully used the component in a React application.
