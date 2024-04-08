@@ -9,3 +9,5 @@ The Shadow DOM is proving to be quite powerful.
 Created a simple button Web Component.
 
 Successfully used the component in a React application.
+
+Next step: add some properties and attributes.
