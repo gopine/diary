@@ -1,0 +1,1 @@
+Created a simple button Web Component.
