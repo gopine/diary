@@ -7,3 +7,5 @@ Trying to create reusable components that can be used across different framework
 The Shadow DOM is proving to be quite powerful.
 
 Created a simple button Web Component.
+
+Successfully used the component in a React application.
