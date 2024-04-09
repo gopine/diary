@@ -1,0 +1,1 @@
+Setting up the Apollo Client and Server.
