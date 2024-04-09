@@ -1,0 +1,1 @@
+Working with GraphQL subscriptions and websockets to build a real-time chat application.
