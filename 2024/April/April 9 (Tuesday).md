@@ -5,3 +5,5 @@ Working with GraphQL subscriptions and websockets to build a real-time chat appl
 Setting up the Apollo Client and Server.
 
 This is more complicated than REST APIs.
+
+Got the basic subscription working.
