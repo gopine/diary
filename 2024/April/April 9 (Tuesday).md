@@ -7,3 +7,5 @@ Setting up the Apollo Client and Server.
 This is more complicated than REST APIs.
 
 Got the basic subscription working.
+
+Now to implement authentication and authorization.
