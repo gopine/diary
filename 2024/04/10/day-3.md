@@ -1,0 +1,1 @@
+Built a simple blog with Astro.
