@@ -7,3 +7,5 @@ Installation was simple.
 Initial tests show slightly faster performance.
 
 Migrated a small Express.js API to Bun.
+
+The migration process was relatively painless.
