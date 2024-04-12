@@ -7,3 +7,5 @@ The data loading patterns are quite interesting.
 I am planning on migrating an old project to Remix to see how well it works.
 
 It is more complex than I expected.
+
+Started migrating an old React project to Remix.
