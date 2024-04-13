@@ -7,3 +7,5 @@ The possibilities for advanced graphics and computation in the browser are excit
 Trying to understand the basics of the API.
 
 Managed to render a simple triangle with WebGPU.
+
+The API is quite verbose.
