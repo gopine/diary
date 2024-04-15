@@ -1,0 +1,1 @@
+The improvements to type inference are quite welcome.
