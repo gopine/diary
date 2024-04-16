@@ -7,3 +7,5 @@ Adding ARIA attributes and improving keyboard navigation.
 Testing with a screen reader.
 
 Fixed several accessibility issues.
+
+Accessibility is a continuous process.
