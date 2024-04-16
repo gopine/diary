@@ -1,0 +1,1 @@
+Read a blog post about the latest updates to Vite.
