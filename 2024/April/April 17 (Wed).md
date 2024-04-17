@@ -11,3 +11,5 @@ The initial results are promising, leading to cleaner and more maintainable code
 I hope these become more widely adopted soon.
 
 Read a blog post about the latest updates to Vite.
+
+Experimented with a new VS Code extension for improved TypeScript debugging.
