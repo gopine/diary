@@ -1,0 +1,1 @@
+Dived deeper into Server Components in Next.js.
