@@ -11,3 +11,5 @@ It seems crucial for optimizing performance.
 This could significantly impact future projects.
 
 Investigated the benefits of using Turbopack for faster builds.
+
+Attended a virtual meetup on accessibility best practices.
