@@ -1,0 +1,1 @@
+They each seem to be ideal for different circumstances.
