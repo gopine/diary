@@ -1,0 +1,1 @@
+Researched different state management solutions for React applications, comparing Redux, Zustand, and Recoil.
