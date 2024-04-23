@@ -11,3 +11,5 @@ It could enhance the overall user experience.
 This could allow more dynamic user interaction.
 
 Reviewed some best practices for writing clean and maintainable CSS.
+
+Experimented with different animation libraries for creating engaging user interfaces.
