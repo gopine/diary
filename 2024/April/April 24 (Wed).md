@@ -9,3 +9,5 @@ The principles should be integrated into the development process.
 I need to apply them consistently in my projects.
 
 It requires dedicated planning and review.
+
+Learned more about CI/CD pipelines and automating deployment processes.
