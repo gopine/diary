@@ -11,3 +11,5 @@ It should enhance collaboration among team members.
 The benefits should be weighed against the initial setup effort.
 
 Explored the use of Storybook for developing and showcasing UI components.
+
+Practiced different debugging techniques for JavaScript code in Chrome DevTools.
