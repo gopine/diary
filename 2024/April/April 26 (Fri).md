@@ -11,3 +11,5 @@ There are also new techniques like partial hydration.
 These considerations may impact future project choices.
 
 Fixed a bug related to form validation in a web application.
+
+Read an article on the benefits of using code linters and formatters.
