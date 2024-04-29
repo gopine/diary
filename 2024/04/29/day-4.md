@@ -1,0 +1,1 @@
+Read an article on clean code principles.
