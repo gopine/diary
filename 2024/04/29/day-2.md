@@ -1,0 +1,1 @@
+Enforcing type safety from the start is crucial.
