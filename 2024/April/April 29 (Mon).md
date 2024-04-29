@@ -9,3 +9,5 @@ Server-sent events are another common alternative.
 This is a practical solution for many scenarios.
 
 These systems require solid architectural implementation.
+
+Created a simple REST API using Node.js and Express.js.
