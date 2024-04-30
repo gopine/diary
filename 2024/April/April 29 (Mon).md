@@ -11,3 +11,5 @@ This is a practical solution for many scenarios.
 These systems require solid architectural implementation.
 
 Created a simple REST API using Node.js and Express.js.
+
+Debugged an issue related to JavaScript event handling in a web page.
