@@ -7,3 +7,5 @@ This could really speed up the migration.
 Spent a lot of time writing unit test for the new React component.
 
 Refactored some of the old Javascript to work well with React.
+
+Meeting with the team to discuss the migration strategy.
