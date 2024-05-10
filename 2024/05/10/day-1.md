@@ -1,0 +1,1 @@
+Exploring different state management solutions for React, such as Zustand.
