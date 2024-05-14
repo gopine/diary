@@ -3,3 +3,5 @@
 Deep dive on the new features of Next.js 14.
 
 Implementing image optimization with Next.js.
+
+Debugging a deployment issue with Vercel.
