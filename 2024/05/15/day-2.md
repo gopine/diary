@@ -1,0 +1,1 @@
+Securing the API endpoints with JWT tokens.
