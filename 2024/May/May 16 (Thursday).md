@@ -9,3 +9,5 @@ Thinking about how this could improve our current project's maintainability.
 Initial impressions are positive, but need to delve deeper.
 
 Managed to get a simple Web Component working, the learning curve isn't too steep so far.
+
+Considering using LitElement as a library to ease Web Component creation.
