@@ -7,3 +7,5 @@ It looks simpler than Selenium.
 Trying to write some tests.
 
 Successfully wrote a test with Playwright.
+
+Playwright seems easier to set up compared to Cypress.
