@@ -1,0 +1,1 @@
+Lazy loading images is very effective in improving the user experience.
