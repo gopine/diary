@@ -5,3 +5,5 @@ Starting to investigate the new CSS features.
 Container queries is interesting.
 
 I want to try implementing this in our current project.
+
+Container queries seem very useful.
