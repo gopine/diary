@@ -7,3 +7,5 @@ Focusing on optimizing image loading and code splitting.
 Trying to reduce the initial load time as much as possible.
 
 Image optimization made a small impact.
+
+Lazy loading images is very effective in improving the user experience.
