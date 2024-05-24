@@ -7,3 +7,5 @@ The idea of creating installable web applications with offline capabilities is e
 Need to explore service workers and the manifest file.
 
 Successfully created a basic service worker.
+
+Caching static assets improved loading speed.
