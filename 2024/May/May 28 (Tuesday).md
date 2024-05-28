@@ -9,3 +9,5 @@ I built a small custom element with its own shadow DOM.
 It really helps organize complex UI elements.
 
 Debugging a peculiar issue with event propagation within the shadow DOM.
+
+Planning my strategy for transitioning our old JavaScript codebase to TypeScript.
