@@ -9,3 +9,5 @@ Trying to integrate it with class based component and how it can improve the com
 It could really simplify some of our more complex component logic.
 
 Working on testing for the application and its new features.
+
+Reviewed a colleague's pull request focusing on accessibility improvements.
