@@ -1,0 +1,1 @@
+Explored how they differ from WebSockets.
