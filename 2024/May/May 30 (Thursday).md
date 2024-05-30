@@ -9,3 +9,5 @@ The combination of static site generators and CDNs is very appealing.
 It makes performance optimization much easier.
 
 Experimented with building a small site using Next.js and deploying it to Vercel.
+
+Discussed serverless functions and how they could be used to handle form submissions.
