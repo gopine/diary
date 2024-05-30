@@ -11,3 +11,5 @@ It could really simplify some of our more complex component logic.
 Working on testing for the application and its new features.
 
 Reviewed a colleague's pull request focusing on accessibility improvements.
+
+Researched different logging tools.
