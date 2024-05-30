@@ -1,0 +1,1 @@
+Spent time learning more about the Jamstack architecture.
