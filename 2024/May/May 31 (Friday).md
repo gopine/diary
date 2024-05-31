@@ -9,3 +9,5 @@ Implementing the SSE into the data transfer, which is much simpler than WebSocke
 It seems like a good solution for simple use cases.
 
 Troubleshooting a memory leak in one of our older React components.
+
+Started planning for next week's sprint and assigning tasks.
