@@ -7,3 +7,5 @@ Need to find a solution.
 The performance improvements are noticeable, especially with initial load times.
 
 Debugging build issues with the new version of Node.js.
+
+Investigated new features in the latest version of Vue.js.
