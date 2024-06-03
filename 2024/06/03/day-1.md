@@ -1,0 +1,1 @@
+Began migrating some components to React Server Components and discovered issues with client side hooks.
