@@ -1,0 +1,1 @@
+The performance improvements are noticeable, especially with initial load times.
