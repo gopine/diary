@@ -9,3 +9,5 @@ Ensuring automatic testing with new changes.
 It's important to implement robust CI/CD pipelines.
 
 Reviewed the code of my collegue for an unrelated task.
+
+Explored different options for deploying containerized applications.
