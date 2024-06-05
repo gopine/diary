@@ -9,3 +9,5 @@ I think it could simplify some of my media query logic.
 Need to try it out on a real project.
 
 This would be a really good implementation.
+
+Reading up on accessibility best practices for web forms.
