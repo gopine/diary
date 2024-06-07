@@ -9,3 +9,5 @@ Also researching different CDN solutions.
 This is important for the core web vitals.
 
 Experimenting with different image compression algorithms.
+
+Finally got the lazy loading working correctly.
