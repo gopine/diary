@@ -9,3 +9,5 @@ Profiling tools were really helpful to locate the issue.
 Monitoring it in the production would be required.
 
 Learned about different debugging techniques for memory leaks.
+
+Applied the fix for the memory leak and deployed the update.
