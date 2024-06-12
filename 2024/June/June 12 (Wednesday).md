@@ -9,3 +9,5 @@ I think I would improve the performance by reducing over-fetching.
 Need to explore it further.
 
 Trying out different GraphQL clients for React.
+
+Reading more about GraphQL schema design best practices.
