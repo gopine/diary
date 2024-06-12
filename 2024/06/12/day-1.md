@@ -1,0 +1,1 @@
+Started exploring the possibility of using GraphQL instead of REST APIs.
