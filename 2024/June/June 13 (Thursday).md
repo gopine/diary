@@ -9,3 +9,5 @@ Staying informed is very important to keep the websites secure.
 Always be up-to-date to avoid vulnerabilities.
 
 Good to know that this is something critical to think about.
+
+Learning about Content Security Policy (CSP) to protect the web app.
