@@ -1,0 +1,1 @@
+Learning about Content Security Policy (CSP) to protect the web app.
