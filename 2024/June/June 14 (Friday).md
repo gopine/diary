@@ -7,3 +7,5 @@ GSAP seems to be a powerful and flexible option.
 The animations are smooth and performant on different devices.
 
 Should be able to use it more effectively.
+
+Creating a simple animation using GSAP.
