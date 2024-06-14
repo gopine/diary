@@ -9,3 +9,5 @@ The animations are smooth and performant on different devices.
 Should be able to use it more effectively.
 
 Creating a simple animation using GSAP.
+
+Trying to integrate the animation into a React component.
