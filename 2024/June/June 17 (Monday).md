@@ -9,3 +9,5 @@ The biggest selling point is that can be used in any web project.
 Need to look at some real world examples.
 
 Experimenting with creating a custom web component.
+
+Learning how to style web components using CSS shadow DOM.
