@@ -7,3 +7,5 @@ Seems like `useDeferredValue` and `useTransition` could really improve perceived
 Going to experiment with them on the product listing page.
 
 Aiming to reduce the loading states for better UX."
+
+"Successfully implemented `useTransition`! Noticeable improvement in responsiveness during search filtering."
