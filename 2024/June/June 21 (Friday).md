@@ -5,3 +5,7 @@
 Ran an audit with Lighthouse and found several issues.
 
 Focusing on semantic HTML and ARIA attributes today."
+
+"Fixed most of the accessibility issues identified by Lighthouse.
+
+Improved the overall score significantly."
