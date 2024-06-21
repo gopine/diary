@@ -9,3 +9,5 @@ Focusing on semantic HTML and ARIA attributes today."
 "Fixed most of the accessibility issues identified by Lighthouse.
 
 Improved the overall score significantly."
+
+"Investigating a performance bottleneck on the checkout page."
