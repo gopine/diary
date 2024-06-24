@@ -9,3 +9,7 @@ Vite seems more suitable for our needs with faster build and hot reloading."
 "Started the migration process to Vite.
 
 Encountered a few compatibility issues with some older libraries."
+
+"Resolved all the compatibility issues.
+
+The Vite build is significantly faster."
