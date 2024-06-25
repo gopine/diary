@@ -7,3 +7,5 @@ This should improve the UX in spotty network environments.
 Starting with caching static assets."
 
 "Implemented a basic service worker that caches static assets."
+
+"Testing the service worker on different devices and browsers."
