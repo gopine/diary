@@ -9,3 +9,5 @@ Implemented versioning for cache storage."
 "Cache invalidation issue is now resolved.
 
 Service worker is working as expected."
+
+"Preparing a blog post about our experience migrating to Vite."
