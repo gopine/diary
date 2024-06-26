@@ -9,3 +9,7 @@ Starting with caching static assets."
 "Implemented a basic service worker that caches static assets."
 
 "Testing the service worker on different devices and browsers."
+
+"Found a bug with the cache invalidation strategy.
+
+Need to fix this tomorrow."
