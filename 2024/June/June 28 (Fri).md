@@ -9,3 +9,5 @@ Thinking about how it could simplify our backend deployments.
 The unified approach to Javascript development is quite appealing.
 
 Investigated using WebAssembly for a computationally intensive part of our image processing.
+
+Finished setting up the Next.js project with Typescript.
