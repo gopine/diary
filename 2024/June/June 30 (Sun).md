@@ -7,3 +7,5 @@ The global distribution network seems like a great fit for our static assets.
 Considering migrating our current CDN solution to Deno Deploy.
 
 The tight integration with Typescript is definitely a plus.
+
+Looked at ways to optimize the loading speed of our static image assets.
