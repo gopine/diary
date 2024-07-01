@@ -1,0 +1,1 @@
+Spent some time reading about Deno Deploy and its serverless functions.
