@@ -9,3 +9,5 @@ This should simplify our styling and reduce the need for JavaScript-based soluti
 Excited to start implementing this in our next project.
 
 Attended an online talk about the new features in ES2024.
+
+Brainstormed on how to integrate a new UI component library.
