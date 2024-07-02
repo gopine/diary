@@ -11,3 +11,5 @@ Overall, it's looking promising for future scalability.
 Investigated different caching strategies for our GraphQL API.
 
 Fixed a bug in the authentication middleware.
+
+Started working on improving our unit test coverage.
