@@ -1,0 +1,1 @@
+Explored the use of service workers for offline support in our PWA.
