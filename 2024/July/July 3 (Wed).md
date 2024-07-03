@@ -7,3 +7,5 @@ The caching strategies need to be carefully planned to avoid stale data.
 Testing on various devices and network conditions is crucial.
 
 This could significantly improve the user experience in areas with poor connectivity.
+
+Debugged some issue with service worker lifecycle.
