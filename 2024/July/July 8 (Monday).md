@@ -9,3 +9,5 @@ AWS Lambda seems like the most popular choice.
 Need to estimate costs.
 
 Lambda functions could significantly reduce our infrastructure overhead.
+
+Figuring out the correct IAM permissions for Lambda is tricky.
