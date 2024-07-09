@@ -7,3 +7,5 @@ Implementing the Intersection Observer API.
 Hope this improves the initial load time.
 
 Lazy loading is noticeably improving page load speed.
+
+Still need to fine-tune the threshold for the Intersection Observer.
