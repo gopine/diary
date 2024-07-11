@@ -1,0 +1,7 @@
+# July 11, 2024
+
+Looking into improving our accessibility score with ARIA attributes.
+
+Testing with screen readers.
+
+It's important to provide better experiences for all users.
