@@ -1,0 +1,1 @@
+Still struggling with understanding the useSelector hook properly.
