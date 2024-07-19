@@ -7,3 +7,5 @@ The ability to fetch only the required data is very appealing.
 Exploring different GraphQL client libraries.
 
 GraphQL schemas can become quite complex.
+
+Learning about GraphQL resolvers and data loaders.
