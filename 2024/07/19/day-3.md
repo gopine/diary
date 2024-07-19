@@ -1,0 +1,1 @@
+Investigating the use of GraphQL as an alternative to REST APIs.
