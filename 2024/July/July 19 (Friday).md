@@ -9,3 +9,5 @@ Exploring different GraphQL client libraries.
 GraphQL schemas can become quite complex.
 
 Learning about GraphQL resolvers and data loaders.
+
+GraphQL seems like a steep learning curve, but worth it in the long run.
