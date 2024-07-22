@@ -1,0 +1,1 @@
+Started the week exploring WebAssembly for improving performance of a data processing module.
