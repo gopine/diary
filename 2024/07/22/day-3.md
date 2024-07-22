@@ -1,0 +1,1 @@
+Need to investigate browser compatibility and security implications.
