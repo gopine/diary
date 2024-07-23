@@ -1,0 +1,9 @@
+# July 23, 2024
+
+Diving deeper into serverless functions using AWS Lambda.
+
+Aiming to deploy a new API endpoint for image resizing.
+
+Working on optimizing function execution time and reducing cold starts.
+
+Thinking about using container images for more complex dependencies.
