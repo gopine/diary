@@ -9,3 +9,5 @@ Initial tests show a significant speed boost compared to pure JavaScript.
 Need to investigate browser compatibility and security implications.
 
 Successfully integrated WASM into a small prototype, the performance boost is undeniable.
+
+Ran into some issues with debugging WASM modules, but found some helpful tools online.
