@@ -1,0 +1,1 @@
+Spent the morning debugging a weird issue with the new image resizing endpoint.
