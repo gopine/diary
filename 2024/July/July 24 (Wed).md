@@ -9,3 +9,5 @@ Fixed the leak and deployed a new version.
 Happy to see the monitoring metrics showing improvement.
 
 Implemented some basic monitoring for the Lambda function using CloudWatch.
+
+Started exploring advanced features of serverless functions such as layers.
