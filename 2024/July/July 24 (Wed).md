@@ -7,3 +7,5 @@ Turns out it was a memory leak in the image processing library.
 Fixed the leak and deployed a new version.
 
 Happy to see the monitoring metrics showing improvement.
+
+Implemented some basic monitoring for the Lambda function using CloudWatch.
