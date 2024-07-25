@@ -1,0 +1,9 @@
+# July 25, 2024
+
+Attending a virtual conference on modern web development practices.
+
+Lots of talks on micro-frontends and component-based architectures.
+
+Feeling inspired to refactor a legacy application.
+
+The talk on performance budgeting was particularly insightful.
