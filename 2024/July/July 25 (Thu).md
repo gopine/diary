@@ -7,3 +7,5 @@ Lots of talks on micro-frontends and component-based architectures.
 Feeling inspired to refactor a legacy application.
 
 The talk on performance budgeting was particularly insightful.
+
+The talk on accessibility was a good reminder to focus on inclusive design.
