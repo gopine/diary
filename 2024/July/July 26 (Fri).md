@@ -9,3 +9,5 @@ Redux feels too verbose for some use cases.
 Need to consider the learning curve for the team.
 
 Zustand seems promising and easy to integrate.
+
+Discussed the state management options with the team.
