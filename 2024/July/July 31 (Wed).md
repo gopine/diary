@@ -9,3 +9,5 @@ Investigating opportunities for caching and database optimization.
 Considering using Redis for caching frequently accessed data.
 
 Implemented caching for product details using Redis.
+
+Observed a significant improvement in response times.
