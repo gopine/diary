@@ -7,3 +7,5 @@ Analyzing the slowest endpoints using profiling tools.
 Investigating opportunities for caching and database optimization.
 
 Considering using Redis for caching frequently accessed data.
+
+Implemented caching for product details using Redis.
