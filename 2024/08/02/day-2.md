@@ -1,0 +1,1 @@
+Fetching products with GraphQL is noticeably faster.
