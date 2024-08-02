@@ -9,3 +9,5 @@ Building a proof-of-concept with a small subset of the data.
 Need to evaluate the performance impact and complexity.
 
 Created a basic GraphQL schema for products.
+
+Fetching products with GraphQL is noticeably faster.
