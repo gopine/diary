@@ -1,0 +1,1 @@
+Experimenting with server-side rendering (SSR) in Next.js for improved SEO and initial page load performance.
