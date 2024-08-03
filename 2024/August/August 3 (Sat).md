@@ -7,3 +7,5 @@ Implementing SSR for the product listing page.
 Analyzing the trade-offs between SSR and static site generation.
 
 Need to configure caching for SSR pages.
+
+Implemented server-side rendering for a few pages.
