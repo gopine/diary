@@ -1,0 +1,1 @@
+The initial page load is much faster with SSR.
