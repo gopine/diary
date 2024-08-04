@@ -9,3 +9,5 @@ Analyzing the trade-offs between SSR and static site generation.
 Need to configure caching for SSR pages.
 
 Implemented server-side rendering for a few pages.
+
+The initial page load is much faster with SSR.
