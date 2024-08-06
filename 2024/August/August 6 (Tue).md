@@ -7,3 +7,5 @@ Considering using WebSockets or Server-Sent Events (SSE).
 Building a prototype with WebSockets using Socket.IO.
 
 Need to handle scaling and reliability.
+
+Integrated WebSockets for real-time updates.
