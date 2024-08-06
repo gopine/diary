@@ -9,3 +9,5 @@ Building a prototype with WebSockets using Socket.IO.
 Need to handle scaling and reliability.
 
 Integrated WebSockets for real-time updates.
+
+The prototype with WebSockets is working well.
