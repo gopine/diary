@@ -9,3 +9,5 @@ Automating the build, test, and deployment steps.
 Aiming for continuous delivery.
 
 Configured a basic CI/CD pipeline with GitHub Actions.
+
+Automated testing as part of the pipeline.
