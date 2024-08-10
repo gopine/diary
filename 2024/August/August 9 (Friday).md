@@ -9,3 +9,5 @@ Also updated the build process to use Webpack 5 for faster compilation times.
 Going to try implementing lazy loading for images to improve performance.
 
 Successfully implemented lazy loading for images!
+
+Deployed a minor fix to production.
