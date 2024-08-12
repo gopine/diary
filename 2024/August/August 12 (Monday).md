@@ -9,3 +9,5 @@ Now I can finally focus on connecting the component to the API and displaying th
 Also, meetings all day.
 
 Meeting ran over, behind schedule.
+
+Finally got the user profile data to display correctly!
