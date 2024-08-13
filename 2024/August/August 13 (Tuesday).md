@@ -9,3 +9,5 @@ Will try using React DevTools to profile the application and identify the culpri
 The waterfall diagram should give some hints.
 
 Identified the bottleneck, it was a missing `useMemo` hook!
+
+Performance improved significantly after adding `useMemo`.
