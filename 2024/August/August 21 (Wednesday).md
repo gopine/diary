@@ -9,3 +9,5 @@ Seems like a much cleaner approach.
 Need to experiment more with different container sizes.
 
 Debugging a strange issue with my React component's state update.
+
+Successfully implemented the container queries in the project.
