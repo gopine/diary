@@ -9,3 +9,5 @@ The component syntax seems a bit different.
 Let's see if it provides more performance compared to React.
 
 Svelte's reactivity is surprisingly intuitive.
+
+Built a small demo app with Svelte.
