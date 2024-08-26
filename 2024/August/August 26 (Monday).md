@@ -9,3 +9,5 @@ The codebase will be much more maintainable.
 Hopefully, it won't break everything.
 
 Fixed a few bugs after migrating to ES modules.
+
+Refactoring is going well.
