@@ -9,3 +9,5 @@ Identifying areas for optimization.
 Reducing the initial load time is a priority.
 
 Optimized some images.
+
+Improved performance in a React component.
