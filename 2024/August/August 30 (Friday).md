@@ -9,3 +9,5 @@ Need to see whether this is a good fit for our company.
 It is interesting though.
 
 Deno seems good.
+
+Deno seems like it could replace nodejs someday.
