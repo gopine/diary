@@ -7,3 +7,5 @@ Starting with the least critical services first.
 Hopefully, it won't cause too much downtime.
 
 Monitoring the performance metrics closely.
+
+Microservice migration started.
