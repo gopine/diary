@@ -7,3 +7,5 @@ Encountered a few network configuration issues.
 The security groups were not properly configured.
 
 Fixed the issues and resumed the migration.
+
+Network issue solved.
