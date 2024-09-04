@@ -9,3 +9,5 @@ The security groups were not properly configured.
 Fixed the issues and resumed the migration.
 
 Network issue solved.
+
+AWS migration is progressing steadily.
