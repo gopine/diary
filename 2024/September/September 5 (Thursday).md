@@ -9,3 +9,5 @@ The new dashboard is much more informative.
 We are using Prometheus for our monitoring.
 
 Configured Prometheus alerts.
+
+Monitoring dashboard is complete.
