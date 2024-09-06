@@ -7,3 +7,5 @@ Slow queries are causing performance issues.
 Using the query analyzer to identify the bottlenecks.
 
 Adding indexes to the frequently accessed columns.
+
+Database optimization is important.
