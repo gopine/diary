@@ -9,3 +9,5 @@ Using the query analyzer to identify the bottlenecks.
 Adding indexes to the frequently accessed columns.
 
 Database optimization is important.
+
+Optimized a few slow queries.
