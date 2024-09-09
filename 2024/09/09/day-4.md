@@ -1,0 +1,1 @@
+Still a bit confused about when to use Shadow DOM vs.
