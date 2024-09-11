@@ -7,3 +7,5 @@ The dependency array was the culprit, as usual.
 Learned a valuable lesson about immutability and object equality.
 
 Should probably look into useCallback more seriously.
+
+Got around to studying the new react server component.
