@@ -9,3 +9,5 @@ Learned a valuable lesson about immutability and object equality.
 Should probably look into useCallback more seriously.
 
 Got around to studying the new react server component.
+
+Thinking about using redux toolkit for state management.
