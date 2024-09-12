@@ -9,3 +9,5 @@ The cold start issue is a real concern.
 Need to research strategies for optimization and cost reduction.
 
 Debugging serverless function is a pain in the neck.
+
+Start learning more about Infrastructure as Code using Terraform.
