@@ -9,3 +9,5 @@ Still trying to wrap my head around the new decorators.
 Wondering how long it will take for browsers to fully support these features.
 
 Looking into the current browser compatibility issue of ES2024.
+
+Trying out the pipeline operator with Babel plugin.
