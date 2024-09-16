@@ -9,3 +9,5 @@ Using a screen reader to test my website.
 Realizing how much I still need to learn.
 
 Found an interesting tool for testing accessibility issue.
+
+Added more ARIA attributes to my web application.
