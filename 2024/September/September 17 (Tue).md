@@ -7,3 +7,5 @@ Spent some time configuring the tsconfig.json file.
 Really appreciate the type safety it provides.
 
 Still getting used to the syntax and advanced types.
+
+Struggling with the different types of Typescript.
