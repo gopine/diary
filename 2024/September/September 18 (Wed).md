@@ -9,3 +9,5 @@ The schema definition language seems relatively straightforward.
 Looking forward to using it in a real-world project.
 
 Created my first schema for GraphQL server.
+
+Start using Apollo client to query data from server.
