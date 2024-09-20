@@ -9,3 +9,5 @@ I'm considering converting my web app into a PWA.
 Need to investigate the caching strategies.
 
 Started implementing service worker to the web app.
+
+Made progress on caching static files.
