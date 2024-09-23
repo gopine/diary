@@ -7,3 +7,5 @@ Setting up my first test suite.
 The API seems quite intuitive.
 
 Hopefully, this will catch more bugs before they reach production.
+
+Writing some basic tests using Playwright.
