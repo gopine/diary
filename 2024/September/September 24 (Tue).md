@@ -7,3 +7,5 @@ They seem promising for responsive design without relying on media queries as mu
 I think it can make components much more reusable and adaptable.
 
 Need to experiment with it more to see the real-world impact.
+
+I should start using container queries more often.
