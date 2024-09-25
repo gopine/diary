@@ -9,3 +9,5 @@ The cold start problem is still a concern, but I guess I will see how it goes.
 Maybe this tech will be a useful tool for creating internal applications.
 
 Trying to optimize image loading performance by implementing lazy loading.
+
+Debugging a weird issue with a third-party library.
