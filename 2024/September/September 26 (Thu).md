@@ -9,3 +9,5 @@ I wonder how I can utilize it for image processing on the web.
 This requires more investigation and might be complicated.
 
 Need to spend more time on WebAssembly.
+
+Implementing a dark mode toggle for the website.
