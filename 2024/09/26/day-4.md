@@ -1,0 +1,1 @@
+Finished the dark mode implementation and it looks good.
