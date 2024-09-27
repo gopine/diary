@@ -11,3 +11,5 @@ This requires more investigation and might be complicated.
 Need to spend more time on WebAssembly.
 
 Implementing a dark mode toggle for the website.
+
+Finished the dark mode implementation and it looks good.
