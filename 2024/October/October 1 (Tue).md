@@ -9,3 +9,5 @@ It's very promising since I like static typing.
 I'll definitely start using it in the future.
 
 Trying out the new TypeScript features.
+
+Reviewing code changes.
