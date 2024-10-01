@@ -9,3 +9,5 @@ These tasks are essential for a good user experience.
 This should fix some problems the end users are reporting.
 
 Optimized images to improve loading speed.
+
+Checking emails and planning the week ahead.
