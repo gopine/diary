@@ -9,3 +9,5 @@ Should consider using Relay or Apollo on client side as well.
 The design phase is very important for avoiding problems in the future.
 
 Sketching out the GraphQL schema.
+
+Attending a virtual conference on web development.
