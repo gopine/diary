@@ -9,3 +9,5 @@ I think this will simplify a lot of our component styling.
 Need to refactor existing media queries to make good use of it.
 
 I hope all browsers will catch up to speed soon.
+
+Finally got the hang of the container queries.
