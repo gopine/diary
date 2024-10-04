@@ -11,3 +11,5 @@ Need to find a good library to handle the boilerplate.
 Maybe StencilJS is the way to go.
 
 Found a good tutorial on building accessible Web Components.
+
+Experimented with using LitElement for Web Components.
