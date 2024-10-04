@@ -1,0 +1,1 @@
+I hope all browsers will catch up to speed soon.
