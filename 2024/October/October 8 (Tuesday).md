@@ -7,3 +7,5 @@ The ability to install the app and use it offline is a huge benefit.
 Service workers seem complicated, but powerful.
 
 Looking at Workbox to simplify the process.
+
+Set up a basic service worker using Workbox.
