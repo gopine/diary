@@ -9,3 +9,5 @@ Service workers seem complicated, but powerful.
 Looking at Workbox to simplify the process.
 
 Set up a basic service worker using Workbox.
+
+Added a manifest file to make the app installable.
