@@ -11,3 +11,5 @@ Also thinking about code splitting to reduce initial load time.
 Implemented lazy loading for images using the Intersection Observer API.
 
 Tried a code splitting, but it breaks existing tests.
+
+Fixed the tests and finished code splitting.
