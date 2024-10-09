@@ -9,3 +9,5 @@ The browser security is pretty strict.
 Finally solved it by configuring the server to send the correct headers.
 
 Finally got the CORS issues sorted out.
+
+Documenting the CORS configuration.
