@@ -9,3 +9,5 @@ Need to find a good use case for it.
 Maybe image processing or physics simulations.
 
 Found a WebAssembly module for image resizing.
+
+Successfully integrated the WebAssembly module.
