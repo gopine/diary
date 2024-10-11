@@ -9,3 +9,5 @@ Automated testing can catch many common accessibility issues.
 Need to integrate it into our CI/CD pipeline.
 
 Integrated Axe into our CI/CD pipeline.
+
+Fixed some of the accessibility issues reported by Axe.
