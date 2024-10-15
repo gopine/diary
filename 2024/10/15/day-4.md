@@ -1,0 +1,1 @@
+Single SPA requires a lot of change.
