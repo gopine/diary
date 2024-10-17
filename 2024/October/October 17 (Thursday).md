@@ -7,3 +7,5 @@ These components are rendered on the server during the build process.
 It seems promising for improving our application's performance.
 
 I'll need to dive deeper into data fetching strategies within server components.
+
+Investigating Next.js 14 for its improved caching mechanisms.
