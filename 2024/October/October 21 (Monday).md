@@ -7,3 +7,5 @@ Real-time updates are becoming increasingly important.
 Understanding the nuances of error handling and data consistency is crucial.
 
 Need to investigate alternative subscription libraries as well.
+
+WebSockets can be complicated.
