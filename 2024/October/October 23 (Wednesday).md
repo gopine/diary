@@ -7,3 +7,5 @@ It's great that mutations can now be collocated with components.
 Need to investigate the trade offs with API routes.
 
 This simplifies form handling significantly.
+
+Server actions can improve DX.
