@@ -9,3 +9,5 @@ The potential for using Rust or C++ for web development is exciting.
 I'm looking at different compilers and toolchains.
 
 WebAssembly's performance is remarkable.
+
+Security considerations are paramount, though.
