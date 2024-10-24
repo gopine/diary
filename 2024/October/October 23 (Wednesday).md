@@ -9,3 +9,5 @@ Need to investigate the trade offs with API routes.
 This simplifies form handling significantly.
 
 Server actions can improve DX.
+
+Careful handling of errors is required.
