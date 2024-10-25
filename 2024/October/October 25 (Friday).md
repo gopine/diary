@@ -9,3 +9,5 @@ Setting up a monorepo will help us share code across multiple projects.
 Need to consider the build times and caching strategies.
 
 Nx seems to offer richer features.
+
+Turborepo is simpler to configure.
