@@ -7,3 +7,5 @@ Turborepo and Nx seem to be the leading contenders.
 Setting up a monorepo will help us share code across multiple projects.
 
 Need to consider the build times and caching strategies.
+
+Nx seems to offer richer features.
