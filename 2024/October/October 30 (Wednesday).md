@@ -7,3 +7,5 @@ The automatic waiting and debugging tools are very helpful.
 Writing reliable tests is crucial for maintaining application quality.
 
 Need to integrate it into our CI/CD pipeline.
+
+Playwright's browser support is comprehensive.
