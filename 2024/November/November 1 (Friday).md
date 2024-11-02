@@ -9,3 +9,5 @@ I'm interested in using it for our new microservices architecture.
 Need to investigate Apollo Federation and other alternatives.
 
 Federated GraphQL simplifies data aggregation.
+
+The complexity can be daunting.
