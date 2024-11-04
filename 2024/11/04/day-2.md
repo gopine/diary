@@ -1,0 +1,1 @@
+It looks promising for responsive layouts.
