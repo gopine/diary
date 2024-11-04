@@ -1,0 +1,1 @@
+Started the week by diving into the new CSS container queries spec.
