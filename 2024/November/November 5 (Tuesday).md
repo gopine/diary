@@ -7,3 +7,5 @@ Implemented lazy loading for images using the Intersection Observer API to impro
 Also, investigated different approaches to implement infinite scrolling.
 
 Finally got infinite scroll working.
+
+Improved the error handling for the API requests.
