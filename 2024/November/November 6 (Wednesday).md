@@ -7,3 +7,5 @@ It's fascinating to see how we can bring near-native performance to web applicat
 I started a small project to compile a simple C++ function to WebAssembly.
 
 Successfully compiled my first C++ function to WebAssembly.
+
+The WebAssembly project is going well.
