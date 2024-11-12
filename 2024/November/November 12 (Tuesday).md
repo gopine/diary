@@ -7,3 +7,5 @@ Implemented ARIA attributes and semantic HTML to enhance the experience for user
 Tested with screen readers to identify and fix any issues.
 
 Testing websites for accessibility is hard.
+
+Improved some accessibility features.
