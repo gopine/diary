@@ -9,3 +9,5 @@ It's still early days, but the potential is massive.
 I started by rendering a simple triangle.
 
 Successfully rendered a simple triangle.
+
+WebGPU is exciting.
