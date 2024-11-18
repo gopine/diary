@@ -7,3 +7,5 @@ This new API offers improved performance and control over GPU resources for web 
 It's still early days, but the potential is massive.
 
 I started by rendering a simple triangle.
+
+Successfully rendered a simple triangle.
