@@ -5,3 +5,5 @@ Focused on optimizing website performance using techniques like code splitting a
 Analyzed the bundle size with Webpack Bundle Analyzer and removed unused code.
 
 Saw a significant improvement in load time.
+
+Bundle size is now optimized.
