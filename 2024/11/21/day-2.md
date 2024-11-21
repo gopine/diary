@@ -1,0 +1,1 @@
+I started migrating a small component from React to Svelte.
