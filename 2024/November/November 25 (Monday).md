@@ -9,3 +9,5 @@ Thinking about how to apply some of the serverless concepts to our existing infr
 Meetings are too long.
 
 Need more time to code.
+
+We should use serverless.
