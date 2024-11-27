@@ -7,3 +7,5 @@ Fascinating technology, potentially game-changing.
 The performance benefits for certain tasks are undeniable.
 
 I wonder what the implications are.
+
+WASM is so interesting.
