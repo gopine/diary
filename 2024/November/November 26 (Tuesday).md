@@ -9,3 +9,5 @@ The TypeScript support is a big plus.
 Need to do some benchmarking to compare performance.
 
 Deno deploy sounds promising.
+
+Trying to use it on pet projects.
