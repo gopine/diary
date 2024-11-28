@@ -9,3 +9,5 @@ The performance benefits for certain tasks are undeniable.
 I wonder what the implications are.
 
 WASM is so interesting.
+
+I might be able to use WASM in my game development projects.
