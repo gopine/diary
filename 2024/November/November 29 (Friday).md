@@ -7,3 +7,5 @@ Material UI, Ant Design, and Chakra UI all seem promising.
 Trying to find one that fits the project's aesthetic and functionality requirements.
 
 Chakra UI looks promising.
+
+Hard to choose from so many options.
