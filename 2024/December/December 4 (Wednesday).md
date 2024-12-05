@@ -9,3 +9,5 @@ Thinking about potential use cases in our data visualization library.
 Seems like a good way to offload computationally intensive tasks."
 
 "Debugging some rendering issues related to CSS Grid."
+
+"Read an interesting article on serverless functions with Deno."
