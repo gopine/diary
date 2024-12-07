@@ -11,3 +11,5 @@ Need to prioritize automated accessibility testing."
 "Learned about the new 'inert' attribute."
 
 "Attended a webinar about GraphQL best practices."
+
+"Finished setting up CI/CD pipeline."
