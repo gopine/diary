@@ -7,3 +7,5 @@ The utility-first approach is quite different but potentially very efficient.
 Concerns about readability and long class names remain.
 
 Need to benchmark performance against traditional CSS."
+
+"Discussed performance optimization strategies with the team."
