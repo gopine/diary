@@ -1,0 +1,1 @@
+"Thinking about different architecture patterns, to use in the next project."
