@@ -1,0 +1,1 @@
+"Started implementing a POC with RabbitMQ."
