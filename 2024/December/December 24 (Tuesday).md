@@ -7,3 +7,5 @@ Automating deployments to Netlify should save some time.
 Still need to configure environment variables properly.
 
 Trying to move away from manual deployments.
+
+The CI/CD pipeline is failing because of a missing environment variable.
