@@ -9,3 +9,5 @@ Still need to configure environment variables properly.
 Trying to move away from manual deployments.
 
 The CI/CD pipeline is failing because of a missing environment variable.
+
+Fixed the CI/CD issue, turns out I forgot to add the Netlify access token.
