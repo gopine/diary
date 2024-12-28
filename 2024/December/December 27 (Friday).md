@@ -9,3 +9,5 @@ Dealing with the complexities of `getStaticProps` and `getServerSideProps`.
 Considering it for an upcoming e-commerce project.
 
 Setting up API routes in Next.js is surprisingly easy.
+
+Getting a handle on Next.js image optimization.
