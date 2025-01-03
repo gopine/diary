@@ -9,3 +9,5 @@ Using Webpack's `import()` syntax.
 Hoping to reduce the initial bundle size.
 
 Implemented code splitting for a large component.
+
+Verified the reduced bundle size after code splitting.
