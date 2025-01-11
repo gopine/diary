@@ -7,3 +7,5 @@ Added ARIA attributes and improved keyboard navigation.
 I will use an automated tool to check for the violations of the WCAG.
 
 Refactored some legacy JavaScript code.
+
+Discussed project timelines with the team.
