@@ -7,3 +7,5 @@ Adding a service worker for offline support.
 Push notification integration looks interesting.
 
 Registered a service worker for offline caching.
+
+Sending push notifications to users.
