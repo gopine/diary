@@ -7,3 +7,5 @@ They should help improve my coding speed.
 I am planning to integrate GitHub Copilot.
 
 Installing and configuring GitHub Copilot.
+
+Experimenting with code completion.
