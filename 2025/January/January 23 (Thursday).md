@@ -7,3 +7,5 @@ Breaking down the application into smaller, independent modules.
 Each module can be managed by a different team.
 
 Created a container application for the microfrontends.
+
+Deploying the microfrontends independently.
