@@ -1,0 +1,1 @@
+Integrating the image processing function into the website.
