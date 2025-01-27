@@ -1,0 +1,9 @@
+# January 27, 2025
+
+Investigating GraphQL as an alternative to REST APIs.
+
+The typed schema is appealing.
+
+The ability to fetch only the required data is a huge win.
+
+Seems more complicated to set up initially.
