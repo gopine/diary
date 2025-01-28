@@ -7,3 +7,5 @@ Service workers seem like a black box at first.
 The offline capabilities are really compelling.
 
 Trying to implement a basic caching strategy.
+
+Got the service worker caching the main assets.
