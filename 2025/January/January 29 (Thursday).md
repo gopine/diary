@@ -9,3 +9,5 @@ Improved syntax for destructuring assignments is helpful.
 These upgrades are increasing the maintainability of the code.
 
 Started using async iterators in a data processing pipeline.
+
+Found a useful polyfill for older browsers.
