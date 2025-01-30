@@ -9,3 +9,5 @@ The performance gains could be significant for certain tasks.
 Still feels very low-level compared to JavaScript.
 
 Compiled a simple C++ program to Wasm.
+
+Integrating Wasm with JavaScript is surprisingly straightforward.
