@@ -1,0 +1,1 @@
+Custom elements are a powerful way to extend HTML.
