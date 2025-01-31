@@ -1,0 +1,1 @@
+Shadow DOM provides excellent encapsulation.
