@@ -7,3 +7,5 @@ Trying to reduce the initial bundle size.
 Dynamic imports are proving useful.
 
 Google Lighthouse reports significant improvements.
+
+Implemented code splitting for the main routes.
