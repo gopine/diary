@@ -9,3 +9,5 @@ Dynamic imports are proving useful.
 Google Lighthouse reports significant improvements.
 
 Implemented code splitting for the main routes.
+
+Optimized image loading with lazy loading.
