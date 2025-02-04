@@ -7,3 +7,5 @@ The setup is complex but promising.
 Aiming to create a simple VR application.
 
 The possibilities for interactive content are enormous.
+
+Successfully rendered a 3D model in WebXR.
