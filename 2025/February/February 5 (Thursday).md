@@ -9,3 +9,5 @@ Trying to create a unique visual effect.
 The flexibility it provides is really impressive.
 
 Created a custom CSS gradient with Houdini.
+
+Need to find more practical applications.
