@@ -7,3 +7,5 @@ Working on understanding smart contracts.
 Thinking about decentralized authentication methods.
 
 The security benefits are worth exploring.
+
+Deployed a simple smart contract to a test network.
