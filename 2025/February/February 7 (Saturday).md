@@ -7,3 +7,5 @@ Module Federation is quite exciting.
 It allows sharing code between different applications.
 
 This will definitely improve code reuse.
+
+Configured Module Federation for two of our applications.
