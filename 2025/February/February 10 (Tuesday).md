@@ -9,3 +9,5 @@ The speed of development is impressive.
 Might be useful for internal tools.
 
 Successfully built a basic CRUD application.
+
+The lack of customization options is a limitation.
