@@ -11,3 +11,5 @@ Need to dive deeper into the tooling and ecosystem around WASM.
 Hope it can reduce server load for the team.
 
 Investigated different WASM compilers; Emscripten seems like a good starting point.
+
+Got a basic WASM module running in a React component.
