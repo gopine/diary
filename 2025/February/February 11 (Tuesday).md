@@ -9,3 +9,5 @@ I'm particularly interested in its potential for speeding up image processing ta
 Need to dive deeper into the tooling and ecosystem around WASM.
 
 Hope it can reduce server load for the team.
+
+Investigated different WASM compilers; Emscripten seems like a good starting point.
