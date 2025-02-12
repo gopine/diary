@@ -9,3 +9,5 @@ I'm looking into using them for processing user uploads.
 Hoping this helps with the scalability of the team's services.
 
 It is important to reduce operational overhead.
+
+Deployed a simple image resizing function on AWS Lambda.
