@@ -11,3 +11,5 @@ Hoping this helps with the scalability of the team's services.
 It is important to reduce operational overhead.
 
 Deployed a simple image resizing function on AWS Lambda.
+
+Figured out how to trigger the Lambda function from the web app using API Gateway.
