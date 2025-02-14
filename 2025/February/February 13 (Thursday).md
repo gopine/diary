@@ -11,3 +11,5 @@ I'm particularly interested in the performance benefits.
 I think this is a very promising architecture for future web apps.
 
 Experimenting with Next.js for static site generation.
+
+Successfully built a basic blog with Next.js and Markdown.
