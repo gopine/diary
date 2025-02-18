@@ -7,3 +7,5 @@ It is a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and
 I think I'm going to spend some time on it.
 
 It could be very interesting to create small tools.
+
+Set up a Deno development environment.
