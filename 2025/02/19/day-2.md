@@ -1,0 +1,1 @@
+It is interesting to see that businesses are accelerating development speed with those platforms.
