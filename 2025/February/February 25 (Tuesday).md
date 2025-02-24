@@ -1,11 +1,11 @@
 # February 25, 2025
 
-Today was all about diving deeper into serverless functions with Deno.
+Today was all about diving deeper into the nuances of serverless functions.
 
-It's amazing how quickly you can deploy microservices without managing servers.
+I experimented with integrating a new edge computing framework, which promises a significant performance boost for our image processing pipeline.
 
-I also spent some time experimenting with Astro, trying to build a static site with dynamic content fetching.
+The shift towards WebAssembly components feels more real than ever after the initial tests, and I'm optimistic about its potential.
 
-The component islands architecture seems promising for performance.
+Debugging a CORS issue took longer than expected, but ultimately, it was a good reminder of the importance of precise configuration.
 
-Finally, I followed a few tutorials on integrating WebAssembly modules for computationally intensive tasks on the client-side.
+Finally, I started exploring the implications of the upcoming Privacy Sandbox changes for ad tech.
