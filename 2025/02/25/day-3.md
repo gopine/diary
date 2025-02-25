@@ -1,0 +1,1 @@
+Today was all about diving deeper into serverless functions with Deno.
