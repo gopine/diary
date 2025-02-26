@@ -1,9 +1,9 @@
 # February 27, 2025
 
-Today was all about diving deeper into serverless functions and how they're reshaping backend development.
+Today I dove deeper into Solana's program architecture, specifically focusing on Anchor.
 
-I experimented with Deno Deploy, finding its simplicity quite refreshing compared to some of the more established platforms.
+The framework seems promising for streamlining smart contract development, but the learning curve is definitely steep.
 
-The buzz around WebAssembly continues, and I'm starting to see more practical applications moving beyond simple browser modules.
+Spent a few hours debugging a CPI call that kept failing, finally traced it back to a mismatched account key.
 
-Thinking about how these technologies can be woven together to create truly scalable and efficient web applications.
+Need to be more careful with those account arguments!
