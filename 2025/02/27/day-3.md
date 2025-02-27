@@ -1,0 +1,1 @@
+Finally got the Solana program compiling without errors after wrestling with Anchor.
