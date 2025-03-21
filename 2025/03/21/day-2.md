@@ -1,0 +1,1 @@
+Understanding how programs interact and transfer tokens is crucial for building secure and efficient decentralized applications.
