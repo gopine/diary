@@ -1,0 +1,1 @@
+Today I dove deeper into Solana's program architecture, specifically focusing on CPI (Cross-Program Invocation).
